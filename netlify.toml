@@ -71,10 +71,11 @@ GRAPH_OPTIONS = """
         	width: "100%",
         	"physics": {
     			"barnesHut": {
-      				"gravitationalConstant": -32064,
-    				"centralGravity": 0.05,
-    				"springConstant": 0.33,
-    				"avoidOverlap": 1
+      				"gravitationalConstant": -22064,
+    				"centralGravity": 0.1,
+    				"springConstant": 0.23,
+					"springLength": 300
+    				"avoidOverlap": 0.3
     			},
 				"maxVelocity": 50
 			}
