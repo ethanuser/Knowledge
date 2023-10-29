@@ -74,8 +74,6 @@ GRAPH_OPTIONS = """
       				"gravitationalConstant": -22064,
     				"centralGravity": 0.1,
     				"springConstant": 0.23,
-					"springLength": 300
-    				"avoidOverlap": 0.3
     			},
 				"maxVelocity": 50
 			}
