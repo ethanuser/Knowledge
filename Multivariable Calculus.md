@@ -1,37 +1,9 @@
 #Math
-# Derivatives
-* $\displaystyle \exists f(x,y)\rightarrow f_{x}=\frac{ \partial f }{ \partial x },f_{y}=\frac{ \partial f }{ \partial y }$
-* $\displaystyle \frac{ \mathrm{d}f }{ \mathrm{d}s }=\nabla_{\vec{u}}f=\nabla f\cdot \frac{\vec{u}}{\lvert \vec{u}\rvert}=\nabla f\cdot \hat{u}=\lvert \nabla f\rvert\cos \theta$
-	* This is the directional derivative of $\displaystyle f$ in the direction of $\displaystyle \vec{u}$
-# Jacobians
-## General Formula
-###### 2D
-$$
-J = \left\lvert  \frac{ \partial (x,y) }{ \partial (u,v) }  \right\rvert =\begin{bmatrix}
-\frac{ \partial x }{ \partial u } & \frac{ \partial x }{ \partial v } \\
-\frac{ \partial y }{ \partial u }  & \frac{ \partial y }{ \partial v } 
-\end{bmatrix}
-$$
-$$\displaystyle \left\lvert  \frac{ \partial (x,y) }{ \partial (u,v) } \right\rvert=\left\lvert  \frac{ \partial (u,v) }{ \partial (x,y) } \right\rvert^{-1}$$
-###### 3D
-$$
-J = \left\lvert  \frac{ \partial (x,y,z) }{ \partial (u,v,w) }  \right\rvert =\begin{bmatrix}
-\frac{ \partial x }{ \partial u } & \frac{ \partial x }{ \partial v }  & \frac{ \partial x }{ \partial w } \\
-\frac{ \partial y }{ \partial u }  & \frac{ \partial y }{ \partial v } & \frac{ \partial y }{ \partial w }  \\
-\frac{ \partial z }{ \partial u }  & \frac{ \partial z }{ \partial v }  & \frac{ \partial z }{ \partial w }  
-\end{bmatrix}
-$$
-$$
-\left\lvert  \frac{ \partial (x,y,z) }{ \partial (u,v,w) }  \right\rvert = \left\lvert  \frac{ \partial (u,v,w) }{ \partial (x,y,z) }  \right\rvert ^{-1}
-$$
-## Polar/Cylindrical Coordinates
-* $\displaystyle J_{\text{polar}}=J_{\text{cylindrical}}=r$
-* $\displaystyle x=r\cos \theta,y=r\sin \theta,z=z$
-* $\displaystyle r=\sqrt{ x^{2}+y^{2} },\theta=\tan ^{-1}\left( \frac{y}{x} \right),z=z$
-## Spherical Coordinates
-* $\displaystyle J_{\text{spherical}}=\rho^{2}\sin\phi$
-* $\displaystyle x=\rho \sin \phi \cos \theta,y=\rho \sin \phi \sin \theta,z=\rho \cos \phi$
-* $\displaystyle \rho=\sqrt{ x^{2}+y^{2}+z^{2} },\theta=\tan ^{-1}\left( \frac{y}{x} \right),\phi=\cos ^{-1}\left( \frac{z}{\rho} \right)$
+## Topics
+* [[Multivariable Derivatives]]
+* [[Jacobians]]
+* [[Vector Integrals]]
+* [[Fundamental Theorems of Vector Calculus]]
 
 
 
@@ -120,42 +92,6 @@ $$
 			This statement is biconditional if $F$ is on a simply connected domain (no holes)
 		- $\vec F\text{ is conservative in 3D}\rightarrow\nabla\times F=0$
 			This statement is biconditional if $\vec F$ is on a simply connected domain (no holes that prevent any choice of a closed curve from being stretched and deformed to a point without leaving the domain)
-	- Scalar, Vector, and Flux Integrals
-		- $\text{ Scalar line integral:}\int_\mathscr{C}f(x,y,z)\space ds=\int^{t_f}_{t_0}f(\vec r(t))||\vec r'(t)||\space dt$
-			If $f$ represents mass density and $ds$ represents some infinitesimal length of the curve, the scalar line integral would represent the mass of the curve segment
-			Might involve finding a parameterization of $f$ in terms of $t$
-			- Ex: What is the mass of a wire represented by the curve $y=x^3,\{0\le x\le 1\}\text{ (cm)}$ if its mass density is represented by $f(x,y)=\sqrt{1+9xy}\text{ (g/cm)}$
-				$r(t)=\left\langle t,t^3\right\rangle$
-				$M\\=\int_C\sqrt{1+9xy}ds\\=\int_0^1\sqrt{1+9t^4}||\left\langle 1,3t^2\right\rangle||dt\\=\frac{14}{5}g$
-		- $$\text{ Vector line integral:}\int_\mathscr{C}\vec F\cdot\vec t\space ds=\int_\mathscr{C}\vec F\cdot d\vec r=\int_\mathscr{C}(F_1dx+F_2dy+F_3dz)=\\
-		\int_{t_0}^{t_f}\vec F(\vec r(t))\cdot\vec r'(t)\space dt$$
-			$\vec t$ represents the unit tangent vector of the path
-			If $\vec F$ represents a vector field for some force, then the vector line integral represents the work done by the force
-			$dx=x'(t)dt,\space dy=y'(t)dt,\space dz=z'(t)dt$, where $\vec r'(t)=\left\langle x'(t),y'(t),z'(t)\right\rangle$
-		$\int_\mathscr{C}\nabla f\cdot d\vec r=f(S_f)-f(S_0)\\\text{ (Fundamental Theorem of Vector Integrals)}$
-		- $\text{2D Flux:}\int_\mathscr{C}\vec F\cdot\hat n\space ds=\int_{t_0}^{t_f}\vec F(\vec r(t))\cdot \vec N(t)\space dt$
-			$\hat n$ is obtained by rotating $\hat t$ by $\frac{\pi}{2}$ clockwise
-			$\vec t$ can be simplified to just $\vec r'(t)$
-		- $\text{Vortex Field}$
-			$\vec F(x,y)=\left\langle-\frac{y}{x^2+y^2},\frac{x}{x^2+y^2}\right\rangle \text{ if } (x,y)\ne (0,0)$
-			Satisfies the cross-partials condition
-			Not conservative on paths encircling the origin
-		$\vec G(u,v)=(x(u,v),y(u,v),z(u,v))$
-		- $\vec T_u(P)=\frac{\partial \vec G(u,v)}{\partial u},\space \vec T_v(P)=\frac{\partial \vec G(u,v)}{\partial v}$
-			$\vec T_u$ points toward increasing $u$, 
-			$\vec T_v$ points toward increasing $v$, 
-		$\vec N(P)=\vec T_u(P)\times \vec T_v(P)$
-		$\vec N_\text{sphere}(\theta,\phi)=\left\langle-\cos\theta\sin^2\phi,-\sin\theta\sin^2\phi,-\cos\phi\sin\phi\right\rangle$
-		$(\left\langle x,y,z\right\rangle-\vec G(u,v))\cdot \vec N=0\text{ (Equation for tangent plane)}$
-		- $\text{Area}(S)=\int_{v_0}^{v_f}\int_{u_0}^{u_f}||\vec N(u,v)||dudv$
-			$\vec N(u,v)$ is the same as $||\vec T_u\times\vec T_v||$, which represents the area of a small paralleleogram on the surface $S$. This representation happens because $||\vec T_u\times\vec T_v||$ is $||\vec T_u||\space||\vec T_v||\sin(\theta)$, where $\theta$ is the angle between the two vectors that make up the parallelogram. $\vec T_u$ for example, is $\frac{\partial \vec G}{\partial u}\Delta u=\vec G(u+\Delta u, v)-\vec G(u,v)=\vec u$
-		- $\text{Scalar surface integral:}\iint_Sf(x,y,z)\space dS=\int_{v_0}^{v_f}\int_{u_0}^{u_f}f(\vec G(u,v))||\vec N(u,v)||\space dudv$
-			$\iint_CdS=\text{Area}(s)$
-			Is akin to scalar line integral in that it is the mass of the surface if $f$ is mass density
-		- $\text{Vector surface integral/3D Flux: }\iint_S\vec F\cdot \hat n\space dS=\iint_S\vec F\cdot d\vec S=\int_{v_0}^{v_f}\int_{u_0}^{u_f}\vec F(\vec G(u,v))\cdot \vec N(u,v)\space dudv$
-			Physically measures the amount of “stuff” (say electric field or water current) that passes through a surface
-			Is akin to the vector line integral and 2D flux, but for surfaces.
-			Heuristically, $d\vec S=\vec Ndudv,\space dS=||\vec N||dudv$
 	- Fundamental Theorems of Vector Analysis
 		Intuition: https://www.youtube.com/watch?v=hJD8ywGrXks
 		- $\text{Green's Theorem:}\iint_\mathscr{D}\text{curl}_z(\vec F)\space dA=\oint_\mathscr{C}\vec F\cdot d\vec r$

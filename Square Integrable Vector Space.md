@@ -1,5 +1,7 @@
 #Math 
 The [[Vector Spaces|vector space]] of functions that are [[Square Integrable]]
+## Topics
+* [[Hilbert Space]]
 ## $\displaystyle L^{2}\left\{ f:\mathbb{R}^{d} \right\}$
 * WIP
 ## $\displaystyle \mathfrak{B}=\left\{\sin\left( \frac{n\pi}{L}x \right),n \in\mathbb{N}\right\}$

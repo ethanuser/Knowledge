@@ -1,1 +1,2 @@
 #Physics 
+Paradox  that asks what happens when you hook up a bomb to kill a cat to a quantum particle's spin and try to measure the spin (up being detonate and down being defuse). [[Superposition]] suggests that cat is both alive and dead at the same time, but in reality, [[Decoherence]] solves this issue.

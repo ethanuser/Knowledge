@@ -1,0 +1,5 @@
+---
+aliases:
+  - Dihydrolipoyl Transacetylase
+---
+#Biochemistry 

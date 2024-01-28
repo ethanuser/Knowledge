@@ -73,9 +73,9 @@ GRAPH_OPTIONS = """
     			"barnesHut": {
       				"gravitationalConstant": -22064,
     				"centralGravity": 0.1,
-    				"springConstant": 0.23,
+    				"springConstant": 0.2,
     			},
-				"maxVelocity": 50
+				"maxVelocity": 40
 			}
         }
         """

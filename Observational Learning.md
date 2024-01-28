@@ -1,4 +1,4 @@
-#Biology 
+#Psychology 
 ## Examples
 * Bobo Doll Experiment
 	* Modeling

@@ -1,8 +1,10 @@
 ---
-alias: Gas Constant
+aliases:
+  - Gas Constant
+  - Ideal Gas Constant
 ---
 #Physics #Chemistry
-$$
+## $$
 \begin{align}
 R  & =\mathrm{8.314\,J\,mol^{-1}\,K^{-1}} \\
 &=\mathrm{0.08205\,L\,atm\,mol^{-1}\,K^{-1}} \\

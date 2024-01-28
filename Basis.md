@@ -1,4 +1,8 @@
 #Math 
+## Topics
+* [[Dual Space]]
+* [[Dual Vector]]
+## Notes
 * The basis of a span is the smallest linearly independent list of vectors that constitute the span
 * $\text{span}(\vec v_1,\ldots,\vec v_m)=\{c_1\vec v_1+\ldots+c_m\vec v_m:c_1,\ldots,c_m\text{ are scalars}\}$
 	* The span of some vectors is the set of all possible linear combinations of the vectors

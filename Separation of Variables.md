@@ -1,2 +1,2 @@
 #Math #Physics 
-A method to solve [[Schrodinger Equation]]
+A method to solve the [[Schrodinger Equation]]

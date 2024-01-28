@@ -7,3 +7,5 @@
 * [[Differential Calculus]]
 * [[Integral Calculus]]
 * [[Multivariable Calculus]]
+* [[Vector Calculus]]
+* [[Optimization]]

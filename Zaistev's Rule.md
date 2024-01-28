@@ -20,4 +20,4 @@ in [[E2]]
 Products that don't obey this rule are called the [[Hofmann Product]] or minor product.
 ## Mnemonic
 Zaistev's product has an s in it because it is more substituted
-Hofmann's product is off, man
+Hofmann's product is off, man (off to the side)

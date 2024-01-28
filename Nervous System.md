@@ -1,4 +1,7 @@
 #Biology
-## Parts:
-* [[Central Nervous System]]
-* [[Peripheral Nervous System]]
+## Parts
+* [[CNS]]
+* [[PNS]]
+## Cell Types
+* [[Neurons]]
+* [[Neuroglia]]

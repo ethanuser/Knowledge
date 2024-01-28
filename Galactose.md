@@ -1,6 +1,8 @@
 #Biochemistry 
-```Python
-from pychemprojections.fischer.visualization import plot_fischer_projection
-input_smiles_for_fischer = "[C@H](CC)(C)(CO)"
-plot_fischer_projection(input_smiles_for_fischer)
-```
+# D-Galactose
+## Fischer Projection
+![[Pasted image 20231106101441.png|200]]
+## Ring Form
+![[Pasted image 20231210110925.png|300]]
+## Mnemonic
+![[Pasted image 20231106100831.png|400]]

@@ -14,11 +14,6 @@ $$
 * Solutions for different $\displaystyle n$ are [[Orthogonality|orthogonal]] with respect to the [[Square Integrable Vector Space]]
 ## $\displaystyle E_{n}=\frac{n^{2}\pi ^{2}\hbar ^{2}}{2mL^{2}}$
 * $\displaystyle E_{n}$ is the energy of the $\displaystyle n$th state of the function
-## $\displaystyle f(x)=\sum_{n = 1}^{\infty}c_{n}\psi_{n}(x)$
-* $\displaystyle c_{n}$ is a [[Wave Function Weighting Coefficient]]
-## $\displaystyle \braket{ \psi_{m} | \psi_{n} }=\int \psi_{m}^{*}\psi_{n} \, \mathrm{d}x=\delta_{mn}$
-* Dot product of wave functions of different energy levels in the infinite square well are [[Orthonormal]]
-* $\displaystyle \delta_{mn}$ is the [[Kronecker Delta]]
 # Parameter Values
 ## $\displaystyle {\left\langle{x}\right\rangle}=\frac{a}{2}$
 ## $\displaystyle {\left\langle{x^{2}}\right\rangle}=a^{2}\left( \frac{1}{3}-\frac{1}{2(n\pi)^{2}} \right)$

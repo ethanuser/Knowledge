@@ -1,4 +1,4 @@
-## Subjects I'm learning:
+## Subjects I'm Learning
 1. [[Learning]]
 2. [[Math]]
 3. [[Physics]]
@@ -9,6 +9,10 @@
 8. [[Biochemistry]]
 9. [[Psychology]]
 10. [[Sociology]]
-11. [[Medicine]]
-12. [[Linguistics]]
-13. [[Foreign Languages]]
+12. [[Medicine]]
+13. [[Economics]]
+14. [[Linguistics]]
+15. [[Foreign Languages]]
+## Class Notes
+* [[Current Classes]]
+* [[Past Classes]]

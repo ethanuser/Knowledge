@@ -1,2 +1,2 @@
 #Biology
-Deals with balance
+Deals with balance/fine motor movement

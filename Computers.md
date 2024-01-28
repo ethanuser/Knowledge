@@ -3,5 +3,6 @@
 ## Topics
 * [[Programming Languages]]
 * [[Web Development]]
-* [[URL]]
-* [[Robotics]]
+* [[Machine Learning]]
+* [[Image Manipulation]]
+* [[Software]]

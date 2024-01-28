@@ -1,4 +1,4 @@
 ---
 alias: Deoxyribonucleic Acid
 ---
-#Biology
+#Biochemistry

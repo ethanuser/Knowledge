@@ -1,3 +1,9 @@
+---
+aliases:
+  - Sugar
+  - Sugars
+  - Carbohydrate
+---
 #Biochemistry 
 ## Topics
 * [[Monosaccharide Cyclization]]
@@ -14,7 +20,7 @@
 	* [[Chitin]] for insect shells
 * Biomolecules Components
 	* [[Antibiotics]]
-	* [[Enzyme Cofactors]]
+	* [[Cofactor]]
 	* [[Nucleic Acids]] ([[Ribose]])
 ## Types
 * [[Aldose]]

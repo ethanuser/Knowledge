@@ -1,4 +1,5 @@
 #Physics
 ## Types
-* [[Wavenumber]]
+* [[Angular Wavenumber]]
 * [[Frequency]]
+* [[Wave Function Weighting Coefficient]]

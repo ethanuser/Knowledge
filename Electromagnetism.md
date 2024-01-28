@@ -1,12 +1,10 @@
 #Physics
 ## Topics
-* [[Electric Charge and Fields]]
-* [[Electric Potential]]
-* [[Capacitance]]
-* [[Current]]
-* [[Magnetic Fields and Forces]]
-* [[Quantum Magnetism]]
+* [[Electrostatics]]
+* [[Circuits]]
+* [[Magnetism]]
 * [[Induction]]
 * [[AC Current]]
 * [[Maxwell's Equations]]
-* [[Electromagnetic Waves]]
+* [[Light|Electromagnetic Waves]]
+* [[Gauge Theory]]

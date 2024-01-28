@@ -5,4 +5,3 @@
 * [[Fourier Analysis]]
 * [[Real Analysis]]
 * [[Complex Analysis]]
-* [[AM-GM Inequality]]

@@ -1,0 +1,5 @@
+---
+aliases:
+  - Mob Mentality
+---
+#Psychology 

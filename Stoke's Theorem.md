@@ -1,0 +1,4 @@
+#Math 
+## $\iint_S\text{curl}(\vec F)\cdot d\vec S=\oint_{\partial S}\vec F\cdot  d\vec r=\int_{u_0}^{u_f}\int_{v_0}^{v_f}\text{curl}(\vec F(\vec G(u,v)))\cdot \vec N(u,v)\space dvdu$
+* Is like Green’s Theorem, but for 2D surfaces in 3D space.
+* $\partial S$ is the positively oriented boundary of $S$, meaning you apply the right hand rule such that if the normal points out of the surface, the thumb points toward the surface while the curled fingers dictate the positive orientation of $\partial S$. Another way of viewing this is to imaging you are on the boundary with your body pointing upright in the same direction as the normal. If you follow the direction of $\partial S$, then your right foot should be closer to off the edge of the boundary

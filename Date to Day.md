@@ -61,7 +61,7 @@ $$
 ## Dooms Days
 These are dates that all share the same day throughout the year
 * 1/3 (1/4 leap year)
-* 2/28 (2/29 leap year)
+* 2/7 (2/28 leap year)
 * 3/14
 * 4/4
 * 5/9

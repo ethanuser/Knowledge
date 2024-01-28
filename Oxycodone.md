@@ -1,0 +1,6 @@
+---
+aliases:
+  - Oxycontin
+  - Percocet
+---
+#Biochemistry 

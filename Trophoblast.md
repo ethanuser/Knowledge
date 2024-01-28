@@ -1,2 +1,2 @@
 #Biology 
-Develops into [[placental structures]]
+On the outside of the blastocyst and develops into [[placental structures]]

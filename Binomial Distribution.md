@@ -11,6 +11,7 @@ A binomial random variable represents the number of successes out of $n$ indepen
 	4. By Binomial theorem: $M_X(t)=(1-p+pe^t)^n$
 * $\mathbb{E}[X]=np$
 * $\text{var}(X) = np(1 - p)$
+* $\displaystyle {\left\langle{x^{2}}\right\rangle}=\sigma ^{2}+\mu ^{2}$
 * A binomial distribution describes the number of successes when running $n$ independent trials where the probability of a success for each trial is $p$
 ## Applications
 * [[Spin Magnet System]]

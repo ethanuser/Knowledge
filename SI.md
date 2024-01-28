@@ -1,5 +1,7 @@
 ---
-alias: International System of Units
+aliases:
+  - International System of Units
+  - Metric System
 ---
 #Physics #Chemistry
 ## SI Prefixes

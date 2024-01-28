@@ -4,5 +4,6 @@
 * [[Newtonian Mechanics]]
 * [[Lagrangian and Hamiltonian Mechanics]]
 * [[Rotational Mechanics]]
-* [[Fluid Mechanics]]
+* [[Continuum Mechanics]]
 * [[Statistical Mechanics]]
+* [[Reference Frames]]

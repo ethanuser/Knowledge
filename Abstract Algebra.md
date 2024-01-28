@@ -4,8 +4,8 @@ alias: Algebraic Structures
 #Math
 ## Topics
 * [[Group Theory]]
-* [[Field Theory]]
 * [[Vector Spaces]]
+* [[Lie Algebra]]
 ## Structures
 * [[Groups]]
 * [[Rings]]

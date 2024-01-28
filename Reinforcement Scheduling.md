@@ -1,4 +1,4 @@
-#Biology 
+#Psychology 
 ## Types
 * Fixed-ratio (FR)
 	* Reward offered every couple actions

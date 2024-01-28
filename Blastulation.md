@@ -1,4 +1,2 @@
 #Biology 
-## Stages
-* [[Morula]]
-* [[Blastula]]
+Day 4-7: [[Blastula]] forms

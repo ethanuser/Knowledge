@@ -1,4 +1,4 @@
-#Biology 
+#Psychology 
 ## Types
 * [[Classical Conditioning]]
 * [[Operant Conditioning]]

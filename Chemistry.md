@@ -8,6 +8,6 @@
 * [[Organic Chemistry]]
 * [[Biochemistry]]
 
-## Tools:
+## Tools
 * [[SMILES]]
 * [[Marvin Sketch]]

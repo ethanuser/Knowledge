@@ -5,3 +5,5 @@
 * [[Pythagorean Identities]]
 * [[Sin Squared Formula]]
 * [[Cos Squared Formula]]
+* [[Sin Exponential Formula]]
+* [[Cos Exponential Formula]]

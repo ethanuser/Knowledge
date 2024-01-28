@@ -8,3 +8,4 @@ aliases:
 ## Topics
 * [[DEQ Definitions]]
 * [[DEQ Techniques]]
+* [[DEQ Problems]]

@@ -18,6 +18,15 @@
 16. [Quick Switcher++](https://github.com/darlal/obsidian-switcher-plus)
 17. [Sortable](https://github.com/alexandru-dinu/obsidian-sortable)
 18. [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition)
+19. Excalidraw
+	1. Generally pretty slow on the iPad, will probably stick with Notability for now as it's quite responsive
+		1. Notability issues:
+			1. Slow iCloud update speed (~20 seconds). This is annoying when I'm trying to use the computer for typing and the iPad for drawing on the same document. Or when I'm trying to pull up lecture slides from online  on my computer to my iPad
+			2. Can't name files the same even if they're in different folders
+			3. Lack of certain features
+				1. No calculator recognition
+				2. No real integration with Obsidian
+		2. Otherwise Notability is awesome for its global search feature/generally quick workflow
 ## Various Plugin Practices:
 * [[LaTeX Practice]]
 * [[Code Practice]]

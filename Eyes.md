@@ -12,6 +12,6 @@
 * [[Ciliary Muscle]]
 * [[Dilator Pupillae]]
 * [[Constrictor Pupillae]]
-* [[Lens]]
+* [[Eye Lens]]
 * [[Vitreous Humor]]
 * ![[Pasted image 20230821135034.png|600]]

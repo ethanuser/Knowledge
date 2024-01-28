@@ -1,3 +1,7 @@
+---
+aliases:
+  - Discrete Uniform Random Variable
+---
 #Math 
 ## $X\sim \text{Uniform}(\{1,2,\ldots,m\})$
 * A random variable is uniformly distributed if the probability of each $x\in S$ is equal. For the probabilities to be equal and add up to one, and since there are $m$ of $x\in S$, $p_X(x_i)=\frac{1}{m}$

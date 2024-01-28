@@ -1,0 +1,5 @@
+---
+aliases:
+  - Antisense Strand
+---
+#Biochemistry 

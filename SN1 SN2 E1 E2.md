@@ -34,5 +34,5 @@
 * Adding heat increases the likelihood of elimination over substitution
 	* Based on the [[Gibb's Free Energy]] equation, increasing $\displaystyle T$ will result in a more negative $\displaystyle \Delta G$ for reactions that have a higher $\displaystyle \Delta S$, and elimination increases entropy more than substitution since it produces multiple products
 * Using protic solvents increases the likelihood of elimination over substitution, E1 over E2, and SN1 over SN2
-	* The protic environment stabilizes the leaving group E1 or SN1
+	* The protic environment stabilizes the leaving group of E1 or SN1
 * See [[Zaistev's Rule]] and [[Hofmann Product]] for difference

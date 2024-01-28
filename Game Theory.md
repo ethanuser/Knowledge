@@ -1,2 +1,4 @@
 #Math
-[[Least Chosen Response]]
+## Topics
+* [[Least Chosen Response]]
+* [[Prisoner's Dilemma]]

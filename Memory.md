@@ -1,4 +1,4 @@
-#Biology 
+#Psychology 
 ## Types
 * [[Sensory Memory]]
 * [[Short-term Memory]]

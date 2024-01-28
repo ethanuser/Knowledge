@@ -3,12 +3,17 @@ alias: Enzyme
 ---
 #Biochemistry 
 ## Topics
+* [[Protein Folding]]
 * [[Protein Regulation]]
 * [[Protein Binding]]
-* [[Protein Folding]]
-## Examples
+## Major Classes of Enzymes
 * [[Hemoglobin]]
 * [[Myoglobin]]
+* [[Chymotrypsin]]
+* [[Ubiquitination|Ubiquitin]]
+* [[Zymogens]]
+* [[Kinase]]
+* [[Phosphatase]]
 ## Mnemonic: Lil Hot
 * [[Ligase]]
 * [[Isomerase]]

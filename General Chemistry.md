@@ -1,5 +1,6 @@
 #Chemistry
 ## Topics
+* [[Stoichiometry]]
 * [[Bohr Model]]
 * [[Heisenberg's Uncertainty Principle]]
 * [[Schrodinger Equation]]
@@ -10,6 +11,7 @@
 * [[Gases]]
 * [[Thermochemistry]]
 * [[Thermodynamics]]
+* [[Kinetics]]
 * [[Equilibrium]]
 * [[Acid-Base]]
 * [[Electrochemistry]]

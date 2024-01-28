@@ -2,5 +2,5 @@
 aliases:
   - Iconic Memory
 ---
-#Biology
+#Psychology 
 Memory of what's been seen that last for $\displaystyle <$ a second

@@ -1,6 +1,6 @@
 #Physics 
 ## $\displaystyle T=\left( 1+\frac{\sinh ^{2}(k_{\text{below}}a)}{4\eta(1-\eta)} \right)^{-1}, \,\,\,E<V_{0}$
-* Probability that a particle will reflect off of a potential barrier
+* Probability that a particle will reflect off of a potential barrier for a finite square well
 *  $\displaystyle E$ is the kinetic energy of the particle
 *  $\displaystyle V_{0}$ is the potential energy of the barrier
 * $\displaystyle \sinh$ is one of the [[hyperbolic trig functions]]

@@ -1,5 +1,19 @@
+---
+aliases:
+  - Numbers
+---
 #Math 
 ## Topics
 * [[Arithmetic]]
+## Number Types
 * [[Prime Numbers]]
-* [[Irrational Numbers]]
+* [[Complex Numbers]]
+	* [[Algebraic Numbers]]
+		* [[Real Numbers]]
+			* [[Rational Numbers]]
+				* [[Integers]]
+					* [[Whole Numbers]]
+					* [[Natural Numbers]]
+						* [[Prime Numbers]]
+		* [[Irrational Numbers]]
+	* [[Transcendental Numbers]]

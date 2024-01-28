@@ -14,3 +14,7 @@ Maintains homeostasis of the body
 * [[Hypophyseal Portal System]]
 ## Secretions
 * [[GnRH]]
+* [[GHRH]]
+* [[TRH]]
+* [[CRH]]
+* [[PIF]]

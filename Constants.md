@@ -1,9 +1,16 @@
 #Physics #Chemistry
+## Types
+* [[Length Constants]]
 ## List
-* [[G]] $\displaystyle (G)$
-* [[Gravitational Acceleration Constant]] $\displaystyle (g)$
-* [[R]] ($\displaystyle R$)
-* [[Boltzmann Constant]] $\displaystyle (k_{B})$
-* [[Planck Constant]] $\displaystyle (h)$
-* [[Reduced Planck Constant]] $\displaystyle (\hbar)$
-* [[Stefan-Boltzmann Constant]] ($\displaystyle \sigma_{B}$
+| Symbol                            | Link  |
+| --------------------------------- | ----- |
+| $\displaystyle c$                 | [[c]] |
+| $\displaystyle G$                 | [[G]] |
+| $\displaystyle R$                 | [[R\|Ideal Gas Constant]]      |
+| $\displaystyle k_{B}$             | [[Boltzmann Constant]]      |
+| $\displaystyle h$                 | [[Planck Constant]]      |
+| $\displaystyle \hbar$             | [[Reduced Planck Constant]]      |
+| $\displaystyle \sigma_{B}$        | [[Stefan-Boltzmann Constant]]      |
+| $\displaystyle {\mu}_{0}$         | [[Magnetic Constant]]      |
+| $\displaystyle {\varepsilon}_{0}$ | [[Electric Constant]]      |
+| $\displaystyle F$                                  | [[Faraday's Constant]]      |

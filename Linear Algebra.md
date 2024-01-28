@@ -1,7 +1,7 @@
 #Math
 ## Topics
 * [[Linear Algebra Basics]]
-* [[Transformations]]
+* [[Linear Transformations]]
 * [[Invertibility]]
 * [[Image]]
 * [[Kernel]]

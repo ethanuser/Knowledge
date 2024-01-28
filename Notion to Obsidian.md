@@ -2245,7 +2245,7 @@ Replace \oiint with \oint
 			The optical power of a lens determines how much bends light toward a point
 			$P>0$ means $f>0$ and that the lenses are converging for hyperopia (far-sighted, short eyeballs)
 			$P<0$ means $f<0$ and that the lenses are diverging for myopia (near-sighted, long eyeballs)
-			Increasing $|P|$ means lowering $f$ and $R$, which means more converging or divering of light
+			Increasing $|P|$ means lowering $f$ and $R$, which means more converging or diverging of light
 |                             | Nearsighted                                 | Farsighted                                  |
 | --------------------------- | ------------------------------------------- | ------------------------------------------- |
 | Can see                     | Near things                                 | Far things                                  |
@@ -2458,49 +2458,6 @@ Replace \oiint with \oint
 				$$T_{i} = (T_i)_{i = 1, 2, 3} = \begin{bmatrix}
 				T_1 & T_2 & T_3
 				\end{bmatrix}$$
-				Rules:
-				- (1) Einstein Summation Convention
-					$a_ib_i=\displaystyle\sum_iab$
-					When there are two common indices in an expression, they may be assumed to be summed over that index
-					E.g.:
-					$\Gamma_{ijk}x_ab_c=\displaystyle\sum_{a}\displaystyle\sum_b\Gamma_{ijk}x_ab_c$
-				- (2) Dummy Indices
-					For the expressions $a_ib_i + c_jd_j + e_nf_m$, $i$ and $j$ are repeated twice in a single term, so they are called dummy indices.
-					Dummy indicies can be interchanged for other variables, so the above expression could also be represented as $a_kb_k + c_ld_l + e_nf_m$ provided $i$ and $k$ have the same range and so too do $j$ and $l$
-				- (3) Free Indices
-					An index that occurs once in a term
-					Free indices can’t be interchanged like dummy indices can be
-				- (4) Repetition of Indices
-					Indices cannot be repeated more than twice in a term
-					$a_ib_{ij}$ is ok
-					$a_ib_{ii}$ is not ok
-					$a^{ij}_i$ would indicate one pair of dummy variables $i$ and one free variable $j$
-				- (5) Equations
-					Free indices in equations must match
-					E.g.: $x_i = a_{ij}b_j$
-					Here, $i$ is the only free variable here, and it matches on both sides
-					Non e.g.: $x_i = a_{ij}$
-					Here, $i$ and $j$ are free variables, but $j$ doesn’t match both sides
-				|  | Contravariant Components | Covariant Components |
-				|  |  |  |
-				| As basis vector length increases | Tensor components decrease | Tensor components increase |
-				| Script | Superscript | Subscript |
-				| Assuming: | $\vec v = \left(\frac{\partial x^1}{dt}, \frac{\partial x^2}{dt}, \ldots, \frac{\partial x^n}{dt}\right)$ | $\vec \nabla F = (u_1, u_2, \ldots, u_n), u_i = \frac{\partial F}{\partial x^i}$ |
-				| Transformation | $\bar v^i = v^r\frac{\partial \bar x^i}{\partial x^r}$ | $\bar u_i = u_r\frac{\partial x^r}{\partial\bar x^i}$, where $u$ is a covariant first rank tensor in the that transforms from $u_i$ in the $(x^i)$ coordinate system  to $\bar u_i$ in the $(\bar x^i)$ coordinate system |
-				| Projection | Parallel Projection | Perpendicular Projection |
-				| Coordinates | $\vec a = a^1\hat e_1 + a^2 \hat e_2$ | $\vec a = a_1\hat e_1 + a_2 \hat e_2$ |
-				| Examples | Position, velocity, acceleration, etc. | Gradient of scalar function |
-			- $\delta_{ij}=
-			\begin{cases}
-			1,\quad i=j\\
-			0,\quad i\ne j
-			\end{cases}$
-				Kronecker Delta Symbol: https://en.universaldenker.org/files/pdf_documents/2021-02/kronecker-delta.pdf
-				Properties:
-				(1) $\delta_{ij}=\delta_{ji}$
-				(2) $\delta_{ij}\delta_{jk}=\delta_{ik}$
-				(3) $a_j\delta_{jk}=a_k$
-				(4) $\delta_{jj}=n$
 			- $\varepsilon_\text{ijk}=
 			\begin{cases}
 			~~~1,\quad\text{even permutation of } \varepsilon_{ijk}\\
@@ -2515,12 +2472,6 @@ Replace \oiint with \oint
 			- $v_i'=R_{ij}v_j$
 				The vector components in a new  coordinate system $S'$ that is rotated with respect to the original coordinate system $S$ can be represented by the orthogonal transformation of the vector
 				Vectors are defined to describe values that do not change despite changing coordinate systems. The components of the vector may change when the coordinate system is rotating or even moving, but the vector’s direction/magnitude do not change
-			- $T_{ij}'=R_{ik}R_{jk}T_{kl}$
-				Describes how a rank 2 tensor transforms under two rotations
-				Symmetric:
-				$T_{ij}=T_{ji}$
-				Antisymmetric:
-				$T_{ij}=-T_{ji}$
 			- $\lVert\vec a\times \vec b\rVert=\lVert\vec a\rVert\lVert\vec b\rVert\sin\theta$
 				Called the vector product or cross product
 				The resulting vector is orthogonal to both vectors and follows the right hand rule where taking your right hand, you point toward $\vec a$, curl your hands toward $\vec b$, and the direction of your thumb when pointing out is the $\lVert\vec a\times \vec b\rVert$

@@ -1,5 +1,5 @@
 #Math 
-## $\displaystyle S_{n}=a+ar+ar^{2}+... +ar^{n-1}=\frac{a(1-r^{n})}{1-r}$
+## $\displaystyle S_{n}=a\sum_{i = 0}^{n-1}r^{i}=a+ar+ar^{2}+... +ar^{n-1}=\frac{a(1-r^{n})}{1-r}$
 * $\displaystyle S_{n}$ is the series sum
 * $\displaystyle a$ is the initial value of the sequence
 * $\displaystyle r$ is the ratio that the geometric series multiplies by

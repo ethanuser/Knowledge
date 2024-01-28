@@ -1,8 +1,9 @@
-#Biology
+#Psychology 
 # How to Learn
-1. Health
-	1. Sleep
+1. [[Health]]
+	1. [[Sleep]]
 		1. 8+ hours a day
+		2. Expose yourself to sunlight outside as soon as possible for at least 10 minutes
 	2. Exercise
 		1. 3+ times per week
 	3. Diet
@@ -12,9 +13,10 @@
 		1. Set out chunk of time to study
 	2. Space
 		1. Designate one place for studying, one for eating, one for sleeping, and one for relaxing
-3. Focus/Attention
+3. Focus/[[Attention]]
 	1. Breaks every 25 minutes for 5 minutes
 		1. If you find yourself dropping off in focus, take breaks every so often (average is every 25 minutes for 5 minutes)
+	2. Flow can often bypass the need for breaks
 4. Cognitive Load
 	1. Priming
 		1. Read lecture for about 15 minutes to build a map of information that'll allow you to connect with previous lectures
@@ -39,6 +41,7 @@
 			1. Useful for memorizing things that require $\displaystyle O(1)$ retrieval time
 	4. Spaced Repetition
 		1. Useful for rote memorization
+		2. A good app is Anki, although it shouldn't be abused (don't go through 1000 card decks daily)
 	5. Teaching
 		1. Teach to people who don't know your subject
 # [Cognitive Load](https://www.youtube.com/watch?v=5PTkcGMrZ4I)

@@ -1,4 +1,4 @@
-#Biology 
+#Psychology  
 [[Implicit memory]] that can be controlled by the [[primary motor cortex]]
 ## Examples
 * Riding a bike

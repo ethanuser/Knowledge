@@ -1,0 +1,5 @@
+---
+aliases:
+  - Messenger RNA
+---
+#Biochemistry 

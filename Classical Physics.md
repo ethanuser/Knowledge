@@ -3,6 +3,5 @@
 * [[Mechanics]]
 * [[Optics]]
 * [[Electromagnetism]]
-* [[Waves]]
 * [[Thermodynamics]]
 * [[Astrophysics]]

@@ -1,4 +1,4 @@
-#Biology
+#Psychology 
 ## Types
 * Positive Reinforcement
 	* Adding a stimulus to reinforce a behavior

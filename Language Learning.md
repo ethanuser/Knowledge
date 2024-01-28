@@ -1,0 +1,1 @@
+[Video Explaining Acquisition](https://www.youtube.com/watch?v=J_EQDtpYSNM&t=5s)

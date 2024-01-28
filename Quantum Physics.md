@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - Quantum Mechanics
 ---
 #Physics
 ## Subfields
@@ -10,16 +11,18 @@ aliases: []
 * [[Condensed Matter Physics]]
 ## Topics
 * [[Quantum Interpretations]]
+* [[Quantum Effects]]
+* [[Quantum Technologies]]
 * [[Quantum Operators]]
 * [[Quantum Quantities]]
+* [[Quantum Potentials]]
+* [[Cosmological Constant Problem]]
+## Math
+* [[Generalized Uncertainty Principle]]
+* [[Schrodinger Equation]]
 * [[Hilbert Space]]
 * [[Momentum Basis]]
 * [[Braket Notation]]
 * [[Hermitian Operator]]
-* [[Infinite Square Well]]
-* [[Wave Function Weighting Coefficient]]
-* [[Quantum Harmonic Oscillator]]
-* [[Cosmological Constant Problem]]
-* [[Quantum Tunneling]]
-## Equations
-* [[Schrodinger Equation]]
+## Resources
+* [Map of Quantum Physics](https://www.youtube.com/watch?v=gAFAj3pzvAA)

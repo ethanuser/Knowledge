@@ -1,7 +1,7 @@
 #Physics 
-## $\displaystyle S=Nk\ln\left( \frac{V}{N}\left( \frac{4\pi mU}{3Nh^{2}} \right)^{3/2} \right)$
-## $\displaystyle \sigma=N\left( \ln \frac{n_{Q}}{n}+\frac{5}{2} \right), n_{Q}=\left( \frac{M\tau}{2\pi \hbar ^{2}} \right)^{3/2}$
+## $\displaystyle \sigma=N\left( \ln \frac{n_{Q}}{n}+\frac{d}{2}+1 \right)$
+* $\displaystyle \sigma$ is the [[fundamental entropy]]
 * For ideal gases in 3D
 * $\displaystyle n$ is the density of particles per unit volume
-## $\displaystyle \sigma=N\left( \ln \frac{n_{Q}}{n}+\frac{3}{2} \right)$
-* For ideal gases in 1D
+* $\displaystyle n_{Q}$ is the [[quantum concentration]]
+* $\displaystyle d$ is the number of spatial dimensions

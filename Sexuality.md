@@ -1,0 +1,3 @@
+#Sociology 
+## Topics
+* [[Kinsey Scale]]

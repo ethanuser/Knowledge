@@ -2,7 +2,7 @@
 aliases:
   - Declarative Memory
 ---
-#Biology 
+#Psychology 
 ## Types
 * [[Episodic Memory]]
 * [[Semantic Memory]]

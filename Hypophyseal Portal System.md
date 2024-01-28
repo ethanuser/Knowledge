@@ -1,5 +1,8 @@
+---
+IPA:
+---
 #Biology
-## Parts:
+## Parts
 * [[Hypothalamus]]
 * [[Posterior Pituitary Gland]]
 * [[Anterior Pituitary Gland]]

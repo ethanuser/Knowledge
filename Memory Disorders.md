@@ -1,1 +1,3 @@
-#Biology
+#Psychology 
+## Types
+* [[Amnesia]]
