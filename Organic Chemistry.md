@@ -8,6 +8,8 @@
 * [[Addition]]
 * [[Elimination]]
 * [[Substitution]]
+* [[Condensation]]
+* [[Polymerization]]
 * [[Organic Chemistry Roadmaps]]
 ## Summary Reactions
 ##### Chapter 6 (Alkenes)

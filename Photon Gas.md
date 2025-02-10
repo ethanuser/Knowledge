@@ -2,6 +2,7 @@
 ## Topics
 * [[Planck Distribution Function]]
 * [[Blackbody Radiation]]
+* [[Free Electron Gas]]
 ## $\displaystyle {\left\langle{\varepsilon}\right\rangle}={\left\langle{s}\right\rangle}\hbar \omega$
 * $\displaystyle \varepsilon$ is the average energy for the frequency mode $\displaystyle \omega$
 * $\displaystyle {\left\langle{s}\right\rangle}$ can be found by the [[Planck distribution function]]

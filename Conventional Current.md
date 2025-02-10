@@ -1,0 +1,2 @@
+#Physics 
+The flow of positive charges. For circuits that only technically have moving electrons, conventional current is in the opposite direction to [[electron current]]. This convention for current occurred because Benjamin Franklin unfortunately guessed wrong that it was positive charges that flow in metals

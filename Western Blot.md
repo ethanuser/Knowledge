@@ -1,0 +1,6 @@
+---
+aliases:
+  - Immunoblotting
+---
+#Biochemistry 
+Using

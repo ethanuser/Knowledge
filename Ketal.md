@@ -6,3 +6,4 @@
 * [[Hemiketal]]
 * [[Hydrate]]
 * [[Acetal]]
+![[Pasted image 20240629133655.png|600]]

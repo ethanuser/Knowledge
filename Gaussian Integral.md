@@ -12,3 +12,17 @@
 * Derived by using [[Gamma Function]]
 ## $\displaystyle \int_{0}^{\infty} \frac{x^{n}}{e^{x}-1} \, \mathrm{d}x=n!\zeta(n+1)$
 * $\displaystyle \zeta$ is the [[Riemann Zeta function]]
+# Proof
+$$
+\begin{align}
+I&\equiv \int_{-\infty}^{\infty} e^{-x^{2}} \, \mathrm{d}x \\
+\int_{-\infty}^{\infty} e^{-x^{2}}\mathrm{d}x \,\int_{-\infty}^{\infty} e^{-y^{2}} \, \mathrm{d}y &=\int_{-\infty}^{\infty} \int_{-\infty}^{\infty} e^{-x^{2}}e^{-y^{2}} \, \mathrm{d}x \, \mathrm{d}y  \\
+&=\int_{-\infty}^{\infty} \int_{-\infty}^{\infty} e^{-(x^{2}+y^{2})} \, \mathrm{d}x \, \mathrm{d}y \\
+&= \int_{0}^{2\pi} \int_{0}^{\infty} e^{-r^{2}}r \, \mathrm{d}r\, \mathrm{d}\theta,\,u\equiv r^{2} \\
+&=2\pi\int_{0}^{\infty} \frac{e^{-u}}{2} \, \mathrm{d}u \\
+&=\pi(-e^{-u})^{\infty}_{0} \\
+&=\pi \\
+&=I^{2} \\
+\therefore I&=\sqrt{ \pi }
+\end{align}
+$$

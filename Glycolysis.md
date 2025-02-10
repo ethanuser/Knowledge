@@ -17,7 +17,7 @@ Breakdown of glucose to produce energy
 5. Good: [[Glyceraldehyde-3-Phosphate]] (and [[Dihydroxyacetone Phosphate]])
 	5. Training: [[Triose-Phosphate Isomerase]]
 	6. Grounds: [[Glyceraldehyde-3-Phosphate Dehydrogenase]]
-6. Boys: [[1,3-Bisphosphoglycerate]]
+6.  Boys: [[1,3-Bisphosphoglycerate]]
 	7. Praying: [[Phosphoglycerate Kinase]]
 7. Prefer: [[3-Phosphoglycerate]]
 	8. People: [[Phosphoglycerate Mutase]]

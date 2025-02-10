@@ -1,7 +1,11 @@
 ---
-alias: Vision, See
+aliases:
+  - See
+  - Vision (sight)
 ---
 #Biology
+## Topics
+* [[Bloch's Law]]
 ## Parts
 * [[Eyes]]
 ## Path of Vision

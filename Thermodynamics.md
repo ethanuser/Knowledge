@@ -1,5 +1,5 @@
 #Physics #Chemistry 
-Deals with many particles (~$\displaystyle 10^{23}$) as opposed to a few in [[Quantum Physics]]
+Deals with many particles (~$\displaystyle 10^{23}$) as opposed to a few in [[quantum mechanics]]
 ## Topics
 * [[Thermal Expansion]]
 * [[Entropy]]

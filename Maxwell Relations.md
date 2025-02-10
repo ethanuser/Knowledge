@@ -17,4 +17,3 @@ Relates second partial derivatives of thermodynamic energies with each other
 | $\displaystyle H$    | $\displaystyle \mathrm{d}H=\tau \mathrm{d}\sigma+V\mathrm{d}P$  | $\displaystyle \left( \frac{ \partial \tau }{ \partial P } \right)_{\sigma}=\left( \frac{ \partial V }{ \partial \sigma } \right)_{P}$  |
 | $\displaystyle F$    | $\displaystyle \mathrm{d}F=-\sigma \mathrm{d}\tau-P\mathrm{d}V$ | $\displaystyle \left( \frac{ \partial \sigma }{ \partial V } \right)_{\tau}=\left( \frac{ \partial P }{ \partial \tau } \right)_{V}$    |
 | $\displaystyle G$    | $\displaystyle \mathrm{d}G=-\sigma \mathrm{d}\tau+V\mathrm{d}P$ | $\displaystyle -\left( \frac{ \partial \sigma }{ \partial P } \right)_{\tau}=\left( \frac{ \partial V }{ \partial \tau } \right)_{P}$                                                                                                                                        |
-

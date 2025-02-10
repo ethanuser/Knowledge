@@ -1,3 +1,7 @@
+---
+aliases:
+  - Particles
+---
 #Physics
 ## Topics
 * [[Standard Model]]

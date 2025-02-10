@@ -15,6 +15,7 @@ aliases:
 \end{bmatrix}
 $$
 * Called "ket"
+* Basically a regular vector
 ## $$
 \bra{\Psi} =(\ket{\Psi} ^{\top})^{*}=
 \begin{bmatrix}

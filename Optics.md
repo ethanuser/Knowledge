@@ -1,10 +1,11 @@
 #Physics
-
-[Snell’s Law Simulation](https://www.desmos.com/calculator/om6hzshyda)
 [Optics Simulation](https://www.desmos.com/calculator/iqldzpondt)
 ## Topics
 * [[Refraction]]
+* [[Reflection]]
 * [[Coherence]]
+* [[Snell's Law]]
+* [[Fresnel's Equation]]
 * [[Lens]]
 		- $n \propto \frac{1}{\lambda}$
 			For most materials, this is the case

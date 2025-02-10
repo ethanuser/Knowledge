@@ -19,3 +19,6 @@ aliases:
 ## Types
 * [[Distress]]
 * [[Eustress]]
+## Stress Management
+* Treat stress as a challenge rather than threat
+* [[Procrastination]]

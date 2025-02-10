@@ -7,3 +7,5 @@ Develops into:
 5. [[Thyroid]]
 6. [[Bladder]]
 7. [[Reproductive Tracts]]
+## Mnemonic
+* Internal organs

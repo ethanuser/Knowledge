@@ -9,6 +9,9 @@ Hermite polynomials are used for solution of the [[QHO]]
 * Expands to $\displaystyle n$th order polynomials due to cancellations of $\displaystyle e^{\xi^{2}}$ with $\displaystyle e^{-\xi^{2}}$
 * Example:
 * $\displaystyle H_{1}(\xi)=(-1)^{1}e^{\xi^{2}}\frac{ \partial  }{ \partial \xi }e^{-\xi^{2}}=-1\cdot e^{\xi^{2}}(-2\xi e^{-\xi^{2}})=2\xi$
+## $\displaystyle \int_{-\infty}^{\infty} H_{n}(x)H_{m}(x) e^{-x^{2}}\, \mathrm{d}x=\delta_{nm}(x)2^{n}n!\sqrt{ \pi }$
+* Orthogonality condition of Hermite polynomials
+* $\displaystyle \delta_{nm}(x)$ is the [[Kronecker delta]]
 ## $\displaystyle H_{n}(\xi)=\sum_{j = 0}^{\infty}a_{j}X^{j},a_{j+2}=\frac{2j-k+1}{(j+1)(j+2)}a_{j}$
 * Power series/recurrence relation representation of the above equation
 ## $\displaystyle H_{n}(z)=\frac{n!}{2\pi i}\oint e^{-t^{2}+2tz}t^{-n-1}\mathrm{d}t$

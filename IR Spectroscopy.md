@@ -9,7 +9,7 @@ Infrared light goes from 400 to 4000 $\displaystyle \mathrm{cm^{-1}}$, or
 3. The Triple Bonds
 4. The Carbonyls
 5. The Double Bonds
-	
+
 | Bond                                           | Stretching Frequency ($\displaystyle \mathrm{cm^{-1}}$) | Intensity and Shape               | Zone |
 | ---------------------------------------------- | ------------------------------------------------------- | --------------------------------- | ---- |
 | Alcohol $\displaystyle \ce{O-H}$               | 3650-3200                                               | Usually strong and broad          | 1    |
@@ -27,8 +27,12 @@ Infrared light goes from 400 to 4000 $\displaystyle \mathrm{cm^{-1}}$, or
 | Carboxylic acid $\displaystyle \ce{C=O}$       | 1725-1700                                               | Strong                            | 4    |
 | Amide $\displaystyle \ce{C=O}$                 | 1690-1650                                               | Strong                            | 4    |
 | Alkene $\displaystyle \ce{C=C}$                | 1680-1620                                               | Variable                          | 5    |
-| Benzene $\displaystyle \ce{C=C}$               | ~1600; ~1500-1450                                       | Variable;    1600 often two peaks | 5     |
+| Benzene $\displaystyle \ce{C=C}$               | ~1600; ~1500-1450                                       | Variable;    1600 often two peaks | 5    |
 Below 1400 $\displaystyle \mathrm{cm^{-1}}$ is the fingerprint region, which mostly contains bending vibrations and unfortunately a lot of noise
 ## IR Spectroscopy Chart
-
-![[ir spec.png|1000]]
+![[ir spec.png]]
+## $\displaystyle \bar{\omega}=\frac{1}{2\pi c}\sqrt{ \frac{k}{\mu} }$
+* The stretching vibrational frequency of light
+* $\displaystyle c$ is the [[c|speed of light]]
+* $\displaystyle k$ is the [[spring constant]]
+* $\displaystyle \mu$ is the [[reduced mass]]

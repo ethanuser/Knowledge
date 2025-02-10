@@ -4,3 +4,5 @@
 * [[Erik Erikson]]
 * [[Lawrence Kohlberg]]
 * [[Lev Vygotsky]]
+* [[George Mead]]
+* [[Personal Identity]]

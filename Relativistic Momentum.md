@@ -1,3 +1,3 @@
 #Physics 
 ## $p=\gamma mv$
-* $\displaystyle \gamma$ is the [[Lorentz's Factor]]
+* $\displaystyle \gamma$ is the [[Lorentz factor]]

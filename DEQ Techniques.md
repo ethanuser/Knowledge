@@ -20,3 +20,4 @@ aliases:
 * [[Matrix Exponential]]
 * [[Inhomogeneous Planar System]]
 * [[Separation of Variables]]
+* [[Green's Function]]

@@ -10,3 +10,6 @@
 * [[Incentive Theory]]
 * [[Expectancy-Value Theory]]
 * [[Opponent-Process Theory]]
+* [[Procrastination]]
+## $\displaystyle \mathrm{motivation=\frac{expected\,value}{impulsiveness\cdot delay}}$
+* From this [[Less Wrong]] thread

@@ -1,1 +1,4 @@
 #Biochemistry 
+## Types
+* [[Glycerophospholipids]]
+* [[Sphingolipids]]

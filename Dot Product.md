@@ -1,6 +1,7 @@
 ---
 aliases:
-  - Scalar Product, Inner Product
+  - Scalar Product
+  - Inner Product
 ---
 #Math
 

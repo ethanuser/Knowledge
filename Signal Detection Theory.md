@@ -1,9 +1,21 @@
-#Computers #Biology 
+---
+aliases:
+  - Diagnostic Testing
+---
+t#Computers #Biology #Math 
 
-| Signal State | Positive Detection                      | Negative Detection                |
-| ------------ | --------------------------------------- | --------------------------------- |
-| Present      | True Positive/Hit                       | False Negative/Miss/Type II Error |
-| Absent       | False Positive/False Alarm/Type I Error | True Negative                     |
-
+| Signal State | Positive Detection                           | Negative Detection                     |
+| ------------ | -------------------------------------------- | -------------------------------------- |
+| Present      | True Positive/Hit (TP)                       | False Negative/Miss/Type II Error (FN) |
+| Absent       | False Positive/False Alarm/Type I Error (FP) | True Negative (TN)                     |
+Let $\displaystyle +$ be the event of a positive detection, $\displaystyle -$ be the event of a negative detection, $\displaystyle P$ be the event of the signal being present, and $\displaystyle A$ being the event of the absence of the signal
+## Topics
+* [[Test Specificity]]
+* [[Test Sensitivity]]
+* [[Positive Predictive Value]]
+* [[Negative Predictive Value]]
+* [[False Positive Rate]]
+* [[False Negative Rate]]
 ## Mnemonic
-* In the case of disease detection, Type I is less severe while Type II is more severe (for the individual it's better to have a false positive than it is to have a false negative)
+* 1 Pregnant Man and 2 Undetected Pregnant Women
+* 🫃🤰🤰

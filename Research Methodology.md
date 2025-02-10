@@ -1,4 +1,6 @@
 #Research
+## Topics
+* [[Likert Scale]]
 ## Types of Studies
 * [[Case Studies]]
 * [[Cohort Studies]]

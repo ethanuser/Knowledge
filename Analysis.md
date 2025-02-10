@@ -5,3 +5,4 @@
 * [[Fourier Analysis]]
 * [[Real Analysis]]
 * [[Complex Analysis]]
+* [[Numerical Analysis]]

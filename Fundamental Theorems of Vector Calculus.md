@@ -3,3 +3,4 @@
 * [[Green's Theorem]]
 * [[Stoke's Theorem]]
 * [[Divergence Theorem]]
+* [[Helmholtz Theorem]]

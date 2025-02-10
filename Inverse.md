@@ -1,5 +1,6 @@
 ---
 aliases:
   - Inverses
+  - Invertible
 ---
 #Math 

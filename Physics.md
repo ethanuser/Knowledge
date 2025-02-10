@@ -4,8 +4,10 @@
 * [[Constants]]
 * [[Classical Physics]]
 * [[Statistical Mechanics]]
-* [[Quantum Physics]]
+* [[Quantum Mechanics]]
 * [[Relativity]]
+* [[Biophysics]]
+* [[Material Science]]
 * [[Physics Concepts]]
 ## Resources
 * [How to become a  GOOD Theoretical Physicist](https://webspace.science.uu.nl/~gadda001/goodtheorist/index.html)) <-- very good

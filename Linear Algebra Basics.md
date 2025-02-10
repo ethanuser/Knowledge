@@ -4,3 +4,6 @@
 * [[Elementary Row Operations]]
 * [[RREF]]
 * [[Vector]]
+* [[Matrix Multiplication]]
+* [[Distance]]
+* [[Adjoint]]

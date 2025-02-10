@@ -5,6 +5,7 @@ aliases:
 #Math 
 ## Topics
 * [[Arithmetic]]
+* [[Googology]]
 ## Number Types
 * [[Prime Numbers]]
 * [[Complex Numbers]]
@@ -17,3 +18,5 @@ aliases:
 						* [[Prime Numbers]]
 		* [[Irrational Numbers]]
 	* [[Transcendental Numbers]]
+* [[Quaternions]]
+* [[Spinors]]

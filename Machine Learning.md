@@ -5,3 +5,5 @@
 * [[Reinforcement Learning]]
 * [[Classification]]
 * [[Regression]]
+* [[Neural Networks]]
+* [[Regularization]]

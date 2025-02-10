@@ -4,8 +4,7 @@
 * [[Jacobians]]
 * [[Vector Integrals]]
 * [[Fundamental Theorems of Vector Calculus]]
-
-
+* [[Harmonic Functions]]
 
 
 - Multivariable Calculus $\iiint$

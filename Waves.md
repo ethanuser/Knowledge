@@ -3,6 +3,7 @@
 * [[Periodic Motion]]
 * [[Wave Quantities]]
 * [[Wavelets]]
+* [[Wave Guides]]
 ## Properties of Waves
 * [[Interference]]
 * [[Diffraction]]

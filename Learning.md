@@ -1,4 +1,8 @@
 #Psychology 
+## Topics
+* [[Pedagogy]]
+* [[Tutoring]]
+* [[Anki]]
 # How to Learn
 1. [[Health]]
 	1. [[Sleep]]
@@ -9,7 +13,7 @@
 	3. Diet
 		1. Eat plenty of greens
 2. Environment
-	1. . Time
+	1. Time
 		1. Set out chunk of time to study
 	2. Space
 		1. Designate one place for studying, one for eating, one for sleeping, and one for relaxing
@@ -18,7 +22,7 @@
 		1. If you find yourself dropping off in focus, take breaks every so often (average is every 25 minutes for 5 minutes)
 	2. Flow can often bypass the need for breaks
 4. Cognitive Load
-	1. Priming
+	1. [[Priming]]
 		1. Read lecture for about 15 minutes to build a map of information that'll allow you to connect with previous lectures
 	2. Post review
 		1. Spend 10 minutes consolidating notes in Obsidian by connecting to more concepts
@@ -36,11 +40,13 @@
 			4. Recall (answer questions)
 			5. Review (connect to other concepts/write summary in Obsidian)
 	3. Mnemonics
-		1. Method of Loci
+		1. [[Method of Loci]]
+			1. Rote memorization technique
 		2. Acronyms/phrases
 			1. Useful for memorizing things that require $\displaystyle O(1)$ retrieval time
 	4. Spaced Repetition
 		1. Useful for rote memorization
+			1. Can help with improving retrieval time to $\displaystyle O(1)$ time for instance
 		2. A good app is Anki, although it shouldn't be abused (don't go through 1000 card decks daily)
 	5. Teaching
 		1. Teach to people who don't know your subject

@@ -1,5 +1,5 @@
 #Physics 
-Has no definite energy. Because $\displaystyle p=\hbar k$, you can replace the below equations of $\displaystyle k$ with $\displaystyle \frac{p}{k}$
+Has no definite energy. Because $\displaystyle p=\hbar k$, you can replace the below equations of $\displaystyle k$ with $\displaystyle \frac{p}{\hbar}$
 ## Topics
 * [[Phase Velocity]]
 * [[Group Velocity]]

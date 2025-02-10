@@ -1,3 +1,3 @@
 #Physics 
 ## $\displaystyle E=\frac{\sigma}{\varepsilon}$
-* $\displaystyle \sigma$ is [[stress]]
+* $\displaystyle \sigma$ is [[stress (mechanics)]]

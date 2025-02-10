@@ -7,3 +7,6 @@
 	* Less enzyme to react, so $\displaystyle v_{\text{max}}$ decreased
 ## [[Lineweaver-Burk Plots|Lineweaver-Burk Plot]]
 ![[Pasted image 20231031111000.png|400]]
+## Mnemonic
+* Noncompetitive sounds like no k ($\displaystyle K_{m}$ unchanged)
+* 

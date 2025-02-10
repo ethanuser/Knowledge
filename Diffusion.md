@@ -2,6 +2,8 @@
 For a particle that can either move left or right and makes $\displaystyle n$ steps each of size $\displaystyle \delta$
 ## Topics
 * [[Fick's Equations]]
+* [[Heat Equation|Diffusion Equation]]
+* [[Advection Diffusion Equation]]
 ## $\displaystyle {\left\langle{x(n)}\right\rangle}=0$
 * Average position of a particle after $\displaystyle n$ steps is $\displaystyle 0$ due to random chance
 ## $\displaystyle {\left\langle{x^{2}(n)}\right\rangle}=n\delta ^{2}=2Dt$

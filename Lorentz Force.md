@@ -1,4 +1,6 @@
 #Physics 
+## Topics
+* [[Magnetic Force]]
 ## $\displaystyle F_{B}=q\vec{v}\times \vec{B}$
 * The force a particle of charge $\displaystyle q$ moving at velocity $\displaystyle \vec{v}$ experiences when moving through a magnetic field $\displaystyle \vec{B}$
 ## $\displaystyle F_{B}=I\vec{L}\times \vec{B}$

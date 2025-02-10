@@ -8,3 +8,5 @@ aliases:
 * [[QED]]
 * [[QCD]]
 * [[Field Theory]]
+* [[Compton Wavelength]]
+* [[Fine Structure Constant]]

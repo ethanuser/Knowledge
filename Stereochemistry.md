@@ -6,5 +6,5 @@ aliases:
 #Chemistry 
 ![[Pasted image 20230906130509.png]]
 ## Topics
-* [[R,S System]]
+* [[Absolute Stereochemistry]]
 * [[L,D System]]

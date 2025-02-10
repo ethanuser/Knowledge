@@ -1,0 +1,2 @@
+#Physics 
+When objects are [[Stress (mechanics)|stress]]ed below their [[proportionality limit]], they follow [[Hooke's Law]] and are considered elastic. If they exceed the proportionality limit but remains below the [[elastic limit]], it will no longer follow [[Hooke's Law]] (plastic deformation) but can still return to its original state after the stress is removed. If the strain exceed the elastic limit, the object permanently deforms. When the stress exceed the [[ultimate tensile strength]], the object will fracture

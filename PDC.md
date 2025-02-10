@@ -3,7 +3,7 @@ aliases:
   - Pyruvate Dehydrogenase Complex
 ---
 #Biochemistry 
-Converts [[pyruvate]] to [[acetyl-CoA]] and also produces [[NADH]]
+Converts [[pyruvate]] to [[acetyl-CoA]] and also produces [[NADH]] and [[CO2]]
 ## Subunits
 * [[PDC E1]]
 * [[PDC E2]]

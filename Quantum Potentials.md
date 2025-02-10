@@ -7,3 +7,4 @@
 * [[Finite Square Well]]
 * [[Infinite Sphere Well]]
 * [[Hydrogen Atom]]
+* [[Free Electron Gas]]

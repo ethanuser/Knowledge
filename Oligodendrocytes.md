@@ -1,2 +1,2 @@
 #Biology 
-Glial cells that produce [[Myelin]] in the [[CNS]]
+Glial cells that produce [[myelin]] in the [[CNS]]

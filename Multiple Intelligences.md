@@ -8,4 +8,4 @@ Howard Gardner's theory on there being multiple types of intelligences:
 6. Interpersonal
 7. Intrapersonal
 8. Naturalist
-However there is little empirical evidence of these intelligences being distinct. In fact, IQ correlates with all of these subtasks
+However there is little empirical evidence of these intelligences being distinct. In fact, the [[g factor]] correlates with all of these subtasks

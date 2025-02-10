@@ -2,7 +2,11 @@
 The ratio of a circle's circumference to its width
 ## $\displaystyle \pi\approx 3.14159265358979$
 ## $\displaystyle \frac{1}{\pi}=\frac{2\sqrt{ 2 }}{99^{2}}\sum_{k = 0}^{\infty}\frac{(4k)!}{k!^{4}} \frac{26390k+1103}{396^{4k}}$
-* 
+* Ramanujan's series for calculating digits of pi which converges quite fast
+* [Wikipedia article](https://en.wikipedia.org/wiki/Ramanujan%E2%80%93Sato_series)
+## Algorithms
+* [Chudnovsky Algorithm](https://en.wikipedia.org/wiki/Chudnovsky_algorithm)
+	* Current fastest algorithm to calculate digits of pi
 ## Mnemonic
 ```
 3.14 159 26535 897932 846264 3383 27950 288 4197 169 399 37510

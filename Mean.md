@@ -5,6 +5,7 @@ aliases:
   - Expectation
 ---
 #Math 
+[[Central tendency]] measure that minimizes the sum of [[Euclidean Distance|L2 norm]]s between it and other data points
 ## $\displaystyle \mu=\mathbb{E}[X]={\left\langle{x}\right\rangle}=\bar{x}$
 
 ## $\displaystyle \mathbb{E}[X]=\sum_{x \in S}xp_{X}(x)$
@@ -20,3 +21,5 @@ aliases:
 
 ## $\displaystyle \mathbb{E}[ag(X)+bh(X)]=a\mathbb{E}[g(X)]+b\mathbb{E}[h(X)]$
 * Linearity of Expectation
+# L2 Norm Proof
+![[Pasted image 20240525110610.png|600]]

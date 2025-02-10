@@ -12,10 +12,11 @@
 ## $\displaystyle \psi_{nlm}(r,\theta,\phi)=R_{nl}(r)Y_{l}^{m}(\theta,\phi)$
 * Wave function of a hydrogen atom for quantum numbers $\displaystyle n$, $\displaystyle l$, and , $\displaystyle m$
 * $\displaystyle R_{nl}$ is given in the equation below and is the [[radial wave function]] for the hydrogen atom
-* $\displaystyle Y_{l}^{m}(\theta, \phi)$ is the [[angular wave function]]
+* $\displaystyle Y_{l}^{m}(\theta, \phi)$ is the [[Spherical Harmonics]]
 ## $\displaystyle R_{nl}(r)=\sqrt{ \left( \frac{2}{na_{0}} \right)^{3} \frac{(n-l-1)!}{2n(n+l)!} }e^{-r /na_{0}}\left( \frac{2r}{na_{0}} \right)^{l}\left[ L_{n-l-1}^{2l+1}\left( \frac{2r}{na_{0}} \right) \right]$
 * The first term under the square root is a normalization factor 
 * $\displaystyle a_{0}$ is the [[Bohr radius]]
 * $\displaystyle L_{n-l-1}^{2l+1}$ is the [[associated Laguerre polynomial]]
+
 ## $\displaystyle R_{nl}(r)$ Values
 ![[Pasted image 20240119201435.png]]

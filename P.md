@@ -1,0 +1,5 @@
+---
+aliases:
+  - P (complexity)
+---
+#Computers 

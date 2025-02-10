@@ -1,4 +1,7 @@
 #Physics 
+# Electromagnetism
+## $\displaystyle T=\frac{I_{T}}{I_{I}}=\left( \frac{E_{0_{T}}}{E_{0_{I}}} \right)^{2}$
+# Quantum Mechanics
 ## $\displaystyle T=\left( 1+\frac{\sinh ^{2}(k_{\text{below}}a)}{4\eta(1-\eta)} \right)^{-1}, \,\,\,E<V_{0}$
 * Probability that a particle will reflect off of a potential barrier for a finite square well
 *  $\displaystyle E$ is the kinetic energy of the particle

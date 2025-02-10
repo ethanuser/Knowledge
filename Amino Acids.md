@@ -1,6 +1,7 @@
 #Biochemistry 
 ## Topics
 * [[Amino Acid Structure]]
+* [[Amino Acid Synthesis]]
 ## Types
 * [[Aliphatic Amino Acids]]
 * [[Aromatic Amino Acids]]
@@ -33,3 +34,8 @@ As **P**eter **D**igested
 
 Amid this **N**eatly stacked **A**sparagus
 is a **G**lutinous **Q**uail
+## Mnemonic for pKas
+| Amino Acid      | D         | E         | H         | C        | Y        | K      | R        |
+| --------------- | --------- | --------- | --------- | -------- | -------- | ------ | -------- |
+| pKa             | 4         | 4         | 6         | 8        | 10       | 10.5   | 12.5     |
+| Amino Acid Name | Aspartate | Glutamate | Histidine | Cysteine | Tyrosine | Lysine | Arginine |

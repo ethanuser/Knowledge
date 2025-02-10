@@ -255,7 +255,7 @@ Replace \oiint with \oint
 			$\mathbb{E}[X]=\frac{d}{dt}M_X|_{t=0}=\frac{d}{dt}\ln M_X|_{t=0}$
 			$\sigma_X^2=\frac{d^2}{dt^2}\ln M_X|_{t=0}$
 			Let there be $g(X,Y)$ and $h(X,Y)$
-			- $\mathbb{E}[ag(X,Y) + bh(X,Y)] = a\mathbb{E}[g(X,Y)] + b\mathbb{E}[h(x,y)]$
+			- $\mathbb{E}[ag(X,Y) + bh(X,Y)] = a\mathbb{E}[g(X,Y)] + b\mathbb{E}[h(X,Y)]$
 				States that expected value demonstrates linearity for bivariate random variables
 			$g(x,y) \le h(x,y) ~ \forall (x,y) \in S \rightarrow \mathbb{E}[g(X,Y)] \le \mathbb{E}[h(X,Y)]$
 			$\mathbb{E}[g(X)] = \displaystyle\sum_{x \in S_X}g(x)p_X(x), ~ \mathbb{E}[h(Y)] = \displaystyle\sum_{y \in S_Y} h(y)p_Y(y)$
@@ -1235,7 +1235,7 @@ Replace \oiint with \oint
 			- $A\text{ is diagonalizable}\leftrightarrow\exists S:S^{-1}AS=B\text{ is diagonal}$
 				A square transformation matrix is diagonalizable if there exists a basis in $\mathbb{R}^n$ such that $[T]_\mathfrak{B}$ is diagonal
 				In other words, $A$ is diagonalizable if it’s similar to a diagonal matrix
-				Diagonalizing matrices makes certain calculations easier (e.g. $A^{35}$ is more easily computed as $(SBS^{-1})^{35}=SB^{35}S^{-1}$, where $B$ is a diagonal matrix)
+					Diagonalizing matrices makes certain calculations easier (e.g. $A^{35}$ is more easily computed as $(SBS^{-1})^{35}=SB^{35}S^{-1}$, where $B$ is a diagonal matrix)
 			- $\mathfrak{B}=(\vec v_i)\text{ is an eigenbasis for }A\leftrightarrow S^{-1}AS=B\text{ diagonalizes }A$
 				$$S=\begin{bmatrix}
 				\vec v_1 & \vec v_2 & \cdots & \vec v_n

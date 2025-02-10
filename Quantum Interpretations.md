@@ -8,7 +8,7 @@
 	* This has been the accepted interpretation for a while
  * Agnostic Position
 	* It doesn't matter where it was because we can't possibly know
-	* This was proven wrong by Bell
+	* This was proven wrong by [[Bell's Theorem]]
 * Pilot Wave
 	* Postulates that the wave and particle are real and distinct
 * Many Worlds Theory

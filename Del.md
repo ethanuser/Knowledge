@@ -10,6 +10,7 @@ alia:
 ## $\displaystyle \nabla={\left\langle{\partial_{r},\frac{\partial _{\theta}}{r},\frac{\partial _{\theta}}{r\sin \theta}}\right\rangle}$
 * Spherical coordinates version
 ## Topics
+* [[Gradient, Divergence, and Curl in General Coordinates]]
 * [[Gradient]]
 * [[Divergence]]
 * [[Curl]]

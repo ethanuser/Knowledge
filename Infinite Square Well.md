@@ -1,3 +1,7 @@
+---
+aliases:
+  - Particle in a Box
+---
 #Physics 
 $$
 U(x)=

@@ -1,2 +1,2 @@
 #Biology 
-Glial cells that produce [[Myelin]] in the [[PNS]]
+Glial cells that produce [[myelin]] in the [[PNS]]

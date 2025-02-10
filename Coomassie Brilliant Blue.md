@@ -1,0 +1,3 @@
+#Biochemistry 
+A stain that has varying wavelength of max absorbance depending on pH. It can be used to measure the amount of protein in solution due to only primarily blue light when bound to a protein. Absorbance doesn't follow Beer's law because varying protein concentration may not linearly increase the amount CBB-, and in turn, we may not get linear absorbance
+![[Pasted image 20250205165119.png|400]]

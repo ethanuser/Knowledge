@@ -1,3 +1,5 @@
 #Physics
 ## Topics
-* [[Binomial Appoximation]]
+* [[Binomial Approximation]]
+* [[Few Times Few]]
+* [[Biological Estimates]]

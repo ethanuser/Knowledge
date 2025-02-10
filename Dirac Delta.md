@@ -25,10 +25,6 @@ $$
 ## $\displaystyle \int_{-\infty}^{\infty} f(x)\delta(k x) \, \mathrm{d}x=\frac{1}{\lvert k\rvert}f(0)$
 * This is shown by a u-substitution of $\displaystyle u=kx$
 * The absolute value sign occurs because the delta function is symmetric because $\displaystyle \delta(x)=\delta(-x)$
-## $\displaystyle \int_{\Omega} \delta^{3}(\vec{r}- \vec{r}_{0}) \, \mathrm{d}v=1$
-* In 3D, you need three delta functions for each dimension: $\displaystyle \delta(x-x_{0})\delta(y-y_{0})\delta(z-z_{0})=\delta^{3}(\vec{r}- \vec{r_{0}})$ 
-* $\displaystyle \Omega$ is the volume to integrate over
-## $\displaystyle \nabla \cdot \left(\frac{\hat{\mathscr{r}}}{\mathscr{r}^{2}}\right)=4\pi \delta^{3}(\vec{\mathscr{r}})$
-* Fixes divergence theorem
 ## $\displaystyle \delta(x-x_{0})=\frac{1}{2\pi}\int_{-\infty}^{\infty} e^{ik(x-x_{0})} \, \mathrm{d}k$
 * Need to check this later
+## $\displaystyle $

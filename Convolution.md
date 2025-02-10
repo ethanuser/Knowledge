@@ -10,3 +10,4 @@
 
 ## $\displaystyle [f*g](s)=\int_{-\infty}^{\infty} f(x)g(s-x) \, \mathrm{d}x$
 * Essentially gives the probability of getting a sum $\displaystyle s$ when adding $\displaystyle f$ and $\displaystyle g$, which are two PDF's of two different random variables
+$\displaystyle [f*g](s)=\int_{-\infty}^{\infty} f(x)g(s-x) \, \mathrm{d}x$

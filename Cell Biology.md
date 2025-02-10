@@ -1,3 +1,8 @@
+---
+aliases:
+  - Cells
+  - Cell
+---
 #Biology 
 ## Topics
 * [[Cell Theory]]

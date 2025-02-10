@@ -5,7 +5,9 @@ aliases: []
 ## Topics
 * [[Linear Operators]]
 * [[Commutators]]
+* [[Anticommutators]]
 * [[Generalized Ehrenfest Theorem]]
+* [[Operator Transformation]]
 ## Types
 * [[Position Operator]]
 * [[Momentum Operator]]
@@ -14,6 +16,11 @@ aliases: []
 * [[Potential Energy Operator]]
 * [[Spin Operator]]
 * [[Angular Momentum Operator]]
+* [[Translation Operator]]
+* [[Parity Operator]]
+* [[Rotation Operator]]
+* [[Time-evolution Operator]]
+* [[Heisenberg-picture Operators]]
 # Properties
 * Some operators are non-commutative
 ## $\displaystyle {\left\langle{A}\right\rangle}=\int \Psi^{*}\hat{A}\Psi \, \mathrm{d}x=\bra{\Psi}\hat{A}\ket{\Psi}$

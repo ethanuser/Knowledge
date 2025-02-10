@@ -10,3 +10,5 @@
 * [[Orthogonality]]
 * [[Determinants]]
 * [[Eigen]]
+* [[Quadratic Form]]
+* [[Hessian]]

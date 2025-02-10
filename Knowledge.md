@@ -1,4 +1,4 @@
-## Subjects I'm Learning
+## Things I'm Learning
 1. [[Learning]]
 2. [[Math]]
 3. [[Physics]]
@@ -12,7 +12,8 @@
 12. [[Medicine]]
 13. [[Economics]]
 14. [[Linguistics]]
-15. [[Foreign Languages]]
-## Class Notes
-* [[Current Classes]]
-* [[Past Classes]]
+15. [[History]]
+16. [[Art]]
+17. [[Music]]
+18. [[Foreign Languages]]
+19. [[Soft Skills]]

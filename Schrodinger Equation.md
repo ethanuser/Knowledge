@@ -10,7 +10,7 @@ Non-relativistic and doesn't account for electron spin. The [[Dirac Equation]] a
 * Solved by [[separation of variables]]
 * Must be [[square integrable]]
 ## $\displaystyle \Psi(\vec{r},t)=\sum_{n = 1}^{\infty}c_{n}\psi_{n}(\vec{r})e^{-iE_{n}t/\hbar}$
-* A wave function can be the linear combination of a bunch of wave functions, which by [[Dirichlet's Theorem]], can represent any type of wave function that satisfies the Schrodinger equation
+* A wave function can be the linear combination of a bunch of wave functions, which by [[Fourier's Theorem]], can represent any type of wave function that satisfies the Schrodinger equation
 * $\displaystyle \psi_{n}(\vec{r})$ is the time-independent solution for the $\displaystyle n$th wave function
 * $\displaystyle c_{n}$ is the [[wave function weighting coefficient]]
 * $\displaystyle E_{n}$ is the energy of the $\displaystyle n$th wave function

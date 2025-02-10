@@ -9,7 +9,6 @@ aliases:
 * Full form
 ## $\displaystyle P^{-m}_{l}(x)=(-1)^{m} \frac{(l-m)!}{(l+m)!}P^{m}_{l}(x)$
 * For $\displaystyle m\leq 0$, use this rule
-## $\displaystyle $
 ## Example Values
 ```mathematica
 (* Set the maximum values for l and m *)
