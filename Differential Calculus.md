@@ -6,3 +6,4 @@ aliases:
 * [[Derivative]]
 * [[Derivative of Multivariable Function]]
 * [[Inexact Differential]]
+* [[Chain Rule]]

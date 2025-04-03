@@ -6,6 +6,9 @@ aliases:
 ## Topics
 * [[Dot Product]]
 * [[Cross Product]]
+* [[Outer Product]]
+* [[Double Product]]
+* [[Hadamard Product]]
 * [[Vector Triple Product]]
 * [[Kronecker Product]]
 * [[Triple Product]]

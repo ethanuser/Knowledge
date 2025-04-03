@@ -2,3 +2,5 @@
 ## Topics
 * [[Ansiotropy]]
 * [[Materials]]
+* [[Allotropy]]
+* [[Poisson Ratio]]

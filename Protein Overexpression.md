@@ -2,6 +2,7 @@
 ## Chemicals Required
 * Inducer
 	* Deactivates the repressor on the operon and allows protein to be made
+	* Examples include IPTG
 * LB Broth
 	* Provides nutrients to the bacteria
 		* Tryptone (peptides)

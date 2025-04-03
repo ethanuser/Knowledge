@@ -1,8 +1,9 @@
 ---
 aliases:
   - Diagnostic Testing
+  - Confusion Matrix
 ---
-t#Computers #Biology #Math 
+#Computers #Biology #Math 
 
 | Signal State | Positive Detection                           | Negative Detection                     |
 | ------------ | -------------------------------------------- | -------------------------------------- |
@@ -16,6 +17,9 @@ Let $\displaystyle +$ be the event of a positive detection, $\displaystyle -$ be
 * [[Negative Predictive Value]]
 * [[False Positive Rate]]
 * [[False Negative Rate]]
+* [[ROC Curve]]
+* [[Precision-recall Curve]]
+* [[F1 Score]]
 ## Mnemonic
 * 1 Pregnant Man and 2 Undetected Pregnant Women
 * 🫃🤰🤰

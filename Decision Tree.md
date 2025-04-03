@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Decision Tree
+  - Decision Trees
 ---
 #Computers  
 [Animation Video](https://www.youtube.com/watch?v=ZVR2Way4nwQ)

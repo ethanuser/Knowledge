@@ -1,14 +1,15 @@
-#Physics #Math 
+#Physics #Math
 [Universal Danker Video](https://www.youtube.com/watch?v=nUxaL444Uv0)
 [Universal Danker PDF](https://en.universaldenker.org/files/pdf_documents/2021-02/kronecker-delta.pdf)
-## $$
+## 
+$$
 \delta_{ij}=
 \begin{cases}
 0, & i=j \\
 1, & i\neq j
 \end{cases}
 $$
-* Definition
+* The definition of the Kronecker Delta. It is analogous to the [[identity matrix]] in [[linear algebra]]
 # Properties
 ## $\delta_{ij}=\delta_{ji}$
 * Indices can swap

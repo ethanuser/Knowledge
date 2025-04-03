@@ -10,7 +10,7 @@
 * [[Emotion]]
 * [[Stress (biology)]]
 * [[Identity]]
-* [ ] [[Personality]]
+* [[Personality]]
 * [[Socialization]]
 * [[Attitudes]]
 * [[Altruism]]

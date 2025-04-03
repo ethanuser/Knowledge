@@ -1,3 +1,7 @@
+---
+aliases:
+  - Load
+---
 #Physics 
 ## Four Forces
 * [[Strong Force]]

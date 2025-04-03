@@ -12,7 +12,7 @@ Gel electrophoresis that denatures the protein at the benefit of being able to d
 	* To break disulfide bonds
 * Acrylamide/bisacrylamide
 	* To make the gel
-	* During radical chain polymerization [[polymer]] Acrylamide forms the long chains while bisacrylamide and
+	* During radical chain polymerization [[polymer]] Acrylamide forms the long chains while bisacrylamide forms the cross-bridges
 * Tetramethylethylenediamine (TEMED) and Ammonium Persulfate (APS)
 	* Radical initiators
 * Tris-HCl

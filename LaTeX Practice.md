@@ -81,3 +81,8 @@ Find the maxt height that water will rise in a tree
 $\displaystyle \tau \ln\left( \frac{n(h)}{n_{Q}}+Mgh=\tau \ln\left( \frac{n(0)}{n_{Q}} \right) \right)$
 $\displaystyle Mgh=\tau\left( \ln\left( \frac{n(0)}{n_{Q}} \right)-\ln\left( \frac{rn(0)}{n_{Q}} \right) \right)$
 $\displaystyle Mgh=\tau \ln\left( \frac{1}{r} \right)\Rightarrow h=\frac{\tau}{Mg}\ln\left( \frac{1}{r} \right)$
+
+
+
+
+

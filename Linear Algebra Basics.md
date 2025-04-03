@@ -7,3 +7,4 @@
 * [[Matrix Multiplication]]
 * [[Distance]]
 * [[Adjoint]]
+* [[Identity Matrix]]

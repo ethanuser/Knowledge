@@ -9,4 +9,4 @@
 ![[Pasted image 20231031111000.png|400]]
 ## Mnemonic
 * Noncompetitive sounds like no k ($\displaystyle K_{m}$ unchanged)
-* 
+* N is horizontally asymmetric, which  corresponds with how its reaction diagram is asymmetric

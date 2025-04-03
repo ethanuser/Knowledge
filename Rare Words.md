@@ -43,3 +43,9 @@ Originally from [copypastas](https://docs.google.com/spreadsheets/d/1sC3sUv1awM6
 | Natant                                        |                |
 | Grandiloquent                                 |                |
 | Maladroit                                     |                |
+| Peripatetic                                   |                |
+| Enshittification                              |                |
+| Crapificiation                                |                |
+| Cubit                                         |                |
+| Arroba                                        |                |
+| Perspicacious                                 |                |

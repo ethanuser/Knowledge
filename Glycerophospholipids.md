@@ -9,3 +9,4 @@ Lipids containing a glycerol connected to two fatty acid chains and a phosphate 
 * [[Phosphatidylcholine]]
 * [[Phosphatidylserine]]
 * [[Phosphatidylinositol]]
+* [[Lecithin]]

@@ -1,6 +1,7 @@
 #Computers 
 ## Topics
 * [[Mistake Bound Theorem]]
+* [[Voted Perceptron]]
 ## $\displaystyle H=\left\{ h|h:\mathbb{X}\rightarrow \mathbb{Y},h(\mathbf{x})=\text{sign}(a) \right\}$
 * The set of hypotheses $\displaystyle h(x)$ we hope to be $\displaystyle \hat{y}$, or the function that can predict the labels of a data point
 * $\displaystyle a$ is the [[activation function]]
@@ -31,14 +32,5 @@
 					* This effectively moves the boundary plane defined by $\displaystyle w$ toward classifying more correct examples
 			* $\displaystyle \mu=\mu+w$
 	* return $\displaystyle \mu$
-## $$\displaystyle \theta=
-\begin{pmatrix}
-b \\
-w_{1} \\
-\vdots \\
-w_{D}
-\end{pmatrix}
-$$
-* We redefine $\displaystyle w$ to include the bias $\displaystyle b$
 ### $\displaystyle O(dn)$
 * 

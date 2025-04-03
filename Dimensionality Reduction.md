@@ -1,3 +1,4 @@
 #Computers 
 ## Topics
-* [[PCA]]
+* [[Nonlinear Dimensionality Reduction]]
+* [[Linear Dimensionality Reduction]]

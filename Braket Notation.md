@@ -37,7 +37,7 @@ $$
 \vdots  & \ddots  & \ddots  & \ddots 
 \end{bmatrix}
 $$
-* Outer product of two wave functions
+* [[Outer product]] of two wave functions
 ## $\displaystyle \ket{\Psi}\braket{ \Psi | \Phi }=\text{proj}_{\Psi}\Phi$
 * For normalized wave functions, the outer product of a wave function $\displaystyle \Psi$ with itself enacted on another wave function $\displaystyle \Phi$ gives the projection of $\displaystyle \Phi$ onto $\displaystyle \Psi$
 # Discrete

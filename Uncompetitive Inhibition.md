@@ -10,4 +10,4 @@ When inhibitors bind [[Allosteric Regulation|allosterically]] to the ES complex 
 ![[Pasted image 20231031105558.png|400]]
 ## Mnemonic
 * The U looks like two arrows pointing downward, indicating decreasing $\displaystyle K_{m}$ and $\displaystyle v_{\text{max}}$
-* The U is horizontally symmetrical, so this corresponds to the inhibitor only binding the ES complex
+* The U is horizontally symmetric, so this corresponds to the inhibitor only binding the ES complex based on the reaction diagram looking like a symmetric T

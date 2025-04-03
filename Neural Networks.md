@@ -1,3 +1,0 @@
-#Computers 
-## Topics
-* [[Neural Activations]]

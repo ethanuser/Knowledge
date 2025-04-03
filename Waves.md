@@ -4,6 +4,8 @@
 * [[Wave Quantities]]
 * [[Wavelets]]
 * [[Wave Guides]]
+## Types
+* [[Sound]]
 ## Properties of Waves
 * [[Interference]]
 * [[Diffraction]]

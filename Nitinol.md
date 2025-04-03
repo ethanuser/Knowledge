@@ -1,2 +1,2 @@
 #Chemistry 
-An alloy used in endovascular stents for [[Thrombectomy]]
+An alloy used in endovascular stents for [[thrombectomy]]

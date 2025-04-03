@@ -3,6 +3,7 @@ Inhibitor binds [[Allosteric Regulation|allosterically]] to either the enzyme or
 ![[Pasted image 20231101110354.png|300]]
 * $\displaystyle K_{m}$ increased if $\displaystyle K_{I}<K_{I}'$ where $\displaystyle K_{m}$ is the [[Michaelis constant]]
 	* If the inhibitor binds more strongly to E than it does to ES, binding affinity of E to S decreases, so $\displaystyle K_{m}$ increases
+	* This is kind of analogous to [[competitive inhibition]] since for lower relative $\displaystyle K_{I}$, we'll have less free $\displaystyle E$, which is kind of how the competitive inhibitor takes away free $\displaystyle E$. Competitive inhibition also increases $\displaystyle Km$
 * $\displaystyle K_{m}$ decreased if $\displaystyle K_{I}>K_{I}'$
 	* If the inhibitor binds more strongly to ES than it does to E, binding affinity of E to S increases, so $\displaystyle K_{m}$ decreases
 * $\displaystyle v_{\text{max}}$ decreased due to general inhibition
