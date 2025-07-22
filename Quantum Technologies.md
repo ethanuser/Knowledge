@@ -8,6 +8,6 @@
 * [[Super Conducting Magnets]]
 * [[MRI]]
 * [[NMR]]
-* [[Electron Microscope]]
+* [[Electron Microscopy]]
 * [[Scanning Tunneling Microscope]]
 * [[Atomic Force Microscope]]

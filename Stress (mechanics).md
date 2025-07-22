@@ -7,9 +7,10 @@ aliases:
 * [[Shear Stress]]
 * [[Mohr's Circle]]
 * [[Principal Stress]]
+* [[Stress on Mesh]]
 ## $\displaystyle \sigma=\frac{F}{A}=E\varepsilon$
 * Different from [[pressure]] in that the forces are internal to the object
-* $\displaystyle F$ is the axial force
+* $\displaystyle F$ is the axial forcex
 * $\displaystyle E$ is [[Young's Modulus]]
 * $\displaystyle \varepsilon$ is [[strain]]
 ## $$
@@ -24,4 +25,3 @@ $$
 * Each column represents the [[traction]] experienced by face $\displaystyle j$ in direction $\displaystyle i$ for a given $\displaystyle \sigma_{ij}$ 
 ![[Pasted image 20250224150537.png|600]]
 * The matrix must be symmetric for rotational equilibrium to be preserved (i.e. no rotational acceleration)
-* 

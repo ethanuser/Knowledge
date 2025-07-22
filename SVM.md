@@ -12,7 +12,6 @@ Given a labeled data set, is able to classify data points by seeing on what side
 * [[Hinge Loss]]
 ## $\displaystyle \text{min}_{(w,b)}\sum_{n}\ell^{\text{Hinge}}(y_{n},w^{T}\phi(x_{n})+b)+\frac{\lambda}{2}\left\lVert w\right\rVert^{2}_{2}$
 * Primal formulation of SVM
-* 
 ## $\displaystyle \frac{1}{2}\text{argmin}_{(w,b)}(\lVert w\rVert^{2}):y_{n}[w^{T}\phi(x_{n})+b]\geq 1$
 * Hard margin SVM
 * This is how to find the parameters $\displaystyle w,b$ while under some constraints to create a [[support vector margin]]

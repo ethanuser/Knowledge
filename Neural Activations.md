@@ -4,5 +4,5 @@
 * Linear Activation
 * Sigmoid Activation
 * Tanh Activation
-* ReLU Activation
+* [[ReLU]] Activation
 	* Stands for rectified linear unit

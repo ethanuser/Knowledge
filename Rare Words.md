@@ -49,3 +49,5 @@ Originally from [copypastas](https://docs.google.com/spreadsheets/d/1sC3sUv1awM6
 | Cubit                                         |                |
 | Arroba                                        |                |
 | Perspicacious                                 |                |
+| [[Bremsstrahlung]]                            |                |
+| Emaciate                                      |                |

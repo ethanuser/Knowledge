@@ -4,7 +4,7 @@ aliases:
   - Citric Acid Cycle
   - Tricarboxylic Acid Cycle
 ---
-#Biochemistry
+t#Biochemistry
 Produces 3 [[NADH]] (additionally 1 for conversion of pyruvate to acetyl-CoA) and also 2 [[CO2]] per cycle
 ![[Pasted image 20231116080518.png|900]]
 ## [Mnemonic](https://www.youtube.com/watch?v=RnL71vnCMCY)

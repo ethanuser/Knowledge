@@ -7,7 +7,8 @@ A useful mathematics software that can do symbolic manipulation very well. Is a 
 1. Skim through [documentation](https://reference.wolfram.com/language/) to check if it fits your use case
 2. Watch and follow along with interactive intro [Youtube video](https://www.youtube.com/watch?v=O6h9_Xx-nLA&list=PLxn-kpJHbPx1TOYrbMrvqOztwg0Ncv07e&index=1)
 3. Check out their [free courses](https://www.wolfram.com/wolfram-u/courses/catalog/) and learn as you go
-4. Have [[ChatGPT]] write code for you
+4. Read [[EIWL]]
+5. Have [[ChatGPT]] write code for you
 ## Test Integration with Obsidian
 ```Mathematica
 Print["hi"]

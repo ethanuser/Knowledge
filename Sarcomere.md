@@ -13,4 +13,5 @@ Zebras In Africa Hate Me
 * [[Myosin]]
 * [[Tropomyosin]]
 * [[Troponin]]
+* [[Titin]]
 ![[Pasted image 20240909132033.png|600]]

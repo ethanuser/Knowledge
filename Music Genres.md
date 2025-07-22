@@ -187,7 +187,7 @@ From ChatGPT:
     - Gqom
 - **Latin American**
     - Samba
-    - Bossa Nova
+    - [[Bossa Nova]]
     - Tango
     - Mariachi
     - Cumbia

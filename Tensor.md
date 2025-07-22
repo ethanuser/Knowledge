@@ -1,4 +1,8 @@
 #Math 
+## Number elements in tensor $\displaystyle =\mathrm{dimension^{rank}}$
+* E.g. the 3D stress tensor is a rank $2$ tensor and has $3^2$ components. Likewise, vectors in 3D are rank $1$ tensors and have $3^1$ components
+* Tensor rank is the number of subscripts needed to specify an element (need to check this)
+* A tensor's dimension is the space the tensor lives in (need to check this)
 ## $T_{ij}'=R_{ik}R_{jk}T_{kl}$
 * Describes how a rank 2 tensor transforms under two rotations
 * Symmetric:

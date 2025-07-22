@@ -7,6 +7,7 @@ aliases:
 ## Topics
 * [[Cell Theory]]
 * [[Cell Parts]]
+* [[Cell Adhesion]]
 * [[Cell Division]]
 * [[Bacteria]]
 * [[Cancer]]

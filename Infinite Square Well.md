@@ -24,4 +24,5 @@ $$
 ## $\displaystyle {\left\langle{p}\right\rangle}=0$
 ## $\displaystyle {\left\langle{p^{2}}\right\rangle}=\left( \frac{n\pi \hbar}{a} \right)^{2}$
 ## $\displaystyle \sigma ^{2}_{x}=\frac{a}{2}\sqrt{ \frac{1}{3}-\frac{2}{(n\pi)^{2}} }$
+
 ## $\displaystyle \sigma_{p}=\frac{n\pi \hbar}{a}$

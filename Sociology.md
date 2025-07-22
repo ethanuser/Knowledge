@@ -5,3 +5,4 @@
 * [[Demographics]]
 * [[Social Institutions]]
 * [[Culture]]
+* [[Social Status]]

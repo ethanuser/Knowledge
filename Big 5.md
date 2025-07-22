@@ -1,7 +1,7 @@
 #Psychology 
 ## Types
-* Openness
-* Conscientiousness
-* Extraversion
-* Agreeableness
-* Neuroticism
+* [[Openness]]
+* [[Conscientiousness]]
+* [[Extraversion]]
+* [[Agreeableness]]
+* [[Neuroticism]]

@@ -5,3 +5,4 @@
 * [[Big 5]]
 * [[HEXACO]]
 * [[Grit]]
+* [[Charisma]]
