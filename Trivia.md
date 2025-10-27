@@ -22,5 +22,5 @@
 | 5     | Chemisry                 |     |
 | 5     | Physics                  |     |
 | 5     | Biology                  |     |
-* Aligns with the areas I have written things for in my Obsidian
+ww* Aligns with the areas I have written things for in my Obsidian
 * It's surprising that I know economics/cinema and TV well considering I haven't written anything about films/TV in my Obsidian, but I think the sheer volume of content I've consumed has helped with this. I did take AP Macroeconomics and am glad it seems to have stuck with me. I also am suprirsed by how poor my computer science score is, although it is only 5 questions that were asked, and it's hard to say if all of these are of the same depth (they seem to be more like popular knowledge than actual field-level knowledge).

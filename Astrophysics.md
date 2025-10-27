@@ -4,4 +4,4 @@ aliases:
 ---
 #Physics
 ## Topics
-* 
+* [[Planets]]

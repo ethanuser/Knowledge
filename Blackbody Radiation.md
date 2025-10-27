@@ -1,8 +1,10 @@
 ---
 aliases:
   - Blackbody
+alias: Incadescence
 ---
 #Physics 
+When light is emitted from a hot body due to the thermal excitations wiggling charges in the object
 ## Topics
 * [[Stefan-Boltzmann Law]]
 * [[Debye Temperature]]

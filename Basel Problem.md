@@ -12,3 +12,4 @@ $$
 $$
 
 * Alternatively you can find an elegant solution using infinite light towers and the [[Inverse Pythagorean Theorem]] as seen in this [3b1b video](https://www.youtube.com/watch?v=d-o3eB9sfls)
+* More intuitively, you can tell that $\displaystyle \sin(x)$ is $\displaystyle x-\frac{x^{3}}{3!}+\frac{x^{5}}{5!}-\ldots$ and it's also equal by rules of zeroes to be $\displaystyle a(x-\pi)(x+\pi)(x-2\pi)(x+2\pi)\ldots$ where $\displaystyle a=$...

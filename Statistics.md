@@ -6,6 +6,7 @@
 * [[Information Theory]]
 * [[Instrumental Variables]]
 * [[Correlation Coefficient]]
+* [[Statistical Tests]]
 * [[Sampling]]
 * [[Statistical Laws]]
 ## Resources

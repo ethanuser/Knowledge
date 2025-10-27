@@ -1,3 +1,6 @@
+Listening: https://www.chinesepod.com/tools/pronunciation/section/1
+Course: Hello Chinese
+
 | Tone | Name           | Mark   | Pitch Pattern | Example (ma) | Meaning               |
 | ---- | -------------- | ------ | ------------- | ------------ | --------------------- |
 | 1st  | High Level     | ¯      | ˉ (55)        | mā           | mother (妈)            |
@@ -8,6 +11,10 @@
 
 | Pinyin | Pronounced Like                     | Example             | Notes                       |
 | ------ | ----------------------------------- | ------------------- | --------------------------- |
+| **b**  | "p" in "spin"                       |                     | Unaspirated "p"             |
+| **p**  | "p" in "pin"                        |                     | Aspirated p                 |
+| **d**  | "d" in                              |                     |                             |
+| **t**  |                                     |                     |                             |
 | **q**  | "ch" in "cheese"                    | qī (七) = 7          | Soft and high-pitched       |
 | **x**  | "sh" in "she"                       | xiè (谢) = thank     | But with the tongue flatter |
 | **zh** | "j" in "judge"                      | zhōng (中) = middle  | Not like "z-h"              |

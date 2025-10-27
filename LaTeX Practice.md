@@ -80,3 +80,6 @@ $\displaystyle \tau \ln\left( \frac{n(h)}{n_{Q}}+Mgh=\tau \ln\left( \frac{n(0)}{
 $\displaystyle Mgh=\tau\left( \ln\left( \frac{n(0)}{n_{Q}} \right)-\ln\left( \frac{rn(0)}{n_{Q}} \right) \right)$
 $\displaystyle Mgh=\tau \ln\left( \frac{1}{r} \right)\Rightarrow h=\frac{\tau}{Mg}\ln\left( \frac{1}{r} \right)$
 $\displaystyle R_{nl}(r)=\sqrt{ \left( \frac{2}{na_{0}} \right)^{3} \frac{(n-l-1)!}{2n(n+l)!} }e^{-r /na_{0}}\left( \frac{2r}{na_{0}} \right)^{l}\left[ L_{n-l-1}^{2l+1}\left( \frac{2r}{na_{0}} \right) \right]$
+
+
+

@@ -18,3 +18,5 @@
 | $\displaystyle F$                 | [[Faraday's Constant]]        |
 | $\displaystyle \alpha$            | [[Fine Structure Constant]]   |
 | $\displaystyle e$                 | [[Elementary Charge]]         |
+| $\displaystyle l_{p}$             | [[Planck Length]]             |
+| $\displaystyle t_{P}$             | [[Planck Time]]               |

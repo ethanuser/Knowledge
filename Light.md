@@ -17,5 +17,6 @@ aliases:
 * [[Dispersion]]
 * [[Wave Guides]]
 * [[Radiation]]
+* [[Light Production]]
 ## $\displaystyle c=\lambda f$
 * $\displaystyle c$ is the [[c|speed of light]]

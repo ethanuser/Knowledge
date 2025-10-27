@@ -10,6 +10,7 @@ aliases:
 ## $\displaystyle p(x_{n}|z_{n}=k)=\mathcal{N}(x_{n}|\mu_{k},\Sigma_{k})$
 * The conditional distribution
 * $\displaystyle \mathcal{N}(x_{n}|\mu_{k},\Sigma_{k})$ is the [[Multivariate Gaussian Distribution]]
+* $\displaystyle x_{n}$ is the position of point $\displaystyle n$
 # Parameter Estimation
 ## 
 $$

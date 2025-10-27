@@ -9,4 +9,4 @@ The different structural forms of an [[element]]. For examaple diamond, graphite
 * [[Austenite]]
 	* Higher stiffness, stable at low strains
 * [[Martensite]]
-	* Lower stiffness, stable at high straings
+	* Lower stiffness, stable at high strains
