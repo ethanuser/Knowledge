@@ -1,4 +1,3 @@
 #Chemistry 
 ## Topics
 * [[Crystals]]
-* 
