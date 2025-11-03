@@ -1,4 +1,5 @@
 #Physics
+The study of matter, energy, motion, and their interactions
 ## Branches
 * [[Approximations]]
 * [[Constants]]
