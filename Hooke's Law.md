@@ -26,3 +26,5 @@ $\displaystyle \vec{F_{ij}}$ is the spring force between points $\displaystyle i
 * $\displaystyle \sigma_{ij}$ is the stress between points $\displaystyle i,j$
 * $\displaystyle E$ is the Young's modulus of the material
 * $\displaystyle \varepsilon_{ij}=\frac{\Delta r_{ij}}{r_{0ij}}$ is the strain between $\displaystyle i,j$
+# Continuum Mechanics
+[Textbook](https://www.continuummechanics.org/hookeslaw.html)

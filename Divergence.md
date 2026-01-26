@@ -1,6 +1,9 @@
 #Math 
 ## $\displaystyle \nabla\cdot \vec{F}: \text{vector}\rightarrow \text{scalar}$
 ## $\displaystyle \nabla\cdot \vec{a}=\partial_{i}a_{i}$
+## $\displaystyle (\nabla \cdot \mathbf{A})_{j}=\partial_{j}A_{ij}$
+* For a matrix $\displaystyle \mathbf{A}$
+* Final dimension of $\displaystyle \nabla \cdot \mathbf{A}$ is $\displaystyle n\times 1$
 ## $\displaystyle \nabla \cdot \vec{F}=\frac{\partial_{r}}{r^{2}}(r^{2}F_{r})+\frac{\partial_{\theta}}{r\sin \theta}(F_{\theta}\sin \theta)+\frac{\partial_{\phi}}{r\sin \theta}F_{\phi}$
 * [Mnemonic for remembering](http://individual.utoronto.ca/kzhu/writing/mnemonic_device.pdf)
 # Properties

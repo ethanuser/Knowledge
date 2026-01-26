@@ -1,5 +1,4 @@
 #Physics 
-
 ## Topics
 * [[Torsion]]
 * [[Shear Strain]]

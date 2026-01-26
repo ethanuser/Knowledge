@@ -1,9 +1,10 @@
 ## Topics
 * [[Language Learning]]
-* [[Japanese]]
-* [[Vietnamese]]
-* 
-* [[Spanish]]
+* [[日本語]]
+* [[Tiếng Việt]]
+* [[中文]]
+* [[Español]]
+* [[Greek]]
 * [[Braille]]
 * [[ASL]]
 * [[Morse Code]]

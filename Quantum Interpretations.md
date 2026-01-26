@@ -12,6 +12,7 @@
 * Pilot Wave
 	* Postulates that the wave and particle are real and distinct
 * Many Worlds Theory
+	* A mainstream interpretation
 * QBISM
 * Consistent Histories
 * Transactional Interpretation

@@ -1,4 +1,3 @@
 #Psychology 
 ## Topics
 * [[Neuropsychology]]
-* 

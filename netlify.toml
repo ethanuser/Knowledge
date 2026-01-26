@@ -1,5 +1,5 @@
 [build]
-command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/ethanNguyenUser/obsidian-zola.git __site && __site/run.sh"
+command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/ethanuser/obsidian-zola.git __site && __site/run.sh"
 publish = "public"
 
 [build.environment]
@@ -13,7 +13,7 @@ LANDING_PAGE = "Knowledge"
 LANDING_TITLE = "Hi!"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
-REPO_URL = "https://github.com/ethanNguyenUser/Knowledge"
+REPO_URL = "https://github.com/ethanuser/Knowledge"
 # (Optional) Site title in navbar
 SITE_TITLE = "Ethan's Notes"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
