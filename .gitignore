@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+public
+.quartz-public
+prof
+tsconfig.tsbuildinfo
+.quartz-cache
+.quartz-bootstrap
+private/
+.replit
+replit.nix

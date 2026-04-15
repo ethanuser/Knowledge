@@ -1,0 +1,24 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+.smiles-render {
+  margin-top: 0.75rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  padding: 0.5rem;
+  background: var(--light);
+  overflow-x: auto;
+}
+
+.smiles-render canvas {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.smiles-render-error {
+  color: var(--darkgray);
+  font-size: 0.9rem;
+  text-align: center;
+}

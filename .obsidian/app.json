@@ -1,0 +1,9 @@
+{
+  "userIgnoreFilters": [
+    ".quartz-public",
+    "public",
+    "quartz",
+    "node_modules",
+    ".quartz-cache"
+  ]
+}
