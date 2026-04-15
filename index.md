@@ -5,7 +5,7 @@ title: Welcome
 Welcome to my digital garden. This is where I share my thoughts, write articles, and keep track of everything I'm learning.
 
 ## Latest Articles
-*(Blogs coming soon!)*
+[First Blog Post 4/15/2026](Blog/First%20Blog%20Post.md)
 
 ---
 
