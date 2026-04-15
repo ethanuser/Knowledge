@@ -300,7 +300,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
 
       // Normalize headings that start with display math markers into plain display blocks.
       // Example: "## $$x=1$$" -> "$$x=1$$"
-      src = src.replace(/^(\s{0,3})#{1,6}\s+(\$\$.*)$/gm, "$1$2")
+      src = src.replace(/^(\s{0,3})#{1,6}\s+(\$\$[\s\S]+?\$\$)/gm, "$1$2")
 
       return src
     },

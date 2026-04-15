@@ -5,10 +5,13 @@
 ## $\displaystyle H=\left\{ h|h:\mathbb{X}\rightarrow \mathbb{Y},h(\mathbf{x})=\text{sign}(a) \right\}$
 * The set of hypotheses $\displaystyle h(x)$ we hope to be $\displaystyle \hat{y}$, or the function that can predict the labels of a data point
 * $\displaystyle a$ is the [[activation function]]
-## $$\displaystyle \text{Margin}(\mathcal{D},w)=\begin{cases}
-\text{min}_{(x,y)\in \mathcal{D}} \frac{1}{\left\lVert w\right\rVert}y_{n}w^{T}x_{n} & \text{for separating hyperplane }w \\
+## Margin
+$$
+\text{Margin}(\mathcal{D},w)=\begin{cases}
+\text{min}_{(x,y)\in \mathcal{D}} \frac{y_{n}w^{T}x_{n}}{\left\lVert w\right\rVert} & \text{for separating hyperplane }w \\
 -\infty & \text{else}
-\end{cases}$$
+\end{cases}
+$$
 * The margin of a hyperplane (when varying $\displaystyle w$) is the minimum distance between the given hyperplane and a sample
 * If there's no hyperplane, it's $\displaystyle -\infty$
 ## $\displaystyle \text{Margin}(\mathcal{D})=\text{max}_{w}\text{Margin}(\mathcal{D},w)$

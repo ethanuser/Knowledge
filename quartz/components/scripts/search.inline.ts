@@ -9,6 +9,7 @@ interface Item {
   title: string
   content: string
   tags: string[]
+  aliases: string[]
   [key: string]: any
 }
 
@@ -69,6 +70,10 @@ let index = new FlexSearch.Document<Item>({
     index: [
       {
         field: "title",
+        tokenize: "forward",
+      },
+      {
+        field: "aliases",
         tokenize: "forward",
       },
       {
@@ -315,6 +320,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       title: searchType === "tags" ? data[slug].title : highlight(term, data[slug].title ?? ""),
       content: highlight(term, data[slug].content ?? "", true),
       tags: highlightTags(term.substring(1), data[slug].tags),
+      aliases: highlightAliases(term, data[slug].aliases),
     }
   }
 
@@ -334,18 +340,43 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       .slice(0, numTagResults)
   }
 
+  function highlightAliases(term: string, aliases: string[]) {
+    if (!aliases || searchType === "tags") {
+      return []
+    }
+
+    return aliases
+      .map((alias) => {
+        if (alias.toLowerCase().includes(term.toLowerCase())) {
+          return highlight(term, alias)
+        } else {
+          return null
+        }
+      })
+      .filter((a) => a !== null) as string[]
+  }
+
   function resolveUrl(slug: FullSlug): URL {
     return new URL(resolveRelative(currentSlug, slug), location.toString())
   }
 
-  const resultToHTML = ({ slug, title, content, tags }: Item) => {
+  const resultToHTML = ({ slug, title, content, tags, aliases }: Item) => {
     const htmlTags = tags.length > 0 ? `<ul class="tags">${tags.join("")}</ul>` : ``
+    const htmlAliases =
+      aliases.length > 0
+        ? `<div class="aliases-container">${aliases
+            .map((alias) => `<span class="alias-badge">${alias}</span>`)
+            .join("")}</div>`
+        : ``
     const itemTile = document.createElement("a")
     itemTile.classList.add("result-card")
     itemTile.id = slug
     itemTile.href = resolveUrl(slug).toString()
     itemTile.innerHTML = `
-      <h3 class="card-title">${title}</h3>
+      <div class="result-card-header">
+        <h3 class="card-title">${title}</h3>
+      </div>
+      ${htmlAliases}
       ${htmlTags}
       <p class="card-description">${content}</p>
     `
@@ -423,6 +454,20 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     const innerDiv = await fetchContent(slug).then((contents) =>
       contents.flatMap((el) => [...highlightHTML(currentSearchTerm, el as HTMLElement).children]),
     )
+
+    // Highlight aliases in preview if they match
+    const matchingAliases = data[slug].aliases.filter((a) =>
+      a.toLowerCase().includes(currentSearchTerm.toLowerCase()),
+    )
+    if (matchingAliases.length > 0) {
+      const aliasNotice = document.createElement("div")
+      aliasNotice.classList.add("preview-alias-notice")
+      aliasNotice.innerHTML = `matching alias: ${matchingAliases
+        .map((a) => `<span class="highlight">${a}</span>`)
+        .join(", ")}`
+      innerDiv.unshift(aliasNotice)
+    }
+
     previewInner = document.createElement("div")
     previewInner.classList.add("preview-inner")
     previewInner.append(...innerDiv)
@@ -474,7 +519,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       searchResults = await index.searchAsync({
         query: currentSearchTerm,
         limit: numSearchResults,
-        index: ["title", "content"],
+        index: ["title", "content", "aliases"],
       })
     }
 
@@ -486,6 +531,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     // order titles ahead of content
     const allIds: Set<number> = new Set([
       ...getByField("title"),
+      ...getByField("aliases"),
       ...getByField("content"),
       ...getByField("tags"),
     ])
@@ -522,6 +568,7 @@ async function fillDocument(data: ContentIndex) {
         title: fileData.title,
         content: fileData.content,
         tags: fileData.tags,
+        aliases: fileData.aliases,
       }),
     )
   }

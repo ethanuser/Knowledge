@@ -217,6 +217,34 @@
               margin-bottom: 0;
             }
 
+            & > .aliases-container {
+              margin-top: -0.25rem;
+              margin-bottom: 0.5rem;
+              display: flex;
+              flex-wrap: wrap;
+              gap: 0.25rem;
+
+              & > .alias-badge {
+                font-size: 0.85em;
+                color: var(--darkgray);
+                margin: 0;
+                font-style: italic;
+                opacity: 0.8;
+                background: var(--lightgray);
+                padding: 0.1rem 0.4rem;
+                border-radius: 4px;
+
+                &::before {
+                  content: "alias: ";
+                  font-style: normal;
+                  font-size: 0.8em;
+                  text-transform: uppercase;
+                  letter-spacing: 0.05em;
+                  opacity: 0.6;
+                }
+              }
+            }
+
             & > ul > li > p {
               border-radius: 8px;
               background-color: var(--highlight);
@@ -235,6 +263,17 @@
               margin-bottom: 0;
             }
           }
+        }
+
+        & .preview-alias-notice {
+          margin-top: 1rem;
+          margin-bottom: 0.5rem;
+          font-size: 0.9em;
+          color: var(--gray);
+          font-style: italic;
+          padding: 0.5rem;
+          border-left: 2px solid var(--tertiary);
+          background: var(--highlight);
         }
       }
     }

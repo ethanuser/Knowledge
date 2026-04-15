@@ -1,3 +1,7 @@
+---
+aliases:
+  - Vietnamese
+---
 #Vietnamese
 ## Topics
 * [[Vietnamese Keyboard]]

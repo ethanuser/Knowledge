@@ -66,6 +66,11 @@ export const Latex: QuartzTransformerPlugin<Partial<Options>> = (opts) => {
             css: [{ content: "https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" }],
             js: [
               {
+                src: "https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js",
+                loadTime: "afterDOMReady",
+                contentType: "external",
+              },
+              {
                 // keep mhchem available for any runtime KaTeX re-rendering scenarios
                 src: "https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/mhchem.min.js",
                 loadTime: "afterDOMReady",
