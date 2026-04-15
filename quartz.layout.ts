@@ -5,7 +5,24 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.ConditionalRender({
+      condition: (page) => page.fileData.frontmatter?.tags?.includes("blog") ?? false,
+      component: Component.Comments({
+        provider: "giscus",
+        options: {
+          // You must configure these options using giscus.app 
+          // linking it to a public GitHub repository.
+          repo: "ethanuser/Knowledge",
+          repoId: "R_kgDOKGiROQ",
+          category: "Announcements",
+          categoryId: "DIC_kwDOKGiROc4C66Vo",
+          mapping: "pathname",
+          strict: false,
+        },
+      }),
+    }),
+  ],
   footer: Component.Footer({
     links: {
       "Personal Site": "https://ethanuser.github.io",

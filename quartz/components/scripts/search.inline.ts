@@ -536,6 +536,16 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       ...getByField("tags"),
     ])
     const finalResults = [...allIds].map((id) => formatForDisplay(currentSearchTerm, id))
+    
+    // Deprioritize notes so they appear at the bottom of search results
+    finalResults.sort((a, b) => {
+      const aIsNote = a.slug.startsWith("Notes/") || a.slug.startsWith("notes/")
+      const bIsNote = b.slug.startsWith("Notes/") || b.slug.startsWith("notes/")
+      if (aIsNote && !bIsNote) return 1
+      if (!aIsNote && bIsNote) return -1
+      return 0
+    })
+
     await displayResults(finalResults)
   }
 

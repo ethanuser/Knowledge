@@ -4,6 +4,16 @@
     "public",
     "quartz",
     "node_modules",
-    ".quartz-cache"
+    ".quartz-cache",
+    "package.json",
+    "package-lock.json",
+    "tsconfig.json",
+    "quartz.config.ts",
+    "quartz.layout.ts",
+    "legacy",
+    "plugins",
+    "sitemap*.xml",
+    "examples",
+    "node.js"
   ]
 }

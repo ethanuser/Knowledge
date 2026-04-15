@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     ignorePatterns: [
       "private",
       "templates",
+      "Templates",
       "legacy",
       ".obsidian",
       ".quartz-bootstrap",

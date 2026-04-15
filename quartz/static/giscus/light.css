@@ -60,15 +60,15 @@ main {
   --color-segmented-control-bg: #eaeef2;
   --color-segmented-control-button-bg: #fff;
   --color-segmented-control-button-selected-border: #8c959f;
-  --color-fg-default: #2b2b2b; /* --dark */
-  --color-fg-muted: #4e4e4e; /* --darkgray */
-  --color-fg-subtle: #4e4e4e; /* --darkgray */
-  --color-canvas-default: #fff;
+  --color-fg-default: #111111;
+  --color-fg-muted: #333333;
+  --color-fg-subtle: #444444;
+  --color-canvas-default: #faf8f8;
   --color-canvas-overlay: #fff;
   --color-canvas-inset: #f6f8fa;
   --color-canvas-subtle: #f6f8fa;
-  --color-border-default: #d0d7de;
-  --color-border-muted: hsl(210deg 18% 87% / 100%);
+  --color-border-default: #b8b8b8; /* gray */
+  --color-border-muted: #e5e5e5; /* lightgray */
   --color-neutral-muted: rgb(175 184 193 / 20%);
   --color-accent-fg: #0969da;
   --color-accent-emphasis: #0969da;
