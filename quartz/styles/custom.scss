@@ -22,3 +22,11 @@
   font-size: 0.9rem;
   text-align: center;
 }
+
+// Match Obsidian-like flow: images inside paragraphs should break text below.
+article p > img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0.5rem 0;
+}
