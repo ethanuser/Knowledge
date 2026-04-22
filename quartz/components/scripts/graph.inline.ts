@@ -68,6 +68,8 @@ type TweenNode = {
   stop: () => void
 }
 
+type GraphLayout = Record<string, { x: number; y: number }>
+
 type StoredNodePosition = {
   x: number
   y: number
@@ -169,6 +171,62 @@ function applySharedGlobalPositions(
     node.vx = 0
     node.vy = 0
   }
+}
+
+const graphEditMode = new URLSearchParams(window.location.search).get("graphEdit") === "1"
+const graphLayoutSaveUrl = "http://127.0.0.1:4111/save"
+const graphLayoutButtonId = "quartz-graph-layout-save-btn"
+
+function collectLayout(nodes: NodeData[]): GraphLayout {
+  const out: GraphLayout = {}
+  for (const node of nodes) {
+    if (node.x === undefined || node.y === undefined) continue
+    out[node.id] = { x: Number(node.x.toFixed(3)), y: Number(node.y.toFixed(3)) }
+  }
+  return out
+}
+
+async function saveCurrentLayout() {
+  const nodes = (window as unknown as { __quartzGlobalGraphNodes?: NodeData[] }).__quartzGlobalGraphNodes
+  if (!nodes || nodes.length === 0) return
+  await fetch(graphLayoutSaveUrl, {
+    method: "POST",
+    headers: { "content-type": "application/json" },
+    body: JSON.stringify(collectLayout(nodes)),
+  })
+}
+
+function ensureGraphSaveButton() {
+  if (!graphEditMode) return
+  if (document.getElementById(graphLayoutButtonId)) return
+
+  const btn = document.createElement("button")
+  btn.id = graphLayoutButtonId
+  btn.textContent = "Save Layout"
+  btn.style.position = "fixed"
+  btn.style.right = "20px"
+  btn.style.bottom = "20px"
+  btn.style.zIndex = "99999"
+  btn.style.padding = "10px 14px"
+  btn.style.borderRadius = "8px"
+  btn.style.border = "1px solid var(--lightgray)"
+  btn.style.background = "var(--light)"
+  btn.style.color = "var(--dark)"
+  btn.style.cursor = "pointer"
+  btn.addEventListener("click", async () => {
+    btn.textContent = "Saving..."
+    try {
+      await saveCurrentLayout()
+      btn.textContent = "Saved"
+    } catch {
+      btn.textContent = "Save Failed"
+    } finally {
+      window.setTimeout(() => {
+        btn.textContent = "Save Layout"
+      }, 1000)
+    }
+  })
+  document.body.appendChild(btn)
 }
 
 async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
@@ -275,6 +333,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   if (isGlobalGraph) {
     const sharedPositions = await loadSharedGlobalGraphLayout()
     applySharedGlobalPositions(graphData, sharedPositions, width, height)
+    ;(window as unknown as { __quartzGlobalGraphNodes?: NodeData[] }).__quartzGlobalGraphNodes =
+      graphData.nodes
   }
 
   // we virtualize the simulation and use pixi to actually render it
@@ -679,6 +739,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   requestAnimationFrame(animate)
   return () => {
+    if (isGlobalGraph) {
+      ;(window as unknown as { __quartzGlobalGraphNodes?: NodeData[] }).__quartzGlobalGraphNodes =
+        undefined
+    }
     stopAnimation = true
     app.destroy()
   }
@@ -737,12 +801,17 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
       registerEscapeHandler(container, hideGlobalGraph)
       if (graphContainer) {
         globalGraphCleanups.push(await renderGraph(graphContainer, slug))
+        ensureGraphSaveButton()
       }
     }
   }
 
   function hideGlobalGraph() {
     cleanupGlobalGraphs()
+    const saveBtn = document.getElementById(graphLayoutButtonId)
+    if (saveBtn) {
+      saveBtn.remove()
+    }
     for (const container of containers) {
       container.classList.remove("active")
       const sidebar = container.closest(".sidebar") as HTMLElement
