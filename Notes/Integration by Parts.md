@@ -7,8 +7,8 @@ Integration technique, undos chain rule
 # DI Table Examples
 [Blackpenredpen Video](https://www.youtube.com/watch?v=2I-_SV8cwsw&t=52s)
 ## $\displaystyle \int x^{2}\sin(3x) \, \mathrm{d}x$
-![[Pasted image 20231129095052.png|600]]
+![[Assets/Images/Pasted image 20231129095052.png|600]]
 ## $\displaystyle \int x^{4}\ln x \, \mathrm{d}x$
-![[Pasted image 20231129094922.png|600]]
+![[Assets/Images/Pasted image 20231129094922.png|600]]
 ## $\displaystyle \int e^{x}\sin x \, \mathrm{d}x$
-![[Pasted image 20231129095132.png|600]]
+![[Assets/Images/Pasted image 20231129095132.png|600]]

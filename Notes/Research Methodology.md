@@ -5,4 +5,4 @@
 * [[Case Studies]]
 * [[Cohort Studies]]
 * [[Cross-sectional Studies]]
-![[Pasted image 20240119230308.png|800]]
+![[Assets/Images/Pasted image 20240119230308.png|800]]

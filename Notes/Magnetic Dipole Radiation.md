@@ -1,5 +1,5 @@
 #Physics 
-![[Pasted image 20240603133922.png|400]]
+![[Assets/Images/Pasted image 20240603133922.png|400]]
 ## $\displaystyle V=0$
 * There's no charge, so no potential
 ## $\displaystyle \vec{A}(r,\theta,t)=- \frac{{\mu}_{0}m_{0}\omega}{4\pi c}\left( \frac{\sin \theta}{r} \right)\sin[\omega(t-r /c)]\hat{\phi}$

@@ -32,4 +32,4 @@ $$
 ## $\displaystyle \delta(x-x_{0})=\frac{1}{2\pi}\int_{-\infty}^{\infty} e^{ik(x-x_{0})} \, \mathrm{d}k$
 * Another way of saying this is $\displaystyle \mathcal{F}[1]=2\pi \delta(\omega)$, or the [[Fourier Transform]] of a constant $\displaystyle a$ is $\displaystyle 2\pi a\delta(\omega)$
 	* Proof:
-	* ![[Pasted image 20250520013942.png|500]]
+	* ![[Assets/Images/Pasted image 20250520013942.png|500]]

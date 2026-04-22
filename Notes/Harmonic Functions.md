@@ -6,7 +6,7 @@ Functions that solve [[Laplace's equation]] and also satisfy the [[mean value pr
 * General solution
 # 2D
 Has no local extrema. Intuitively, it's a surface that minimizes surface area while still meeting the boundary conditions much like the line solution in 1D. A ball would also always roll off the edge without finding a spot to rest
-![[Pasted image 20240205165128.png]]
+![[Assets/Images/Pasted image 20240205165128.png]]
 ## $\displaystyle \partial_{x}V+\partial_{y}V=0$
 # 3D
 ## $\displaystyle V(r,\theta)=\sum_{l = 0}^{\infty}\left( A_{l}r^{l}+\frac{B_{l}}{r^{l+1}} \right)P_{l}(\cos \theta)$

@@ -12,5 +12,5 @@ The study of matter, energy, motion, and their interactions
 * [[Physics Concepts]]
 ## Resources
 * [How to become a  GOOD Theoretical Physicist](https://webspace.science.uu.nl/~gadda001/goodtheorist/index.html)) <-- very good
-* ![[Equations of Physics Book.pdf|500]]
+* ![[Assets/PDFs/Equations of Physics Book.pdf|500]]
 * [Cool Simulator](https://app.physion.net/)

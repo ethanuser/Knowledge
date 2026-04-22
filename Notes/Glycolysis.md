@@ -4,7 +4,7 @@ Breakdown of glucose to produce energy
 ## Topics
 * [[Gluconeogenesis]]
 * [[Glycolysis Regulation]]
- ![[Pasted image 20231116080601.png]]
+ ![[Assets/Images/Pasted image 20231116080601.png]]
 ## [Mnemonic](https://www.youtube.com/watch?v=C5wNfdWr4tk)
 1. Gross: [[Glucose]]
 	1. Helen: [[Hexokinase]]

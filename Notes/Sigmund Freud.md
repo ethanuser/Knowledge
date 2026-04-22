@@ -5,7 +5,7 @@ aliases:
 ---
 #Psychology 
 ## Stages Of Development
-![[Pasted image 20231222171855.png|600]]
+![[Assets/Images/Pasted image 20231222171855.png|600]]
 * Oral: 0-1 Years
 * Anal: 1-3 Years
 * Phallic (Oedipal): 3-6 Years

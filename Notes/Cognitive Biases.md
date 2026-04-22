@@ -1,6 +1,6 @@
 #Psychology 
 [Wikipedia article](https://en.wikipedia.org/wiki/Cognitive_bias)
-![[Pasted image 20231202150453.png]]
+![[Assets/Images/Pasted image 20231202150453.png]]
 
 ## Topics
 * [[Paradoxes]]

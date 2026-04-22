@@ -1,2 +1,2 @@
 #Physics 
-![[Pasted image 20240211215949.png]]
+![[Assets/Images/Pasted image 20240211215949.png]]

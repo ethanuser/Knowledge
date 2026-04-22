@@ -11,4 +11,4 @@ This table tells how many hydrogens are attached to a carbon based on the peak d
 | DEPT 90     | None | UP  | 0    | 0   |
 | DEPT 135    | None | UP  | DOWN | UP  |
 ## Example
-![[Pasted image 20240219133342.png|800]]
+![[Assets/Images/Pasted image 20240219133342.png|800]]

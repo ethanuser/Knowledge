@@ -23,5 +23,5 @@ $$
 * From [this video](https://www.youtube.com/watch?v=NtTVEzZS3Bg)
 * A rank 2 [[tensor]] in 3D
 * Each column represents the [[traction]] experienced by face $\displaystyle j$ in direction $\displaystyle i$ for a given $\displaystyle \sigma_{ij}$ 
-![[Pasted image 20250224150537.png|600]]
+![[Assets/Images/Pasted image 20250224150537.png|600]]
 * The matrix must be symmetric for rotational equilibrium to be preserved (i.e. no rotational acceleration)

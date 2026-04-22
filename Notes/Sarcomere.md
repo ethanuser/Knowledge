@@ -7,11 +7,11 @@
 * M-line:
 ### Mnemonic
 Zebras In Africa Hate Me
-![[Pasted image 20241218123204.png|400]]
+![[Assets/Images/Pasted image 20241218123204.png|400]]
 ## Parts
 * [[Actin]]
 * [[Myosin]]
 * [[Tropomyosin]]
 * [[Troponin]]
 * [[Titin]]
-![[Pasted image 20240909132033.png|600]]
+![[Assets/Images/Pasted image 20240909132033.png|600]]

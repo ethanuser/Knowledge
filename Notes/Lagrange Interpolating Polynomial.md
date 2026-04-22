@@ -9,7 +9,7 @@ A neat way to generate a function that passes through certain points
 * $\displaystyle P(x)$ is the polynomial
 * $\displaystyle n$ is the number of points
 * Example: Find the $\displaystyle x$ in this sequence: $\displaystyle 33,34,35,x,39$:
-* ![[Pasted image 20231025222825.png]]
+* ![[Assets/Images/Pasted image 20231025222825.png]]
 * Plugging in 1 gives 33 because all the terms not corresponding to $\displaystyle y_{j}=33$ are sent to $\displaystyle 0$ by $\displaystyle x-x_{k}$ in the numerator
 * The remaining term is still normalized to $\displaystyle 1$ by the denominator
 ## Code

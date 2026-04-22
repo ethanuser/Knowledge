@@ -1,2 +1,2 @@
 #Math #Computers 
-![[Pasted image 20250219153401.png|500]]
+![[Assets/Images/Pasted image 20250219153401.png|500]]

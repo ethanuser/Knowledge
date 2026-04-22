@@ -3,4 +3,4 @@
 * [[Microtubules]]
 * [[Microfilaments]]
 * [[Intermediate Filament]]
-![[Pasted image 20240915200837.png]]
+![[Assets/Images/Pasted image 20240915200837.png]]

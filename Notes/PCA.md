@@ -14,4 +14,4 @@ Projects data onto the dimension that maximizes variance of the data along that 
 * The goal of PCA is to maximize the variance represented by $\displaystyle p^{^{\top}}C_{x}p$ by varying $\displaystyle p$ with the constraint that $\displaystyle p$ is normal
 * $\displaystyle C_{X}$ is the [[covariance matrix]]
 # Training
-![[Screenshot 2025-03-13 at 11.03.18 PM.png|500]]
+![[Assets/Images/Screenshot 2025-03-13 at 11.03.18 PM.png|500]]

@@ -9,4 +9,4 @@ The process of extracting a compound from a mix of compounds by exploiting the c
 * $\displaystyle V_{1}$ is the volume of solvent 1
 * $\displaystyle V_{2}$ is the volume of solvent 2
 * $\displaystyle K$ is the partition coefficient of the compound of interest for $\displaystyle \frac{\text{solvent 2}}{\text{solvent 1}}$
-![[Pasted image 20240122092052.png|400]]
+![[Assets/Images/Pasted image 20240122092052.png|400]]

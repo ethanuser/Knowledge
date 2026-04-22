@@ -1,5 +1,5 @@
 #Physics 
-![[Untitled.png|1000]]
+![[Assets/Images/Untitled.png|1000]]
 * $\text{Color charge}$
 	* There are 3 color charges that quarks and gluons can take: red, green, and blue
 	* There are 3 color charges that antiquarks and antigluons can take: anti-red (cyan), anti-green (magenta), and anti-blue (yellow)

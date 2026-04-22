@@ -4,4 +4,4 @@
 * [[Cannon-Bard Theory]]
 * [[Schachter-Singer Theory]]
 * [[VAD]]
-![[Pasted image 20240106121259.png|500]]
+![[Assets/Images/Pasted image 20240106121259.png|500]]

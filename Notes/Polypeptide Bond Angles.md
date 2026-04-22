@@ -1,6 +1,6 @@
 #Biochemistry 
 ## Bond Rotation
-![[Pasted image 20231010100948.png]]
+![[Assets/Images/Pasted image 20231010100948.png]]
 * $\displaystyle \phi$ is the angle of rotation between the $\displaystyle \ce{N}$ and $\displaystyle \ce{C_{\alpha}}$ atoms
 * $\displaystyle \psi$ is the angle of rotation between the $\displaystyle \ce{C}$ and $\displaystyle \ce{C_{\alpha}}$ atoms
 ## Mnemonic

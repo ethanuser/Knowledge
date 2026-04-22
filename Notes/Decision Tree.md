@@ -17,9 +17,9 @@ The model is trained so as to achieve either pure leaf nodes (among the training
 
 Sometimes better than a linear classifier
 
-![[Pasted image 20240524201111.png]]
+![[Assets/Images/Pasted image 20240524201111.png]]
 Sometimes worse than a linear classifier
-![[Pasted image 20240524201126.png]]
+![[Assets/Images/Pasted image 20240524201126.png]]
 # Regression
 Takes the average value of those within the decision tree zone
 # Testing Algorithm

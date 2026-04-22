@@ -29,4 +29,4 @@ assocLegendreTableWithHeaders = MapThread[Prepend, {assocLegendreTableWithHeader
 (* Use Grid to display the table with headers and grid lines *)
 Grid[assocLegendreTableWithHeaders, Frame -> All]
 ```
-![[Pasted image 20240119142832.png]]
+![[Assets/Images/Pasted image 20240119142832.png]]

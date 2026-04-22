@@ -7,4 +7,4 @@
 * [[Hydrate]]
 * [[Ketal]]
 * [[Aldehyde]]
-![[Pasted image 20240629133655.png|600]]
+![[Assets/Images/Pasted image 20240629133655.png|600]]

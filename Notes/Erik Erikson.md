@@ -5,7 +5,7 @@ aliases:
 ---
 #Psychology 
 ## Stages
-![[Pasted image 20231222113617.png|600]]
+![[Assets/Images/Pasted image 20231222113617.png|600]]
 ## Mnemonic
 * Trust Autonomy to Initiate Industry. Identify Intimacy to Generate Integrity
 	* Trust that cars started the automobile industry

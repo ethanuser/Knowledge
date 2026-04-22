@@ -9,4 +9,4 @@
 ## $\displaystyle {\left\langle{\vec{S}}\right\rangle}=\left( \frac{{\mu}_{0}p_{0}^{2}\omega^{4}}{32\pi ^{2}c} \right) \frac{\sin ^{2}\theta}{r^{2}}\hat{r}$
 ## $\displaystyle {\left\langle{P}\right\rangle}=\frac{{\mu}_{0}p_{0}^{2}\omega^{4}}{12\pi c}$
 * This contributes to [[Why The Sky is Blue]]
-![[Pasted image 20240603112857.png|400]]
+![[Assets/Images/Pasted image 20240603112857.png|400]]

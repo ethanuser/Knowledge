@@ -10,8 +10,12 @@ export interface D3Config {
   zoom: boolean
   depth: number
   scale: number
+  textFadeThreshold: number
+  nodeSize: number
+  linkThickness: number
   repelForce: number
   centerForce: number
+  linkForce: number
   linkDistance: number
   fontSize: number
   opacityScale: number
@@ -30,10 +34,14 @@ const defaultOptions: GraphOptions = {
   localGraph: {
     drag: true,
     zoom: true,
-    depth: 1,
+    depth: 2,
     scale: 1.1,
+    textFadeThreshold: -0.3,
+    nodeSize: 1,
+    linkThickness: 1,
     repelForce: 0.5,
     centerForce: 0.3,
+    linkForce: 0.5,
     linkDistance: 30,
     fontSize: 0.6,
     opacityScale: 1,
@@ -46,11 +54,15 @@ const defaultOptions: GraphOptions = {
     drag: true,
     zoom: true,
     depth: -1,
-    scale: 0.9,
-    repelForce: 0.5,
-    centerForce: 0.2,
+    scale: 0.3,
+    textFadeThreshold: 1,
+    nodeSize: 2.25,
+    linkThickness: 3,
+    repelForce: 1.3,
+    centerForce: 1.5,
+    linkForce: 0.4,
     linkDistance: 30,
-    fontSize: 0.6,
+    fontSize: 0.2,
     opacityScale: 1,
     showTags: true,
     removeTags: [],

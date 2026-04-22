@@ -1,6 +1,6 @@
 #Computers 
 A way to get 3D information from 2D images
-![[Pasted image 20240306103137.png|700]]
+![[Assets/Images/Pasted image 20240306103137.png|700]]
 ## $$
 \begin{bmatrix}
 X_{c} \\

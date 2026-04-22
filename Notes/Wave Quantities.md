@@ -9,4 +9,4 @@
 * [[Angular Frequency]]
 * [[Angular Wavenumber]]
 ## Source
-![[Pasted image 20231211164910.png|300]]
+![[Assets/Images/Pasted image 20231211164910.png|300]]

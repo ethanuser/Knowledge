@@ -10,7 +10,7 @@
 * Upfield (shielded or more nonpolar) molecules have less chemical shift
 ![[Pasted image 20230823010949.png|600]]
 ![[Pasted image 20230823010933.png]]
-![[Pasted image 20241006231053.png|500]]
+![[Assets/Images/Pasted image 20241006231053.png|500]]
 ## Signal Splitting
 * $\displaystyle (n+1)$ rule
 	* $\displaystyle \ce{^{1}H}$ NMR signal is split into $\displaystyle n+1$ peaks, where $\displaystyle n$ is the number of non-equivalent hydrogen neighbors        

@@ -19,7 +19,7 @@ A [[boosting]] algorithm that minimizes [[0-1 Loss]]
 # Exponential Loss Minimization
 ## $\displaystyle a_{t}(x)=a_{t-1}(x)+\beta_{t}h_{t}(x)$
 * The Adaboost classifier for the current epoch equals the previous Adaboost classifier plus the current weighted base classifier
-![[Pasted image 20250306105324.png|400]]
+![[Assets/Images/Pasted image 20250306105324.png|400]]
 * Adaboost minimizes empirical risk of exponential loss
 ## $\displaystyle w_{t}(n)=e^{-y_{n}a_{t-1}(x)}$
 * The weight of the exponential loss of a particular weak classifier is the exponential loss of our previous Adaboost classifier

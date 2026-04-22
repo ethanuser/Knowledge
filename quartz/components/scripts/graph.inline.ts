@@ -68,6 +68,109 @@ type TweenNode = {
   stop: () => void
 }
 
+type StoredNodePosition = {
+  x: number
+  y: number
+}
+
+const OBSIDIAN_TAG_COLORS: Record<string, string> = {
+  math: "#7f1e17",
+  physics: "#bc975f",
+  chemistry: "#71afe1",
+  biology: "#306025",
+  biochemistry: "#874073",
+  computers: "#7b80d0",
+  engineering: "#d8f669",
+  economics: "#90bf57",
+  people: "#d989d9",
+  psychology: "#4f746f",
+}
+
+const OBSIDIAN_PATH_COLORS: { prefix: string; color: string }[] = [
+  { prefix: "personal/", color: "#f9e358" },
+]
+
+function getGroupColorForNode(d: NodeData): string | undefined {
+  const nodeId = d.id.toLowerCase()
+  if (nodeId.startsWith("tags/")) {
+    return OBSIDIAN_TAG_COLORS[nodeId.substring(5)]
+  }
+
+  for (const tag of d.tags) {
+    const color = OBSIDIAN_TAG_COLORS[tag.toLowerCase()]
+    if (color) return color
+  }
+
+  for (const rule of OBSIDIAN_PATH_COLORS) {
+    if (nodeId.startsWith(rule.prefix)) return rule.color
+  }
+
+  return undefined
+}
+
+function randomJitter(scale = 12) {
+  return (Math.random() - 0.5) * scale
+}
+
+let sharedGlobalGraphLayoutPromise: Promise<Record<string, StoredNodePosition>> | undefined
+function loadSharedGlobalGraphLayout() {
+  if (!sharedGlobalGraphLayoutPromise) {
+    sharedGlobalGraphLayoutPromise = fetch("/static/graph-layout.json")
+      .then((res) => (res.ok ? res.json() : {}))
+      .catch(() => ({}))
+  }
+  return sharedGlobalGraphLayoutPromise
+}
+
+function pickAnchorPosition(
+  node: NodeData,
+  graphData: { nodes: NodeData[]; links: LinkData[] },
+): StoredNodePosition | undefined {
+  const connected = graphData.links
+    .filter((l) => l.source.id === node.id || l.target.id === node.id)
+    .map((l) => (l.source.id === node.id ? l.target : l.source))
+  const anchored = connected.filter((n) => n.x !== undefined && n.y !== undefined)
+  if (anchored.length === 0) return undefined
+
+  return {
+    x: anchored.reduce((sum, n) => sum + (n.x ?? 0), 0) / anchored.length + randomJitter(16),
+    y: anchored.reduce((sum, n) => sum + (n.y ?? 0), 0) / anchored.length + randomJitter(16),
+  }
+}
+
+function applySharedGlobalPositions(
+  graphData: { nodes: NodeData[]; links: LinkData[] },
+  savedPositions: Record<string, StoredNodePosition>,
+  width: number,
+  height: number,
+) {
+  for (const node of graphData.nodes) {
+    const saved = savedPositions[node.id]
+    if (saved) {
+      node.x = saved.x
+      node.y = saved.y
+      node.vx = 0
+      node.vy = 0
+    }
+  }
+
+  // Place unknown nodes near known neighbors to keep new content in the right cluster.
+  for (const node of graphData.nodes) {
+    if (node.x !== undefined && node.y !== undefined) continue
+
+    const anchor = pickAnchorPosition(node, graphData)
+    if (anchor) {
+      node.x = anchor.x
+      node.y = anchor.y
+    } else {
+      node.x = randomJitter(Math.min(width, height))
+      node.y = randomJitter(Math.min(width, height))
+    }
+    node.vx = 0
+    node.vy = 0
+  }
+}
+
 async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const slug = simplifySlug(fullSlug)
   const visited = getVisited()
@@ -78,8 +181,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     zoom: enableZoom,
     depth,
     scale,
+    textFadeThreshold,
+    nodeSize,
+    linkThickness,
     repelForce,
     centerForce,
+    linkForce,
     linkDistance,
     fontSize,
     opacityScale,
@@ -163,16 +270,30 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   const width = graph.offsetWidth
   const height = Math.max(graph.offsetHeight, 250)
+  const isGlobalGraph = graph.classList.contains("global-graph-container")
+
+  if (isGlobalGraph) {
+    const sharedPositions = await loadSharedGlobalGraphLayout()
+    applySharedGlobalPositions(graphData, sharedPositions, width, height)
+  }
 
   // we virtualize the simulation and use pixi to actually render it
   const simulation: Simulation<NodeData, LinkData> = forceSimulation<NodeData>(graphData.nodes)
     .force("charge", forceManyBody().strength(-100 * repelForce))
     .force("center", forceCenter().strength(centerForce))
-    .force("link", forceLink(graphData.links).distance(linkDistance))
+    .force("link", forceLink(graphData.links).distance(linkDistance).strength(linkForce))
     .force("collide", forceCollide<NodeData>((n) => nodeRadius(n)).iterations(3))
+    .velocityDecay(isGlobalGraph ? 0.18 : 0.4)
+    .alphaDecay(isGlobalGraph ? 0.015 : 0.0228)
+    .alphaMin(isGlobalGraph ? 0.002 : 0.001)
 
   const radius = (Math.min(width, height) / 2) * 0.8
   if (enableRadial) simulation.force("radial", forceRadial(radius).strength(0.2))
+
+  if (isGlobalGraph) {
+    // Warm up the simulation once so cluster shapes are more visible on initial open.
+    for (let i = 0; i < 100; i++) simulation.tick()
+  }
 
   // precompute style prop strings as pixi doesn't support css variables
   const cssVars = [
@@ -198,18 +319,25 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const isCurrent = d.id === slug
     if (isCurrent) {
       return computedStyleMap["--secondary"]
-    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
-      return computedStyleMap["--tertiary"]
-    } else {
-      return computedStyleMap["--gray"]
     }
+
+    const groupColor = getGroupColorForNode(d)
+    if (groupColor) {
+      return groupColor
+    }
+
+    if (visited.has(d.id) || d.id.startsWith("tags/")) {
+      return computedStyleMap["--tertiary"]
+    }
+
+    return computedStyleMap["--gray"]
   }
 
   function nodeRadius(d: NodeData) {
     const numLinks = graphData.links.filter(
       (l) => l.source.id === d.id || l.target.id === d.id,
     ).length
-    return 2 + Math.sqrt(numLinks)
+    return (2 + Math.sqrt(numLinks)) * nodeSize
   }
 
   let hoveredNodeId: string | null = null
@@ -399,7 +527,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       cursor: "pointer",
     })
       .circle(0, 0, nodeRadius(n))
-      .fill({ color: isTagNode ? computedStyleMap["--light"] : color(n) })
+      .fill({ color: color(n) })
       .on("pointerover", (e) => {
         updateHoverInfo(e.target.label)
         oldLabelOpacity = label.alpha
@@ -416,7 +544,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       })
 
     if (isTagNode) {
-      gfx.stroke({ width: 2, color: computedStyleMap["--tertiary"] })
+      gfx.stroke({ width: 2, color: color(n) })
     }
 
     nodesContainer.addChild(gfx)
@@ -511,7 +639,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
           // zoom adjusts opacity of labels too
           const scale = transform.k * opacityScale
-          let scaleOpacity = Math.max((scale - 1) / 3.75, 0)
+          const scaleOpacity = Math.max((scale + textFadeThreshold) / 3.75, 0)
           const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
 
           for (const label of labelsContainer.children) {
@@ -541,7 +669,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       l.gfx.moveTo(linkData.source.x! + width / 2, linkData.source.y! + height / 2)
       l.gfx
         .lineTo(linkData.target.x! + width / 2, linkData.target.y! + height / 2)
-        .stroke({ alpha: l.alpha, width: 1, color: l.color })
+        .stroke({ alpha: l.alpha, width: linkThickness, color: l.color })
     }
 
     tweens.forEach((t) => t.update(time))

@@ -10,4 +10,4 @@
 * Variable-interval (VI)
 	* Reward offered every couple seconds randomly
 	* Least prone to extinction
-![[Pasted image 20230925215614.png]]
+![[Assets/Images/Pasted image 20230925215614.png]]

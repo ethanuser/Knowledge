@@ -1,1 +1,1 @@
-![[Pasted image 20231130103842.png|600]]
+![[Assets/Images/Pasted image 20231130103842.png|600]]

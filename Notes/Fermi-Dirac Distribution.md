@@ -10,7 +10,7 @@ aliases:
 * Probability of find a particle at a certain energy $\displaystyle E$
 * $\displaystyle E_{f}$ is the [[fermi level]]
 * $\displaystyle T$ is the temperature of the gas. For $\displaystyle T=0$, the function approaches a step function, indicating you'll have 0 probability of finding particles above $\displaystyle E_{f}$
-![[Screenshot 2023-09-19 at 10.28.22 PM.png|400]]
+![[Assets/Images/Screenshot 2023-09-19 at 10.28.22 PM.png|400]]
 [Desmos Demo](https://www.desmos.com/calculator/fhkcv8yjhv)
 # Statistical Mechanics
 ## $\displaystyle f(\varepsilon)\equiv {\left\langle{N(\varepsilon)}\right\rangle}=\frac{1}{e^{\beta(\varepsilon-\mu)}+1}$

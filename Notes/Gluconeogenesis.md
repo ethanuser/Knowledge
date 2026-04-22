@@ -1,6 +1,6 @@
 #Biochemistry 
 Conversion of pyruvate to glucose. When running in conjunction with [[glycolysis]], it is a [[futile cycle]]
-![[Pasted image 20231210104201.png|400]]
+![[Assets/Images/Pasted image 20231210104201.png|400]]
 ## Reactions
 Essentially just the reverse of [[glycolysis]], but the enzymes switched are those that use ATP for glycolysis (those shown in red above)
 1. [[Pyruvate]]

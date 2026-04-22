@@ -22,4 +22,4 @@ aliases:
 ## $\displaystyle \mathbb{E}[ag(X)+bh(X)]=a\mathbb{E}[g(X)]+b\mathbb{E}[h(X)]$
 * Linearity of Expectation
 # L2 Norm Proof
-![[Pasted image 20240525110610.png|600]]
+![[Assets/Images/Pasted image 20240525110610.png|600]]

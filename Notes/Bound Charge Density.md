@@ -7,4 +7,4 @@
 * $\displaystyle \hat{n}$ is the normal unit vector pointing away from the center of the distribution
 ## $\displaystyle \rho_{b}\equiv -\nabla \cdot \vec{P}$
 * Bound volume charge density
-![[Pasted image 20240418234233.png|400]]
+![[Assets/Images/Pasted image 20240418234233.png|400]]

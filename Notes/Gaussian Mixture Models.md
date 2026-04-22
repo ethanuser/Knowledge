@@ -34,6 +34,6 @@ $$
 * The [[covariance matrix]] for all points with $\displaystyle z_{n}=k$
 # Training
 Called expectation-maximization
-![[Pasted image 20250309131547.png]]
+![[Assets/Images/Pasted image 20250309131547.png]]
 * Very similar to [[K-Means]], except that it is considered a "soft" version and also with a non zero $\displaystyle \sigma$
 * The E step corresponds to step 1 while the M step corresponds to step 2

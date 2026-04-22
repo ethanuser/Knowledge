@@ -1,2 +1,2 @@
 #Music 
-![[Pasted image 20250405112854.png]]
+![[Assets/Images/Pasted image 20250405112854.png]]

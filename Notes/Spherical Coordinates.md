@@ -1,6 +1,6 @@
 #Math 
 [Wolfram Article](https://mathworld.wolfram.com/SphericalCoordinates.html)
-![[Pasted image 20231029181012.png|400]]
+![[Assets/Images/Pasted image 20231029181012.png|400]]
 ## $\displaystyle (\rho,\theta,\phi)=\left( \sqrt{ x^{2}+y^{2}+z^{2} },\tan ^{-1}\left( \frac{y}{x}\right),\cos ^{-1}\left( \frac{z}{\rho} \right) \right)$
 * Conversion from [[Cartesian Coordinates|rectangular coordinates]] to spherical coordinates
 * $\displaystyle \theta$ is the [[polar angle]]

@@ -3,4 +3,4 @@
 * [[Cecum]]
 * [[Colon]]
 * [[Rectum]]
-![[Pasted image 20240913133749.png]]
+![[Assets/Images/Pasted image 20240913133749.png]]

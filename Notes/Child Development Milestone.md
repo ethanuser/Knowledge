@@ -7,6 +7,6 @@ The most time-effective method to ensure proper childhood development is probabl
 ## Diagrams
 ![[Pasted image 20230806162946.png]]
 
-![[Pasted image 20231215210213.png]]
+![[Assets/Images/Pasted image 20231215210213.png]]
 [Reddit Post for Apps of Baby Development](https://www.reddit.com/r/daddit/comments/14l96bg/new_baby_spreadsheet_advice/)
 [Table of Deveopment](https://pedscases.com/sites/default/files/SNAPSHOTS_Developmental_Milestones_Chart_UPDATED_Aug_2014.pdf)

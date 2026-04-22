@@ -15,6 +15,7 @@
     "quartz": "./quartz/bootstrap-cli.mjs",
     "dev": "node ./quartz/bootstrap-cli.mjs build --serve --watch -d . -o .quartz-public",
     "build": "node ./quartz/bootstrap-cli.mjs build -d . -o .quartz-public",
+    "graph:layout": "node ./scripts/generate-graph-layout.mjs",
     "preview": "node ./quartz/bootstrap-cli.mjs build --serve -d . -o .quartz-public",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",

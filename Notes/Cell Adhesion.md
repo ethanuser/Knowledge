@@ -5,4 +5,4 @@ Going from apical to basal:
 * [[Adherens Junction]]
 * [[Desmosomes]]/[[Gap Junctions]]
 * [[Hemidesmosome]]
-![[Pasted image 20250508162021.png|500]]
+![[Assets/Images/Pasted image 20250508162021.png|500]]

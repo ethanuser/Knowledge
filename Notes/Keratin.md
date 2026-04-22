@@ -1,2 +1,2 @@
 #Biology 
-![[Pasted image 20250512213523.png|500]]
+![[Assets/Images/Pasted image 20250512213523.png|500]]

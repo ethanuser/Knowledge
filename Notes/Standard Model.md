@@ -1,6 +1,6 @@
 #Physics 
 ## Model
-![[51148317732_42c3d37d37_o.png|1000]]
+![[Assets/Images/51148317732_42c3d37d37_o.png|1000]]
 ## Spin Summaries
 
 | Particle | [[Fermions|Fermion]]                                 | [[Bosons|Boson]]   |

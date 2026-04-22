@@ -7,5 +7,5 @@ Applies when $\displaystyle \partial_{t}\rho= \partial_{t}\vec{J}=0$ everywhere,
 * [[Dipoles]]
 * [[Dielectrics]]
 * [[Electric Displacement]]
-![[Pasted image 20240131102106.png]]
+![[Assets/Images/Pasted image 20240131102106.png]]
 

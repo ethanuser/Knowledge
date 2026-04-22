@@ -9,4 +9,4 @@ Enzyme that cleaves peptide bonds
 6. $\displaystyle \ce{O-}$ comes back down to break bond between serine and carbonyl carbon
 7. Product released
 
-![[Pasted image 20231101121318.png|1000]]
+![[Assets/Images/Pasted image 20231101121318.png|1000]]

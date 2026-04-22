@@ -5,4 +5,4 @@
 
 Is also the implicit time derivative of a function through every spatial variable
 [Video Link](https://www.youtube.com/watch?v=mICbKwwHziI)
-![[Pasted image 20240527100423.png|500]]
+![[Assets/Images/Pasted image 20240527100423.png|500]]

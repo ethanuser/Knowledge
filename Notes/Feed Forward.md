@@ -3,7 +3,7 @@ aliases:
   - Forward Propagation
 ---
 #Math #Computers 
-![[Pasted image 20250219153504.png|600]]
+![[Assets/Images/Pasted image 20250219153504.png|600]]
 $\displaystyle a_{0}$ is a bias term
 ## $\displaystyle \boldsymbol{a}^{(i+1)}=\sigma(\boldsymbol{\Theta^{(i)} a^{(i)}})$
 * $\displaystyle \boldsymbol{a}^{(i)}$ is the activation of the $\displaystyle i$th layer of the neural network and is the same as: $$

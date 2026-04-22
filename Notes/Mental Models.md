@@ -1,2 +1,2 @@
 #Personal 
-![[Mental Models.jpg]]
+![[Assets/Images/Mental Models.jpg]]

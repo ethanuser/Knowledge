@@ -20,4 +20,4 @@
 * $\displaystyle L_{n-l-1}^{2l+1}$ is the [[associated Laguerre polynomial]]
 
 ## $\displaystyle R_{nl}(r)$ Values
-![[Pasted image 20240119201435.png]]
+![[Assets/Images/Pasted image 20240119201435.png]]

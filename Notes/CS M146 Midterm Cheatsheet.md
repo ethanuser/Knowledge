@@ -94,7 +94,7 @@
 - $k$ = number of iterations in gradient-based methods
 - $b$ = batch size for mini-batch gradient descent
 # Algorithms
-![[Pasted image 20250209154350.png]]
+![[Assets/Images/Pasted image 20250209154350.png]]
 ![[Pasted image 20250209154519.png]]
 ![[Pasted image 20250209154534.png]]
 ![[Pasted image 20250209155753.png]]
