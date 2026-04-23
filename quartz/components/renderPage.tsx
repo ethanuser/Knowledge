@@ -28,7 +28,21 @@ export function pageResources(
   staticResources: StaticResources,
 ): StaticResources {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
-  const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
+  const contentIndexScript = `const fetchData = (async () => {
+    const url = "${contentIndexPath}"
+    for (let attempt = 0; attempt < 4; attempt++) {
+      try {
+        const res = await fetch(url, { cache: "no-store" })
+        if (!res.ok) throw new Error("non-ok")
+        const text = await res.text()
+        if (!text || text.trim().startsWith("<")) throw new Error("non-json")
+        return JSON.parse(text)
+      } catch {
+        await new Promise((r) => setTimeout(r, 250 * (attempt + 1)))
+      }
+    }
+    return {}
+  })()`
 
   const resources: StaticResources = {
     css: [

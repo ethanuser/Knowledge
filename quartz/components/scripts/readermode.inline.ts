@@ -1,5 +1,7 @@
 let isReaderMode = false
 
+const isBlogRoute = () => /^\/blog\//i.test(window.location.pathname) || /^\/Blog\//.test(window.location.pathname)
+
 const emitReaderModeChangeEvent = (mode: "on" | "off") => {
   const event: CustomEventMap["readermodechange"] = new CustomEvent("readermodechange", {
     detail: { mode },
@@ -10,7 +12,7 @@ const emitReaderModeChangeEvent = (mode: "on" | "off") => {
 document.addEventListener("nav", () => {
   const switchReaderMode = () => {
     isReaderMode = !isReaderMode
-    const newMode = isReaderMode ? "on" : "off"
+    const newMode = isReaderMode || isBlogRoute() ? "on" : "off"
     document.documentElement.setAttribute("reader-mode", newMode)
     emitReaderModeChangeEvent(newMode)
   }
@@ -20,6 +22,8 @@ document.addEventListener("nav", () => {
     window.addCleanup(() => readerModeButton.removeEventListener("click", switchReaderMode))
   }
 
-  // Set initial state
-  document.documentElement.setAttribute("reader-mode", isReaderMode ? "on" : "off")
+  // Force reader mode on blog pages while preserving manual toggle elsewhere.
+  const initialMode = isReaderMode || isBlogRoute() ? "on" : "off"
+  document.documentElement.setAttribute("reader-mode", initialMode)
+  emitReaderModeChangeEvent(initialMode)
 })

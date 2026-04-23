@@ -35,7 +35,7 @@ main {
   --color-prettylights-syntax-sublimelinter-gutter-mark: #484f58;
   --color-prettylights-syntax-constant-other-reference-link: #a5d6ff;
   --color-btn-text: #d4d4d4; /* --darkgray */
-  --color-btn-bg: #161618; /* --light */
+  --color-btn-bg: #1d1a17; /* --light */
   --color-btn-border: rgb(240, 246, 252 / 10%); /* --dark */
   --color-btn-shadow: 0 0 transparent;
   --color-btn-inset-shadow: 0 0 transparent;
@@ -45,13 +45,13 @@ main {
   --color-btn-active-border: #6e7681;
   --color-btn-selected-bg: #161b22;
   --color-btn-primary-text: #fff;
-  --color-btn-primary-bg: #84a59d; /* --tertiary */
+  --color-btn-primary-bg: #95afe5; /* --tertiary */
   --color-btn-primary-border: rgb(240, 246, 252 / 10%); /* --dark */
   --color-btn-primary-shadow: 0 0 transparent;
   --color-btn-primary-inset-shadow: 0 0 transparent;
-  --color-btn-primary-hover-bg: #7b97aa; /* --secondary */
+  --color-btn-primary-hover-bg: #8fb2f4; /* --secondary */
   --color-btn-primary-hover-border: rgb(240, 246, 252 / 10%); /* --dark */
-  --color-btn-primary-selected-bg: #7b97aa; /* --secondary */
+  --color-btn-primary-selected-bg: #8fb2f4; /* --secondary */
   --color-btn-primary-selected-shadow: 0 0 transparent;
   --color-btn-primary-disabled-text: rgba(33, 32, 32, 0.5);
   --color-btn-primary-disabled-bg: rgb(35 134 54 / 60%);
@@ -60,20 +60,20 @@ main {
   --color-segmented-control-bg: rgb(110 118 129 / 10%);
   --color-segmented-control-button-bg: #0d1117;
   --color-segmented-control-button-selected-border: #6e7681;
-  --color-fg-default: #ebebec; /* --dark */
-  --color-fg-muted: #d4d4d4; /* --darkgray */
-  --color-fg-subtle: #d4d4d4; /* --darkgray */
-  --color-canvas-default: #0d1117;
-  --color-canvas-overlay: #161b22;
-  --color-canvas-inset: #010409;
-  --color-canvas-subtle: #161b22;
-  --color-border-default: #30363d;
-  --color-border-muted: #21262d;
+  --color-fg-default: #f2ece3; /* --dark */
+  --color-fg-muted: #e4ddd4; /* --darkgray */
+  --color-fg-subtle: #e4ddd4; /* --darkgray */
+  --color-canvas-default: #1d1a17; /* --light */
+  --color-canvas-overlay: #26211d;
+  --color-canvas-inset: #171411;
+  --color-canvas-subtle: #26211d;
+  --color-border-default: #3f3933; /* --lightgray */
+  --color-border-muted: #312c27;
   --color-neutral-muted: rgb(110 118 129 / 40%);
-  --color-accent-fg: #2f81f7;
-  --color-accent-emphasis: #1f6feb;
-  --color-accent-muted: rgb(56 139 253 / 40%);
-  --color-accent-subtle: rgb(56 139 253 / 10%);
+  --color-accent-fg: #8fb2f4;
+  --color-accent-emphasis: #8fb2f4;
+  --color-accent-muted: rgb(143 178 244 / 40%);
+  --color-accent-subtle: rgb(143 178 244 / 12%);
   --color-success-fg: #3fb950;
   --color-attention-fg: #d29922;
   --color-attention-muted: rgb(187 128 9 / 40%);

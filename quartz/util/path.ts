@@ -238,10 +238,11 @@ export function transformLink(src: FullSlug, target: string, opts: TransformOpti
 
     if (opts.strategy === "shortest") {
       // if the file name is unique, then it's just the filename
+      const targetCanonicalLower = targetCanonical.toLowerCase()
       const matchingFileNames = opts.allSlugs.filter((slug) => {
         const parts = slug.split("/")
         const fileName = parts.at(-1)
-        return targetCanonical === fileName
+        return fileName?.toLowerCase() === targetCanonicalLower
       })
 
       // only match, just use it

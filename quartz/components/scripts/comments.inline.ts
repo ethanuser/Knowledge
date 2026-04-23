@@ -34,7 +34,29 @@ const getThemeName = (theme: string) => {
   return theme === "dark" ? darkGiscus : lightGiscus
 }
 
+const isLocalHost = () => {
+  const host = window.location.hostname
+  return host === "localhost" || host === "127.0.0.1" || host === "0.0.0.0"
+}
+
 const getThemeUrl = (theme: string) => {
+  // Keep explicit external theme URLs untouched.
+  if (/^https?:\/\//.test(theme)) {
+    return theme
+  }
+
+  // Local dev: use built-in giscus themes for faster iteration.
+  if (isLocalHost()) {
+    return theme
+  }
+
+  // Deployed: resolve to custom CSS files in quartz/static/giscus.
+  const giscusContainer = document.querySelector(".giscus") as GiscusElement
+  const themeBase = giscusContainer?.dataset.themeUrl?.replace(/\/+$/, "")
+  if (themeBase) {
+    return `${themeBase}/${theme}.css`
+  }
+
   return theme
 }
 
