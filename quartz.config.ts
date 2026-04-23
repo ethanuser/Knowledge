@@ -37,7 +37,8 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8", // Primary page background
+          // light: "#fbfafa", // Primary page background
+          light: "#fffdfd", // Primary page background
           lightgray: "#e5e5e5", // Subtle borders and separators
           gray: "#b8b8b8", // Muted text and low-emphasis UI
           darkgray: "#4e4e4e", // Secondary text color
