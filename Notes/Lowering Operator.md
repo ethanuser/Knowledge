@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \hat{a}_{-}=i \frac{\hat{p}}{p_{0}}+ \frac{\hat{x}}{x_{0}}=\frac{1}{\sqrt{ 2m\hbar \omega }}\left( \hbar \frac{ \mathrm{d} }{ \mathrm{d}x }+m\omega x \right)$
 * Applying this operator on $\displaystyle \Psi$ decreases its energy by $\displaystyle \hbar \omega$

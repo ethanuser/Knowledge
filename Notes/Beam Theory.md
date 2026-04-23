@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle E_{\text{bend}}=\frac{1}{2}K_{\text{eff}}\int_{0}^{L} \left\lvert  \frac{\mathrm{d}\vec{t} }{ \mathrm{d}s} \right\rvert^{2} \, \mathrm{d}s$
 * Energy to bend a beam

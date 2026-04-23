@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Biochemistry
 ```smiles
 NC(=O)C1=CN(C=CC1)[C@@H]1O[C@H](COP(O)(=O)OP(O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)N2C=NC3=C(N)N=CN=C23)[C@@H](O)[C@H]1O

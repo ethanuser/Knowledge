@@ -1,3 +1,7 @@
+---
+created: 2023-08-12
+modified: 2026-04-15
+---
 #Computers
 [Github Repo](https://github.com/Nigecat/obsidian-desmos)
 #### Graph 1

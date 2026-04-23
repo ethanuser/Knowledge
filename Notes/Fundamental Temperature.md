@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \tau=k_{B}T=\left( \frac{ \partial \sigma }{ \partial U } \right)^{-1}$
 * Has units of energy

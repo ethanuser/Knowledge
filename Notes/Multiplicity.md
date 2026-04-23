@@ -2,6 +2,8 @@
 aliases:
   - Multiplicity
   - Multiplicity Function
+created: 2023-10-29
+modified: 2026-04-15
 ---
 #Physics 
 [Hyperphysics Article](http://hyperphysics.phy-astr.gsu.edu/hbase/Math/multeng.html#c1)

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Quantum Harmonic Oscillator
+created: 2024-01-27
+modified: 2026-04-15
 ---
 #Physics 
 [Professor Dave Explains Video](https://www.youtube.com/watch?v=l29vbExLSak)

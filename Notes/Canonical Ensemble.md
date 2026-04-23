@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics 
 The more specific version of the [[microcanonical ensemble]] where the system is in [[thermal equilibrium]] with its environment
 ## $\displaystyle N,V,T$

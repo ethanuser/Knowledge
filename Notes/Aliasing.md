@@ -1,3 +1,7 @@
+---
+created: 2025-07-22
+modified: 2026-04-15
+---
 #Math 
 # Signal Processing
 When a signal gets misinterpreted as a lower-frequency wave due to sampling below the signal's [[Nyquist rate]]

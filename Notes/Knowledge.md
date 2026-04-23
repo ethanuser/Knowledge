@@ -1,3 +1,7 @@
+---
+created: 2023-08-12
+modified: 2026-04-15
+---
 ## Things I'm Learning
 1. [[Philosophy]]
 2. [[Learning]]

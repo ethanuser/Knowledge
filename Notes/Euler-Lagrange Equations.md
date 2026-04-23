@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Physics
 ## $\displaystyle \frac{ \partial L }{ \partial x_{i} }-\frac{ \mathrm{d} }{ \mathrm{d}t }\frac{ \partial L }{ \dot{\partial}x_{i} }=0,\,i=1,2,3$
 * E.g.: [[simple harmonic oscillator]] derivation

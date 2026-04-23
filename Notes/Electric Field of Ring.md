@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 ## $E_\text{ring}=k\frac{2\pi\lambda Rz}{(z^2+R^2)^{3/2}}=\frac{Qz}{(z^2+R^2)^{3/2}}$
 * $R$ is the radius of the ring

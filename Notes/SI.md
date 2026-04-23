@@ -2,6 +2,8 @@
 aliases:
   - International System of Units
   - Metric System
+created: 2023-08-29
+modified: 2026-04-15
 ---
 #Physics #Chemistry
 ## SI Prefixes

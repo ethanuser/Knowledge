@@ -1,3 +1,7 @@
+---
+created: 2023-09-16
+modified: 2026-04-15
+---
 #Chemistry 
 [Wikipedia Article](https://en.wikipedia.org/wiki/Karplus_equation)
 Gives the coupling constant between two [[Vicinal]] hydrogens

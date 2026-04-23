@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics #Chemistry 
 ## $\displaystyle F=eN_{A}\approx \mathrm{9.64853321233100184\cdot 10^{4} \frac{C}{mol}}$
 * Charge per mole of electrons

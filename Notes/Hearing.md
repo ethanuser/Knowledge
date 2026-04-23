@@ -1,3 +1,7 @@
+---
+created: 2023-08-20
+modified: 2026-04-15
+---
 #Biology
 The major organ of hearing is the [[ear]]
 ## Path of Hearing

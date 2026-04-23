@@ -3,6 +3,8 @@ aliases:
   - Cognitive Arousal Theory
   - Two-Factor Theory
 IPA: ʃæktɚ
+created: 2024-01-27
+modified: 2026-04-15
 ---
 #Psychology 
 Theory of emotion that states stimulus->(1st Response) nervous system arousal and cognitive appraisal->(2nd Response) cognitive appraisal->behavior

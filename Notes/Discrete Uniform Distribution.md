@@ -1,6 +1,8 @@
 ---
 aliases:
   - Discrete Uniform Random Variable
+created: 2023-10-06
+modified: 2026-04-15
 ---
 #Math 
 ## $X\sim \text{Uniform}(\{1,2,\ldots,m\})$

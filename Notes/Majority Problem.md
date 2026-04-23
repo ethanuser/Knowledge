@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Computers 
 There are $\displaystyle m$ candidates and $\displaystyle n$ total votes. A majority occurs when there is a candidate with votes greater than $\displaystyle \frac{n}{2}$
 ## Claim 1

@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Math 
 ## $\iint_S\text{curl}(\vec F)\cdot d\vec S=\oint_{\partial S}\vec F\cdot  d\vec r=\int_{u_0}^{u_f}\int_{v_0}^{v_f}\text{curl}(\vec F(\vec G(u,v)))\cdot \vec N(u,v)\space dvdu$
 * Is like Green’s Theorem, but for 2D surfaces in 3D space.

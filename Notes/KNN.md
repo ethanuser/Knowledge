@@ -4,6 +4,8 @@ aliases:
   - Nearest Neighbors
   - Nearest Neighbors Classifier
   - NNC
+created: 2025-02-09
+modified: 2026-04-15
 ---
 #Computers 
 A way to classify a data point based on its "similarity distance" to the $\displaystyle k$ nearest neighbors.

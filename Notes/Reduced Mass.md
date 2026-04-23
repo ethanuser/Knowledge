@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \mu=\frac{m_{1}m_{2}}{m_{1}+m_{2}}$
 * Reduces two body problem into a one body problem

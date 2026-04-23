@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle ~\exists~x:P(x)\equiv P(x_{1})\lor P(x_{2})\lor\ldots P(x_{n})\lor\dots$
 * $\displaystyle P(x)$ is a [[predicate]]

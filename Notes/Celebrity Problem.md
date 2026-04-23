@@ -1,6 +1,8 @@
 ---
 aliases:
   - Famous Problem
+created: 2025-02-09
+modified: 2026-04-15
 ---
 #Computers 
 There are a group of people with one celebrity. Everyone knows the celebrity but the celebrity knows no one. You can ask questions such as "Does A know B?" How can you find the celebrity in the fewest number of questions? Let $\displaystyle K(X,Y)$ denote the boolean "X knows Y"

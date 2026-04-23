@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-23
+---
 #Math 
 A neat way to generate a function that passes through certain points
 [Wolfram Article](https://mathworld.wolfram.com/LagrangeInterpolatingPolynomial.html)

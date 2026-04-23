@@ -1,3 +1,7 @@
+---
+created: 2025-07-22
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle c_{k}=\frac{1}{T_{0}}\int_{\tau}^{\tau+T_{0}} f(t)e^{-jk{\omega}_{0}t} \, \mathrm{d}t$
 * Fourier series coefficients

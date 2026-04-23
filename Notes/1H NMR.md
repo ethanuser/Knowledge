@@ -1,3 +1,7 @@
+---
+created: 2023-08-29
+modified: 2026-04-23
+---
 	#Chemistry 
 ## Integration
 * The area under the curve for a signal corresponds proportionally to the number of hydrogens that emit that signal

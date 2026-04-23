@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Computers 
 ## Papers
 * [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)

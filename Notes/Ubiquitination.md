@@ -1,6 +1,8 @@
 ---
 aliases:
   - Ubiquitin
+created: 2024-01-27
+modified: 2026-04-15
 ---
 #Biochemistry 
 The process of marking a protein with ubiquitin marks it for proteolysis

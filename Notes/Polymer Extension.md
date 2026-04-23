@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle z=\frac{{\left\langle{L}\right\rangle}}{L_{\text{tot}}}$
 * $\displaystyle {\left\langle{L}\right\rangle}$ is the expected polymer length

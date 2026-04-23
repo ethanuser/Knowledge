@@ -129,10 +129,10 @@ a {
   }
 }
 
-// Make hovered links in dark mode visibly brighter/near-white.
-[saved-theme="dark"] a:hover {
-  color: color-mix(in srgb, var(--dark) 88%, var(--secondary) 12%);
-}
+// // Make hovered links in dark mode visibly brighter/near-white.
+// [saved-theme="dark"] a:hover {
+//   color: color-mix(in srgb, var(--dark) 88%, var(--secondary) 12%);
+// }
 
 .flex-component {
   display: flex;

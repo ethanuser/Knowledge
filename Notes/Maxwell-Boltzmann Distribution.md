@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Physics
 Describes the proportion of gases at certain speeds
 ## $\displaystyle f\left(x\right)=\sqrt{\frac{2}{\pi}}\frac{x^{2}}{a^{3}}e^{-\frac{x^{2}}{2a^{2}}}$

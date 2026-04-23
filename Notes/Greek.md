@@ -1,3 +1,7 @@
+---
+created: 2026-04-15
+modified: 2026-04-15
+---
 Most etymological roots assume ancient Greek
 [Pronunciation Video for Modern Greek](https://www.youtube.com/watch?v=28yu1PFc438)
 ## Letters

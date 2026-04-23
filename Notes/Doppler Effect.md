@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle f_{\text{obs}}=f_{\text{source}}\left(\frac{v_{\text{sound}}+v_{\text{obs}}}{v_{\text{sound}}+v_{\text{source}}}\right)$
 * Observer to source is positive

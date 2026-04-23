@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Math 
 Deals with arithmetic of cyclical numbers
 [Wikipedia](https://en.wikipedia.org/wiki/Modular_arithmetic)

@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle F=k \frac{qQ}{\mathscr{r}^{2}}\mathscr{\hat{r}}$
 * $\displaystyle k$ is the [[Coloumb constant]]

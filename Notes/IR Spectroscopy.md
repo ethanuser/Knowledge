@@ -1,5 +1,7 @@
 ---
 alias: Infrared Spectroscopy
+created: 2023-08-29
+modified: 2026-04-15
 ---
 #Chemistry
 Infrared light goes from 400 to 4000 $\displaystyle \mathrm{cm^{-1}}$, or 

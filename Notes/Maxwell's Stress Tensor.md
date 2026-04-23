@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 Measures pressure of electric and magnetic fields
 ## $\displaystyle T_{ij}\equiv {\varepsilon}_{0}\left( E_{i}E_{j}-\frac{1}{2}\delta_{ij}E^{2} \right)+\frac{1}{{\mu}_{0}}\left( B_{i}B_{j}-\frac{1}{2}\delta_{ij}B^{2} \right)$

@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Computers 
 [Cool visualizer](https://isabek.github.io/)
 Method for finding max flow in the [[max flow problem]] in a directed graph going from some source to some sink

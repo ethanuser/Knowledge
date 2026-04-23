@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Biology 
 ## $\displaystyle \mathrm{MAP=DP+\frac{SP-DP}{3}}$
 * $\displaystyle \text{DP}$ is the [[diastolic pressure]]

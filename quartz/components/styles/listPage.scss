@@ -6,6 +6,59 @@ ul.section-ul {
   padding-left: 0;
 }
 
+.folder-table-header {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  margin-top: 0.6rem;
+  margin-bottom: 0.2rem;
+  border-bottom: 1px solid var(--lightgray);
+  padding-bottom: 0.25rem;
+  display: grid;
+  grid-template-columns: fit-content(8em) 3fr 1fr;
+}
+
+.folder-sort-btn {
+  background: transparent;
+  border: none;
+  color: var(--darkgray);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-align: left;
+  padding: 0.1rem 0.2rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.folder-sort-btn .sort-icons {
+  display: inline-flex;
+  flex-direction: column;
+  line-height: 0.75;
+  font-size: 0.65rem;
+}
+
+.folder-sort-btn .sort-up,
+.folder-sort-btn .sort-down {
+  opacity: 0.35;
+  color: var(--gray);
+  transition:
+    opacity 120ms ease,
+    color 120ms ease;
+}
+
+.folder-sort-btn.sort-active.sort-asc .sort-up,
+.folder-sort-btn.sort-active.sort-desc .sort-down {
+  opacity: 1;
+  color: var(--dark);
+}
+
+.folder-sort-btn:hover {
+  color: var(--secondary);
+}
+
 li.section-li {
   margin-bottom: 1em;
 

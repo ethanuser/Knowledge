@@ -1,6 +1,8 @@
 ---
 aliases:
   - Sampling Theory
+created: 2025-07-22
+modified: 2026-04-15
 ---
 #Math 
 The main takeaway is that a signal that is discrete in time is periodic in spectrum (and vice versa). 

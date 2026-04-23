@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Computers 
 Problems for which a solution cannot be found in polynomial time by a deterministic Turing Machine but can be verified in polynomial time
 ## Topics

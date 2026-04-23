@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 A constant describing fluid flow dependent on the geometry, surface roughness, and etc. of the environment that the fluid is flowing through
 ## $\displaystyle Re=\frac{v_{c}\rho D}{\eta}$

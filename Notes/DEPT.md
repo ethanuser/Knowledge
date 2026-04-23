@@ -1,6 +1,8 @@
 ---
 aliases:
   - Distortionless Enhancement by Polarization Transfer
+created: 2025-02-09
+modified: 2026-04-23
 ---
 #Chemistry 
 This table tells how many hydrogens are attached to a carbon based on the peak direction for DEPT x graphs

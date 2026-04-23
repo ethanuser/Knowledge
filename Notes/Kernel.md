@@ -1,5 +1,7 @@
 ---
 alia: Nullspace
+created: 2025-02-09
+modified: 2026-04-15
 ---
 #Math 
 ## $\text{ker}(T)=\mathcal{N}(\mathbf{A})=\{\vec x\in\mathbb{R}^m:T(\vec x)=\vec 0\}$

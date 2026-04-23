@@ -1,6 +1,8 @@
 ---
 aliases:
   - Receiver Operating Characteristic
+created: 2025-04-03
+modified: 2026-04-23
 ---
 #Computers 
 * Graphs [[Test Sensitivity|true positive rate]] vs. [[false positive rate]]

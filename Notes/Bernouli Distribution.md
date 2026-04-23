@@ -1,3 +1,7 @@
+---
+created: 2025-10-27
+modified: 2026-04-15
+---
 #Math 
 A Bernoulli random variable takes two values: $0$ and $1$, which are both specified by the below $p_X$ and functions
 ## $X\sim\text{Bernoulli}(p)\text{ for }p\in (0,1)$

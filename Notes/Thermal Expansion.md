@@ -1,3 +1,7 @@
+---
+created: 2023-09-16
+modified: 2026-04-15
+---
 #Physics
 ## $\displaystyle \Delta L = \alpha L \Delta T$
 * $\displaystyle \Delta L$ is the change in length

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Fermi-Dirac Statistics
+created: 2023-10-06
+modified: 2026-04-23
 ---
 #Physics
 [Video Explaining Fermi-Dirac Statistics](https://youtu.be/2wF_CVuWyEg?t=1180)

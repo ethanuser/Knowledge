@@ -1,2 +1,6 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Personal 
 People will generally feel overwhelmed when the ratio of problems they actively take on to the problems that are assigned or given to them by life exceeds a certain threshold (a feeling of a lack of agency). This can be avoided by either changing your mindset (viewing passive problems as ones you can actively take on kind of like Sisyphus) or taking on more active problems (isn't this just delusion?)

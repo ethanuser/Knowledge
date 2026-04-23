@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \mathscr{U}=\frac{1}{2}\left( \frac{\partial \phi }{\partial x}  \right)^{2}$
 * $\displaystyle \phi$ is a field

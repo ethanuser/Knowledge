@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Math 
 States that a function with defined value at the boundaries that satisfies [[Poisson's equation]], there is one unique solution
 ## Topics

@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-23
+---
 #Biochemistry 
 Inhibitor binds [[Allosteric Regulation|allosterically]] to either the enzyme or ES complex. We define $\displaystyle K_{I}$ to be the dissociation constant for the free $\displaystyle \ce{EI}$ complex (equilibrium constant for converting $\displaystyle \ce{EI->E + I}$) and $\displaystyle K_{I}'$ to be dissociation constant for the $\displaystyle \ce{ESI}$ complex
 ![[Assets/Images/Pasted image 20231101110354.png|300]]

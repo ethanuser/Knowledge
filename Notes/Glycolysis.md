@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-23
+---
 #Biochemistry 
 Breakdown of glucose to produce energy
 ## $\displaystyle \ce{C_{6}H_{12}O_{6} + 2P_{i} + 2ADP + 2NAD+-> 2Pyruvate + 2ATP + 2NADH}$

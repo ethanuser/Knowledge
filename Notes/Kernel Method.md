@@ -1,6 +1,8 @@
 ---
 aliases:
   - Kernel Trick
+created: 2025-04-03
+modified: 2026-04-23
 ---
 #Computers #Math 
 ## Topics

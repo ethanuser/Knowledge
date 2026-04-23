@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle \int_\mathscr{C}f(x,y,z)\space ds=\int^{t_f}_{t_0}f(\vec r(t))||\vec r'(t)||\space dt$
 * If $f$ represents mass density and $ds$ represents some infinitesimal length of the curve, the scalar line integral would represent the mass of the curve segment

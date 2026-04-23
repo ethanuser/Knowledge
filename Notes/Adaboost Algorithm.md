@@ -1,3 +1,7 @@
+---
+created: 2025-04-03
+modified: 2026-04-23
+---
 #Computers 
 A [[boosting]] algorithm that minimizes [[0-1 Loss]]
 ## $\displaystyle \epsilon_{t}=\sum_{n}w_{t}(n)\mathbb{1}(y_{n}\neq h_{t}(x_{n}))$

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Energy of Electric Field
+created: 2025-02-09
+modified: 2026-04-15
 ---
 #Physics 
 ## $\displaystyle  W=k\sum_{i = 1}^{N}\sum_{j>1}^{N}\frac{q_{i}q_{j}}{\mathscr{r}_{ij}}=\frac{k}{2}\sum_{i = 1}^{N}\sum_{j\neq 1}^{N}\frac{q_{i}q_{j}}{\mathscr{r}_{ij}}$

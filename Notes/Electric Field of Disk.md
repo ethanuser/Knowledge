@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 ## $E_\text{disk}=k(2\pi\sigma z)(\frac{1}{z}-\frac{1}{\sqrt{z^2+R^2}})$
 * $R$ is the radius of the ring

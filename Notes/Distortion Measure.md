@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Computers 
 ## $\displaystyle J=\sum_{n = 1}^{N}\sum_{k = 1}^{K}r_{nk}\lVert x_{n}-\mu_{k}\rVert^{2}$
 * How much the data points vary/are distorted from the clusters they've been assigned to

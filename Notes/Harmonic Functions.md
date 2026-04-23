@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-23
+---
 #Math 
 Functions that solve [[Laplace's equation]] and also satisfy the [[mean value property]]
 # 1D

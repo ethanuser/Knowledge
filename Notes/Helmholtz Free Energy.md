@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics 
 Related to [[Gibb's Free Energy]]
 ## $\displaystyle F(\tau,V)\equiv U-\tau \sigma\Rightarrow \mathrm{d}F=-\sigma d\tau-P\mathrm{d}V+\mu \mathrm{d}N$

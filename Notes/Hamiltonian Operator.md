@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \hat{H}=\hat{K}+\hat{U}=-\frac{\hbar ^{2}}{2m}\nabla+U$ 
 ## $\displaystyle \hat{H}=\left( \hat{a}_{+}\hat{a}_{-}+\frac{1}{2} \right)\hbar \omega=\left( \hat{a}_{-}\hat{a}_{+}-\frac{1}{2} \right)\hbar \omega$

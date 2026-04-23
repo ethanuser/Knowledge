@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Math 
 * A probability space is a triple of $(\Omega,\mathcal{F},P)$:
 	* $\Omega$ is the set of all possible outcomes of some random experiment

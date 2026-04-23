@@ -2,6 +2,8 @@
 aliases:
   - Erikson's Theory of Psychosocial Development
   - Psychosocial Development
+created: 2024-01-27
+modified: 2026-04-23
 ---
 #Psychology 
 ## Stages

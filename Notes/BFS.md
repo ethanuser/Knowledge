@@ -1,6 +1,8 @@
 ---
 aliases:
   - Breadth-first Search
+created: 2025-02-09
+modified: 2026-04-15
 ---
 #Math 
 Search algorithm along a graph. Can tell you the shortest distance between two points if you start BFS at one of the points (the path distance is equal to the level number). This is probably the most efficient way to go about [[learning]], where if the goal is to maximize morale and minimize time spent, this beats [[DFS]]

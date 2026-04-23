@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
  #Math 
 A way to find extrema when constraints are applied
 [Geometric Intuition](https://www.youtube.com/watch?v=8mjcnxGMwFo)

@@ -3,6 +3,7 @@ import { QuartzPluginData } from "../plugins/vfile"
 import { Date, getDate } from "./Date"
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import { GlobalConfiguration } from "../cfg"
+import { getObsidianTagColor } from "../util/graphColors"
 
 export type SortFn = (f1: QuartzPluginData, f2: QuartzPluginData) => number
 
@@ -69,9 +70,18 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
       {list.map((page) => {
         const title = page.frontmatter?.title
         const tags = page.frontmatter?.tags ?? []
+        const createdSortValue =
+          page.dates?.created?.getTime() ?? (page.dates ? getDate(cfg, page)?.getTime() : undefined) ?? 0
+        const titleSortValue = (title ?? "").toLowerCase()
+        const tagSortValue = (tags[0] ?? "").toLowerCase()
 
         return (
-          <li class="section-li">
+          <li
+            class="section-li"
+            data-sort-created={String(createdSortValue)}
+            data-sort-title={titleSortValue}
+            data-sort-tag={tagSortValue}
+          >
             <div class="section">
               <p class="meta">
                 {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
@@ -84,16 +94,28 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                 </h3>
               </div>
               <ul class="tags">
-                {tags.map((tag) => (
-                  <li>
-                    <a
-                      class="internal tag-link"
-                      href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
-                    >
-                      {tag}
-                    </a>
-                  </li>
-                ))}
+                {tags.map((tag) => {
+                  const tagColor = getObsidianTagColor(tag)
+                  const tagStyle = tagColor
+                    ? {
+                        color: tagColor,
+                        border: `1px solid ${tagColor}66`,
+                        backgroundColor: `${tagColor}1f`,
+                      }
+                    : undefined
+
+                  return (
+                    <li>
+                      <a
+                        class="internal tag-link"
+                        href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
+                        style={tagStyle}
+                      >
+                        {tag}
+                      </a>
+                    </li>
+                  )
+                })}
               </ul>
             </div>
           </li>

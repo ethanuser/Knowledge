@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics
 [Hyperphysics Article](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/stefan.html)
 ## $\displaystyle \frac{U}{V}=\frac{\pi ^{2}}{15(\hbar c)^{3}}\tau^{4}$

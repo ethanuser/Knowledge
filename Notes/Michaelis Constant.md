@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Biochemistry
 ## $\displaystyle K_{m}=\frac{k_{-1}+k_{2}}{k_{1}}$
 * Parameter in the [[Michaelis-Menten equation]] that correlates with how quickly an enzyme reaches $\displaystyle v_{\text{max}}$ when increasing $\displaystyle [S]$. Lower $\displaystyle K_{m}$ means higher enzyme binding affinity for the substrate

@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Physics 
 WIP
 Essentially states that the thermal energy of a particle is split equally between different kinetic energies such as the three translational energies, rotational energies, and vibrational energies

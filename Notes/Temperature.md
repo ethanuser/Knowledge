@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Physics #Chemistry 
 ## [Celcius to Fahrenheit](https://www.desmos.com/calculator/k9md92zkh6)
 $\displaystyle F(C)=\frac{9}{5}C+32$

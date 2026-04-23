@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \lambda _{\text{like}}=\frac{2L}{n},n\in\mathbb{N}$
 * Wavelength of standing waves when both ends are of the same type of boundary (both fixed or both moving)

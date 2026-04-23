@@ -1,3 +1,7 @@
+---
+created: 2025-07-22
+modified: 2026-04-23
+---
 #Math 
 ## $\displaystyle f(t)=\tilde{f}(t)*h(t)=\sum_{k = -\infty}^{\infty}f(kT)\,\text{sinc}(2Bt-k)$
 * $\displaystyle \tilde{f}(t)$ is the sampled version of $\displaystyle f(t)$

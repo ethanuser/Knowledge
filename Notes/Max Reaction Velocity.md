@@ -1,6 +1,8 @@
 ---
 aliases:
   - Maximum Reaction Velocity
+created: 2025-02-09
+modified: 2026-04-15
 ---
 #Biochemistry 
 The maximum rate at which all the enzymes in the reaction convert the substrate to the product form

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Inverse Fourier Transform
+created: 2023-08-12
+modified: 2026-04-15
 ---
 #Math
 ## $\displaystyle f(x)=\frac{1}{\sqrt{ 2\pi }}\int_{-\infty}^{\infty} \tilde{f}(k)e^{ikx} \, \mathrm{d}k$

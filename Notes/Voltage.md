@@ -2,6 +2,8 @@
 aliases:
   - Potential
   - Electric Potential
+created: 2024-01-27
+modified: 2026-04-15
 ---
 #Physics
 Any vector with 0 curl can be written as the gradient of another function

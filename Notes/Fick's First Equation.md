@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle J_{x}=-D\frac{\partial C }{\partial x}$
 * The flux (per unit (area * time)) in a certain direction $\displaystyle x$

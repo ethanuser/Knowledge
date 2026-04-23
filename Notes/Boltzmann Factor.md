@@ -1,6 +1,8 @@
 ---
 aliases:
   - Boltzmann Weight
+created: 2023-10-29
+modified: 2026-04-15
 ---
 #Physics 
 ## $\displaystyle e^{- \beta\varepsilon_{s}}$

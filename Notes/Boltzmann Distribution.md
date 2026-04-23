@@ -1,6 +1,8 @@
 ---
 aliases:
   - Gibbs Distribution
+created: 2023-10-29
+modified: 2026-04-15
 ---
 #Physics 
 ## $\displaystyle P(\varepsilon_{s})=\frac{e^{-\beta\varepsilon_{s}}}{Z}$

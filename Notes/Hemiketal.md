@@ -1,3 +1,7 @@
+---
+created: 2023-08-20
+modified: 2026-04-23
+---
 #Chemistry 
 ```smiles
 [R]C(O)(O[R])[R]

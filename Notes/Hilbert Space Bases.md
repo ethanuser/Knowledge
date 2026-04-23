@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \Psi (x,t)=\braket{ x | \mathcal{S}(t) }$
 * The wave function is the $\displaystyle x$ component of $\displaystyle \ket{\mathcal{S}(t)}$ in the basis of position eigenfunctions

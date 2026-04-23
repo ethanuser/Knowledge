@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 ## $l=\frac{l_0}{\gamma}$
 * This equation describes the length contraction of an object that is stationary in $S'$ as observed by someone in reference frame $S$

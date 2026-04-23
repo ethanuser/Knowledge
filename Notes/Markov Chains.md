@@ -2,6 +2,8 @@
 aliases:
   - Markov Process
   - Markov Model
+created: 2025-04-03
+modified: 2026-04-15
 ---
 #Computers 
 A model that tries to predict the next future state given one future state (one in the case of 1st-order Markov models)

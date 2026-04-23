@@ -2,6 +2,8 @@
 aliases:
   - Support Vector Machines
   - SVMs
+created: 2025-02-09
+modified: 2026-04-15
 ---
 #Computers 
 Given a labeled data set, is able to classify data points by seeing on what side of the [[decision boundary]] they lie on within an N dimensional space, where N is the number of features. The decision boundary is tuned during training. 

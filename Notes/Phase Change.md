@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Physics #Chemistry
 ## $\displaystyle Q=mL$
 * $\displaystyle Q$ is the heat gained or lost from the material during the phase change

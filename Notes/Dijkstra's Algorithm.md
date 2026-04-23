@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Computers 
 Algorithm to find the shortest path from one node to any other node. Basically just visit each node of smallest edge weight and update the total weights accordingly
 ## Pseudocode

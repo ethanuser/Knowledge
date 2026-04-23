@@ -1,2 +1,6 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Physics 
 Two objects are in thermal equilibrium if they are in thermal contact with each other and there's no heat exchange. In other words, the [[Boltzmann distribution]] reaches time independence. Can also be said as when two objects have equal [[temperature]]

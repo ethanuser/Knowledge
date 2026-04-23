@@ -1,3 +1,7 @@
+---
+created: 2025-07-22
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle \mathcal{L}[af_{1}(t)+bf_{2}(t)]=aF_{1}(s)+bF_{2}(s)$
 * Linearity

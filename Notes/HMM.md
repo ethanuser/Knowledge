@@ -1,6 +1,8 @@
 ---
 aliases:
   - Hidden Markov Models
+created: 2025-04-03
+modified: 2026-04-15
 ---
 #Computers 
 A model that tries to predict the hidden variables of a [[markov model]]

@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 Originally from [copypastas](https://docs.google.com/spreadsheets/d/1sC3sUv1awM6CHpxIfV5GmGziKJWZTI1nU8chGnLk9Fg/edit?gid=0#gid=0)
 
 ---

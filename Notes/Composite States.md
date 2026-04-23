@@ -1,6 +1,8 @@
 ---
 aliases:
   - Composite State
+created: 2025-02-09
+modified: 2026-04-15
 ---
 #Physics 
 ## $\displaystyle \ket{s,m_{s}}=\sum_{m_{1}+m_{2}=m_{s}}C_{m_{1}m_{2}m}^{s_{1}s_{2}s}\ket{s_{1}s_{2}m_{1}m_{2}}$

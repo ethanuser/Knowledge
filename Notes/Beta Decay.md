@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \ce{^{A}_{Z}X->_-1^{0}e + ^{A}_{Z+1}Y}$
 * $\displaystyle \beta^{-}$ decay is when an atom loses a neutron and gains a proton while shooting off an electron

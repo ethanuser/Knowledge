@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \hat{T}(a)\psi(x)=\psi(x-a)$
 ## $\displaystyle \hat{T}(a)=\exp\left( -\frac{ia}{\hbar}\hat{p} \right)$

@@ -1,5 +1,7 @@
 ---
 alias: Ossicle, Ear Bone, Ear Bones
+created: 2023-08-20
+modified: 2026-04-15
 ---
 #Biology
 Small ear bones

@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Math 
 The ratio of a circle's circumference to its width
 ## $\displaystyle \pi\approx 3.14159265358979$

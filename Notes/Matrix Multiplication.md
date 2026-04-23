@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle A=n\times p,\space B=p\times m,\space AB=n\times m​$
 ## $$AB=\begin{bmatrix}

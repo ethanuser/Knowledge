@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Physics 
 States that particles follow the path that minimizes their [[action]]. Historically, Hamilton's principle was postulated after Lagrangian mechanics were derived, but it may be used to define Lagrangian mechanics
 ## $\displaystyle \delta S[q(t)]=0$

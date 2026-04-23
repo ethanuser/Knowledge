@@ -1,3 +1,7 @@
+---
+created: 2023-08-20
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \vec{M}=\frac{\vec{m}}{V}$
 * $\displaystyle \vec{m}$ is the magnetic [[dipole moment]]

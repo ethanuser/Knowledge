@@ -1,6 +1,8 @@
 ---
 aliases:
   - Forward Propagation
+created: 2025-04-03
+modified: 2026-04-23
 ---
 #Math #Computers 
 ![[Assets/Images/Pasted image 20250219153504.png|600]]

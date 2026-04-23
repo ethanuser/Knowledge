@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-23
+---
 #Physics 
 ## $\displaystyle \Phi_{B}=\vec{B}\cdot \vec{A}=BA\cos \theta$
 * $\displaystyle \vec{B}$ is the [[magnetic field]] passing through a surface

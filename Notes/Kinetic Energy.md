@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Physics 
 Often represented with either a $\displaystyle K$ or $\displaystyle T$
 # Classical

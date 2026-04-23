@@ -1,2 +1,6 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Physics 
 States that quantum particles exists as their wave function before they are measured. A classic thought experiment, [[Schrodinger's Cat]] attempts to discredit this but is wrong because it's a macroscopic object... (need to research this later)

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Gibb's Sum
+created: 2024-01-27
+modified: 2026-04-15
 ---
 #Physics 
 ## $\displaystyle \mathbb{Z}=\sum_{\text{ASN}}e^{\beta(\mu N-\varepsilon)}$

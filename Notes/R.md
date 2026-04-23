@@ -2,6 +2,8 @@
 aliases:
   - Gas Constant
   - Ideal Gas Constant
+created: 2023-08-12
+modified: 2026-04-15
 ---
 #Physics #Chemistry
 ## $$

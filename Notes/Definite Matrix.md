@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Math 
 A matrix with a [[quadratic form]] that greater or less than 0
 ## Topics

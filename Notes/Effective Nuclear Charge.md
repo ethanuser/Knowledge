@@ -1,3 +1,7 @@
+---
+created: 2023-09-16
+modified: 2026-04-15
+---
 #Chemistry 
 ## $\displaystyle Z_{\text{effective}}=Z-A-\frac{1}{2}\text{\# valence }e^{-}$
 * A rough approximation for $\displaystyle Z_{\text{effective}}$, or the effective nuclear charge of an atom

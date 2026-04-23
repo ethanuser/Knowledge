@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 Describes electric and magnetic fields for [[retarded potentials]]
 ## $\displaystyle \vec{E}(\vec{r},t)=k\int \left[ \frac{\rho(\vec{r}',t_{r})}{\mathscr{r}^{2}} \mathscr{\hat{r}}+ \frac{\dot{\rho}(\vec{r}',t_{r})}{c\mathscr{r}}\mathscr{\hat{r}}- \frac{\dot{\vec{J}}(\vec{r}',t_{r})}{c^{2}\mathscr{r}}\right] \, \mathrm{d}\tau'$

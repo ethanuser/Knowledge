@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \sigma(U,V,N)\Rightarrow \mathrm{d}\sigma=\frac{ \partial \sigma }{ \partial U }\mathrm{d}U+\frac{ \partial \sigma }{ \partial V }\mathrm{d}V+\frac{ \partial \sigma }{ \partial N }\mathrm{d}N=\frac{1}{\tau}\mathrm{d}U+\frac{P}{\tau}\mathrm{d}V-\frac{\mu}{\tau}\mathrm{d}N$
 * The terms are thermal, mechanical, and diffusive

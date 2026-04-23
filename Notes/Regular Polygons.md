@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Math 
 Polygons that are equiangular and equilateral
 ## $\displaystyle A=\frac{na^{2}}{4\tan\left( \frac{\pi}{n} \right)}$

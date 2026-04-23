@@ -1,3 +1,7 @@
+---
+created: 2025-04-03
+modified: 2026-04-15
+---
 #Personal 
 [100 Questions on Reddit](https://www.reddit.com/r/slatestarcodex/comments/17xg3lq/sort_of_nerdish_general_knowledge_test_with_100/)
 

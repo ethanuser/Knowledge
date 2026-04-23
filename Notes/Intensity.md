@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 Average power per unit area
 ## $\displaystyle I=\frac{\bar{n}_{t}h\nu}{At}$

@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Math 
 The orthogonal basis set for [[spherical coordinates]]
 ## $\displaystyle P_{l}(x)\equiv  \frac{1}{2^{l}l!}\left( \frac{\mathrm{d} }{ \mathrm{d}x} \right)^{l}(x^{2}-1)^{l}$

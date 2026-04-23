@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Math 
 [Nice Animation](https://www.youtube.com/watch?v=jnxqHcObNK4&list=WL&index=14)
 Allows you to produce spectrograms by corresponding the intensity of a certain frequency at a certain time to the magnitude of the complex [[convolution]] of a small wavelet curve on the sample of interest.

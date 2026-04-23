@@ -1,6 +1,8 @@
 ---
 aliases:
   - Einstein Riddle
+created: 2025-04-03
+modified: 2026-04-15
 ---
 #Math 
 https://en.wikipedia.org/wiki/Zebra_Puzzle

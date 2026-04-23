@@ -1,5 +1,7 @@
 ---
 alias: Precess
+created: 2023-08-29
+modified: 2026-04-15
 ---
 #Physics 
 [Hyperphysics Article](http://hyperphysics.phy-astr.gsu.edu/hbase/top.html)

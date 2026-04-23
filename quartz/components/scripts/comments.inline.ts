@@ -13,7 +13,7 @@ const changeTheme = (e: CustomEventMap["themechange"]) => {
     {
       giscus: {
         setConfig: {
-          theme: getThemeUrl(getThemeName(theme)),
+          theme: getThemeName(theme),
         },
       },
     },
@@ -32,32 +32,6 @@ const getThemeName = (theme: string) => {
   const darkGiscus = giscusContainer.dataset.darkTheme ?? "dark"
   const lightGiscus = giscusContainer.dataset.lightTheme ?? "light"
   return theme === "dark" ? darkGiscus : lightGiscus
-}
-
-const isLocalHost = () => {
-  const host = window.location.hostname
-  return host === "localhost" || host === "127.0.0.1" || host === "0.0.0.0"
-}
-
-const getThemeUrl = (theme: string) => {
-  // Keep explicit external theme URLs untouched.
-  if (/^https?:\/\//.test(theme)) {
-    return theme
-  }
-
-  // Local dev: use built-in giscus themes for faster iteration.
-  if (isLocalHost()) {
-    return theme
-  }
-
-  // Deployed: resolve to custom CSS files in quartz/static/giscus.
-  const giscusContainer = document.querySelector(".giscus") as GiscusElement
-  const themeBase = giscusContainer?.dataset.themeUrl?.replace(/\/+$/, "")
-  if (themeBase) {
-    return `${themeBase}/${theme}.css`
-  }
-
-  return theme
 }
 
 type GiscusElement = Omit<HTMLElement, "dataset"> & {
@@ -100,7 +74,7 @@ document.addEventListener("nav", () => {
   giscusScript.setAttribute("data-lang", giscusContainer.dataset.lang)
   const theme = document.documentElement.getAttribute("saved-theme")
   if (theme) {
-    giscusScript.setAttribute("data-theme", getThemeUrl(getThemeName(theme)))
+    giscusScript.setAttribute("data-theme", getThemeName(theme))
   }
 
   giscusContainer.appendChild(giscusScript)

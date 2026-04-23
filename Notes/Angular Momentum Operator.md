@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \hat{L}\equiv \hat{L}_{x}^{2}+\hat{L}_{y}^{2}+\hat{L}_{z}^{2}$
 * Definition of total angular momentum of a particle

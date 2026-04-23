@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Math 
 [Video Definition](https://www.youtube.com/watch?v=aC5cYc7XhIs)
 [Desmos Interactive](https://www.desmos.com/calculator/7n3paqu1vg)

@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
  #Biochemistry 
 The medium is charged, so oppositely charged solvent will stay in the medium longer. 
 Anion exchange refers to the medium being filled with cations so that anions are retained while 

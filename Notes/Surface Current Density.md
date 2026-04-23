@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-23
+---
 #Physics 
 Current per unit width on a surface
 ## $\displaystyle \vec{K}\equiv \frac{\mathrm{d}\vec{I} }{ \mathrm{d}l_{\perp}}$

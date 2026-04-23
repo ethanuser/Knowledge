@@ -1,6 +1,8 @@
 ---
 aliases:
   - Associated Legendre Function
+created: 2024-01-27
+modified: 2026-04-23
 ---
 #Math 
 ## $\displaystyle P_{l}^{m}(x)\equiv (-1)^{m}(1-x^{2})^{\frac{m}{2}}\left( \frac{\mathrm{d}  }{\mathrm{d} x}  \right)^{m}P_{l}(x)$

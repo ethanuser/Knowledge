@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \sigma=N\left( \ln \frac{n_{Q}}{n}+\frac{d}{2}+1 \right)$
 * $\displaystyle \sigma$ is the [[fundamental entropy]]

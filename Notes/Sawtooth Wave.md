@@ -1,3 +1,7 @@
+---
+created: 2025-07-22
+modified: 2026-04-23
+---
 #Math 
 ## $\displaystyle f(t)=t ~\left(\text{mod }1\right)=\frac{1}{2}+\sum_{k \neq 0} \frac{j}{2\pi k}e^{jk2\pi t}$
 * $\displaystyle c_{0}=\frac{1}{2}$

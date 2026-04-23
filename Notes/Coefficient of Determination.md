@@ -1,6 +1,8 @@
 ---
 aliases:
   - R Squared
+created: 2025-02-09
+modified: 2026-04-15
 ---
 #Math 
 ## $\displaystyle R^{2}=1- \frac{\sum_{i}(\hat{y}_{i}-y_{i})^{2}}{\sum_{i}(\bar{y}-y_{i})^{2}}$

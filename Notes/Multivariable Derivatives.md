@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle \exists f(x,y)\rightarrow f_{x}=\frac{ \partial f }{ \partial x },f_{y}=\frac{ \partial f }{ \partial y }$
 ## $\displaystyle \frac{ \mathrm{d}f }{ \mathrm{d}s }=\nabla_{\vec{u}}f=\nabla f\cdot \frac{\vec{u}}{\lvert \vec{u}\rvert}=\nabla f\cdot \hat{u}=\lvert \nabla f\rvert\cos \theta$

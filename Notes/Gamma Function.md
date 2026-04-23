@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle \Gamma(z)=(z-1)! =\int_{0}^{\infty} t^{z-1}e^{-t} \, \mathrm{d}t$
 * This is the analytic continuation of the factorial function

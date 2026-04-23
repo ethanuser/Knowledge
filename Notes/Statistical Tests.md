@@ -1,3 +1,7 @@
+---
+created: 2025-10-27
+modified: 2026-04-15
+---
 #Math 
 [How to choose a statistical test](https://www.statsols.com/articles/types-of-statistical-tests)
 # Broader Categories

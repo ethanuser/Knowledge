@@ -1,3 +1,7 @@
+---
+created: 2025-10-27
+modified: 2026-04-15
+---
 #Physics 
 The length at which measurements of positions of particles smaller than this will create a blackhole
 ## $\displaystyle l_{P}=\sqrt{ \frac{\hbar G}{c^{3}} }\cong \mathrm{1.616\cdot 10^{-35}m}$

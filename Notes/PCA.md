@@ -1,6 +1,8 @@
 ---
 aliases:
   - Principal Component Analysis
+created: 2025-02-09
+modified: 2026-04-23
 ---
 #Computers 
 Projects data onto the dimension that maximizes variance of the data along that dimension, which so happens to be along the [[eigenvector]] with the largest [[eigenvalue]] when looking at the sample [[covariance matrix]] of the data

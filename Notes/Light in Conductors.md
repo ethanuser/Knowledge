@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \tilde{E}(z,t)=\tilde{E}_{0}e^{i(\tilde{k}z-\omega t)}$
 * Electric field inside conductors

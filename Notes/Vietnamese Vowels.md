@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Vietnamese 
 [Full Wikipedia Guide](https://en.wikipedia.org/wiki/Help:IPA/Vietnamese)
 [Video Guide](https://www.youtube.com/watch?v=5K4sLv4Xu28)

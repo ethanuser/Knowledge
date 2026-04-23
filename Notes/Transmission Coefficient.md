@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics 
 # Electromagnetism
 ## $\displaystyle T=\frac{I_{T}}{I_{I}}=\left( \frac{E_{0_{T}}}{E_{0_{I}}} \right)^{2}$

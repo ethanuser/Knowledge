@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle {\left\langle{K}\right\rangle}=-\frac{1}{2}{\left\langle{\sum_{\alpha}\vec{F}_{\alpha}\cdot \vec{r}_{\alpha}}\right\rangle}$
 * $\displaystyle {\left\langle{K}\right\rangle}$ is the average kinetic energy of a system of particles in equilibrium

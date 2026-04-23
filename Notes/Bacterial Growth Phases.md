@@ -1,3 +1,7 @@
+---
+created: 2023-08-29
+modified: 2026-04-15
+---
 #Biology
 1. Lag Phase
 	1. No growth

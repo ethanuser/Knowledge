@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Math #Physics 
 ## $X\sim\text{Binomial}(n,p)$
 A binomial random variable represents the number of successes out of $n$ independent trials that each have a probability $p$ of success

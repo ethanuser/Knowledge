@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Math 
 3D version is [[cylindrical coordinates]]
 ## $\displaystyle (x,y)=(r\cos \theta,r\sin \theta)$

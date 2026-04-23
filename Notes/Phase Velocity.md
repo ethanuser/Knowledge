@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle v_p=\frac{\omega}{k}=\frac{\hbar k}{2m}=\frac{v_g}{2}$
 * Velocity of a wave in quantum physics

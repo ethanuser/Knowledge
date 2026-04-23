@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics 
 ## Extensive Quantities
 * $\displaystyle U=U_{1}+U_{2}=-\frac{ \partial  }{ \partial \beta } \ln Z=\tau ^{2}\frac{ \partial y }{ \partial \tau } \ln Z$

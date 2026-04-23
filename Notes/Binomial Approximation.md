@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle (a+b)^{n}\approx a^{n}\left( 1+\frac{bn}{a} \right)\text{ if } \left\lvert  \frac{bn}{a} \right\rvert \ll1$
 ## $\displaystyle (1+b)^{n}\approx 1+bn$

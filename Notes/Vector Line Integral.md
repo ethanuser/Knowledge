@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle\int_\mathscr{C}\vec F\cdot\vec t\space ds=\int_\mathscr{C}\vec F\cdot d\vec r=\int_\mathscr{C}(F_1dx+F_2dy+F_3dz)=\int_{t_0}^{t_f}\vec F(\vec r(t))\cdot\vec r'(t)\space dt$
 * $\vec t$ represents the unit tangent vector of the path

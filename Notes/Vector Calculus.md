@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Math 
 ## Topics
 * https://en.wikipedia.org/wiki/D%27Alembert_operator

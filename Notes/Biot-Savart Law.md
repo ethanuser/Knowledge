@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \vec{B}(r)=\frac{{\mu}_{0}}{4\pi}\int  \frac{\vec{I}\times  \vec{\mathscr{r}}}{\mathscr{r}^{2}} \, \mathrm{d}l'=\frac{{\mu}_{0}I}{4\pi}\int  \frac{\mathrm{d}\vec{l}' \times   \hat{\mathscr{r}}}{\mathscr{r}^{2}}$
 * The magnetic field a distance $\displaystyle r$ from a steady current distribution

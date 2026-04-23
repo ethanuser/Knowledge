@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \zeta(2)=\sum_{n = 0}^{\infty} \frac{1}{n^{2}}=\frac{1}{1^{2}}+\frac{1}{2^{2}}+\frac{1}{3^{2}}+\ldots=\frac{\pi ^{2}}{6}$
 * This can be proved by applying [[Weierstrass factorization theorem]] to the Taylor expansion of $\displaystyle \text{sinc}(x)$ to obtain:

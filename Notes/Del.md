@@ -3,6 +3,8 @@ aliases:
   - Nabla
   - Del Operator
 alia:
+created: 2024-01-27
+modified: 2026-04-15
 ---
 #Math 
 ## $\displaystyle \nabla={\left\langle{\partial_{x},\partial_{y},\partial_{z}}\right\rangle}$

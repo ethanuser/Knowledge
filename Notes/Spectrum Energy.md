@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-23
+---
 #Physics 
 ## $\displaystyle E_{\gamma}=E_{i}-E_{f}=-13.6\mathrm{eV}\left( \frac{1}{n_{i}^{2}}-\frac{1}{n_{f}^{2}} \right)$
 ## $\displaystyle \frac{1}{\lambda}=\mathcal{R}\left( \frac{1}{n_{f}^{2}}-\frac{1}{n_{i}^{2}} \right)$

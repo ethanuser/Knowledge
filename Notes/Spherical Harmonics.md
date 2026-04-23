@@ -3,6 +3,8 @@ aliases:
   - Angular Wave Function
   - Spherical Harmonic
   - Angular Wave Functions
+created: 2024-01-27
+modified: 2026-04-15
 ---
 #Physics 
 ## $\displaystyle Y_{l}^{m}(\theta,\phi)=A^{m}_{l}\Phi^{m}(\phi)\Theta^{m}_{l}(\theta)$

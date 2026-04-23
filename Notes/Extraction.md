@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-23
+---
 #Chemistry 
 The process of extracting a compound from a mix of compounds by exploiting the compound's greater solubility in one liquid as opposed to another one
 ## Topics

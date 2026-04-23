@@ -1,6 +1,8 @@
 ---
 aliases:
   - Wave Velocities
+created: 2024-01-27
+modified: 2026-04-15
 ---
 #Physics 
 ## $v_{\text{mechanical}}\approx\sqrt{\frac{\text{restoring force}}{\text{resistive inertia}}}$

@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 Describes a process that doesn't change in entropy. Is also a reversible [[adiabatic]] process
 ## $\displaystyle \Delta S=0$

@@ -1,3 +1,7 @@
+---
+created: 2025-07-22
+modified: 2026-04-15
+---
 #Engineering 
 ## $\displaystyle S(ax_{1}+bx_{2})=aS(x_{1})+bS(x_{2})$
 In other words, a system is linear if two conditions are met:

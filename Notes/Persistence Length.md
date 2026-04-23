@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 The length at which a polymer stays essentially straight
 ## $\displaystyle {\left\langle{\vec{t}(s)\cdot \vec{t}(u)}\right\rangle}=e^{-\lvert s-u\rvert / \xi_{p}}$

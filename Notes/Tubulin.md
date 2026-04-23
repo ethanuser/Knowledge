@@ -1,3 +1,7 @@
+---
+created: 2025-07-22
+modified: 2026-04-23
+---
 #Biology 
 Subunits that make up microtubules. When [[beta tubulin]] (in a tubulin heterodimer with [[alpha tubulin]]) binds GTP, it is able to extend the microtubule protofilament until GTP hydrolysis into GDP catches up with the GTP.
 ![[Assets/Images/Pasted image 20250512190303.png|500]]

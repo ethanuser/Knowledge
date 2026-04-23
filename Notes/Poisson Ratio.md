@@ -1,3 +1,7 @@
+---
+created: 2025-04-03
+modified: 2026-04-15
+---
 #Physics #Engineering 
 Tells how much a material streteches/deforms laterally relative to the [[Force|load]]
 ## $\displaystyle \nu=-\frac{\mathrm{d}\varepsilon _{\text{trans}} }{ \mathrm{d}\varepsilon _{\text{axial}}}$

@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Math 
 ## $X \sim \text{Geometric}(p)$
 * A geometric random variable represents the number of trials until a first success where each trial is independent and has a probability $p$ of success

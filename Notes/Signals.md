@@ -1,6 +1,8 @@
 ---
 aliases:
   - Signal
+created: 2025-04-03
+modified: 2026-04-15
 ---
 #Math 
 Quantities that vary with time

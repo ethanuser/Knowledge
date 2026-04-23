@@ -1,6 +1,8 @@
 ---
 aliases:
   - Hermite Polynomials
+created: 2024-01-27
+modified: 2026-04-15
 ---
 #Math 
 Hermite polynomials are used for solution of the [[QHO]]

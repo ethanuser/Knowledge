@@ -1,6 +1,8 @@
 ---
 aliases:
   - Boost Transformation
+created: 2024-01-27
+modified: 2026-04-15
 ---
 #Physics
 [Blog explaining hyperbolic trig functions](https://www.physicslog.com/blog/2019/03/lorentz-hyperbolic-rotation/)

@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \frac{\partial V }{\partial n}=\nabla V\cdot \hat{n}$
 ## $\displaystyle \sigma=-{\varepsilon}_{0}\frac{\partial V }{\partial n}$

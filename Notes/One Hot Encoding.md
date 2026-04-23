@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Computers 
 A way of encoding categorical data into numbers by assigning 1 as a value to whether they have feature and 0 if not. The benefits of this encoding method is that it prevents giving more weight to certain data if we were to just encode all the variables numerically as one feature (e.g. assigning 0, 1, 2, or 3 to asian, white, black, pacific islander)
 ## Example

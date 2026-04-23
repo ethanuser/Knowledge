@@ -1,6 +1,8 @@
 ---
 aliases:
   - Bernoulli's Equation
+created: 2024-01-27
+modified: 2026-04-15
 ---
 #Physics 
 ## $\displaystyle P_{1}+\frac{1}{2}\rho v_{1}^{2}+\rho gh_{1}=P_{2}+\frac{1}{2}\rho v_{2}^{2}+\rho gh_{2}$

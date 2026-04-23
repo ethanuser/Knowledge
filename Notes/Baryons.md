@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics 
 * $\text{Baryon number} = \frac{1}{3}(n_{q} + n_q')$
 	* $n_q$ is the number of quarks in the baryon

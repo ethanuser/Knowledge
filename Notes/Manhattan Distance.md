@@ -1,6 +1,8 @@
 ---
 aliases:
   - L1 Norm
+created: 2025-02-09
+modified: 2026-04-15
 ---
 #Math 
 ## $\displaystyle \lVert \vec{x}\rVert_{1}=\sum_{i}\lvert x_{i}\rvert$

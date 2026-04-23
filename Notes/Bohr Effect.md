@@ -1,2 +1,6 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Biochemistry 
 Describes how $\displaystyle \ce{CO_{2}}$ is a negative [[Heterotropic Regulation|heterotropic regulator]] of [[Hemoglobin]]. Entails that low $\displaystyle \ce{pH}\rightarrow$ lower binding affinity to $\displaystyle \ce{O_{2}}$ from hemoglobin

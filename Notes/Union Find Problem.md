@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Math 
 Given multiple sets each of different elements, efficiently determine whether two arbitrary elements are within the same set. Also efficiently be able to form a union of any two sets
 ## $\displaystyle O(\log n)$ find and $\displaystyle O(1)$ union

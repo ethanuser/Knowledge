@@ -1,6 +1,8 @@
 ---
 aliases:
   - Laplace Operator
+created: 2023-10-29
+modified: 2026-04-15
 ---
 #Math 
 Intuition: higher values of $\displaystyle \Delta f(x,y)$ correspond to $\displaystyle f(x,y)$ being more like a valley as opposed to a hill. Basically tells you how much a point is like a local minimum. Analogous to second derivative in 1D calculus

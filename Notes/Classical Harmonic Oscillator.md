@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle x(t)=\frac{v_{0}}{\omega}\sin(\omega t)$
 * $\displaystyle v_{0}$ is the initial velocity of the particle

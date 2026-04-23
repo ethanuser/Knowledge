@@ -1,5 +1,7 @@
 ---
 alias: Menstruation, Period
+created: 2023-09-16
+modified: 2026-04-15
 ---
 #Biology 
 ![[Pasted image 20230829132219.png|600]]

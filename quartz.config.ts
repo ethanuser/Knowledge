@@ -37,26 +37,27 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#1e5fc6",
-          tertiary: "#5e82cf",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#faf8f8", // Primary page background
+          lightgray: "#e5e5e5", // Subtle borders and separators
+          gray: "#b8b8b8", // Muted text and low-emphasis UI
+          darkgray: "#4e4e4e", // Secondary text color
+          dark: "#2b2b2b", // Primary text color
+          secondary: "#1e5fc6", // Primary accent (links/actions)
+          tertiary: "#5e82cf", // Hover/active accent
+          highlight: "rgba(143, 159, 169, 0.15)", // Block/code background tint
+          textHighlight: "#fff23688", // Inline text selection/mark highlight
         },
         darkMode: {
-          light: "#1d1a17",
-          lightgray: "#3f3933",
-          gray: "#736a62",
-          darkgray: "#e4ddd4",
-          dark: "#f2ece3",
-          secondary: "#8fb2f4",
-          tertiary: "#95afe5",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#000000", // Primary page background (burgundy-leaning dark)
+          lightgray: "#555555", // Subtle borders and separators
+          gray: "#444444", // Muted text and low-emphasis UI
+          darkgray: "#bbbbbb", // Secondary text color
+          dark: "#eeeeee", // Primary text color
+          secondary: "#88bbff", // Primary accent (links/actions)
+          tertiary: "#ddeeff", // Hover/active accent
+          highlight: "rgba(100, 120, 150, 0.25)", // Block/code background tint
+          // textHighlight: "#b3aa0288", // Inline text selection/mark highlight
+          textHighlight: "#00ff00", // Inline text selection/mark highlight
         },
       },
     },

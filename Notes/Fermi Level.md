@@ -1,6 +1,8 @@
 ---
 aliases:
   - Fermi Energy
+created: 2024-01-27
+modified: 2026-04-15
 ---
 #Physics 
 Is the energy at which half of the possible occupiable states are below it and above it. For $\displaystyle T=0$, this means there are no particles above $\displaystyle E_{f}$

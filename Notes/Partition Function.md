@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle Z=\sum_{s}e^{- \beta\varepsilon_{s}}$
 * Dimensionless probability normalization factor (the below equation has to sum up to one when evaluating over all energies

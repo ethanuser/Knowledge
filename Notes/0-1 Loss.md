@@ -1,3 +1,7 @@
+---
+created: 2025-04-03
+modified: 2026-04-15
+---
 #Computers 
 A discrete loss function that is not convex or continuous
 ## $$\displaystyle l(y,h(x))=

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Hidden Variables
+created: 2025-02-09
+modified: 2026-04-15
 ---
 #Math 
 [Wikipedia article](https://en.wikipedia.org/wiki/Latent_and_observable_variables)

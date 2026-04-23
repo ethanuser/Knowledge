@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Math 
 
 ## $\displaystyle \Delta \mathbb{E}[U_{X}]=\sum_{x = 1}^{\infty}p_{X}(x)[\ln(w+x-c)-\ln w]$

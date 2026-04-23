@@ -1,6 +1,8 @@
 ---
 aliases:
   - Displacement Field
+created: 2025-02-09
+modified: 2026-04-15
 ---
 #Physics 
 ## $\displaystyle \vec{D}\equiv {\varepsilon}_{0}\vec{E}+\vec{P}={\varepsilon}_{0}(1+\chi_{e})\vec{E}=\varepsilon \vec{E}$

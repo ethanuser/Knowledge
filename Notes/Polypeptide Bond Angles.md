@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-23
+---
 #Biochemistry 
 ## Bond Rotation
 ![[Assets/Images/Pasted image 20231010100948.png]]

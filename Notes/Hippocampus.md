@@ -1,3 +1,7 @@
+---
+created: 2023-08-12
+modified: 2026-04-15
+---
 #Biology
 Consolidates short-term memory into long-term in the [[Cerebrum|cerebral cortex]]
 ## Case

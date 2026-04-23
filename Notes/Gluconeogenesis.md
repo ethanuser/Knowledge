@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-23
+---
 #Biochemistry 
 Conversion of pyruvate to glucose. When running in conjunction with [[glycolysis]], it is a [[futile cycle]]
 ![[Assets/Images/Pasted image 20231210104201.png|400]]

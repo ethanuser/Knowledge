@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics
 ## $\displaystyle \{\psi_{i}\}:\varepsilon_{1}=\varepsilon_{2}=\varepsilon_{3}=\ldots=\varepsilon$
 * The set of all [[microstates]] of a system that have the same energy $\displaystyle \varepsilon$

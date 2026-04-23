@@ -1,6 +1,8 @@
 ---
 aliases:
   - Neural Networks
+created: 2025-04-03
+modified: 2026-04-15
 ---
 #Computers 
 A [[supervised learning]] technique that uses multiple [[perceptron]] units for each node before feeding into one output node

@@ -1,3 +1,7 @@
+---
+created: 2025-04-03
+modified: 2026-04-15
+---
 #Philosophy 
 Maximizing pleasure and minimizing pain is the only thing that matters
 ## Issues

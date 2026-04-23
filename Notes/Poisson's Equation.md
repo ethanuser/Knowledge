@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \nabla ^{2} V=-\frac{\rho}{{\varepsilon}_{0}}$
 * The [[laplacian]] of the voltage

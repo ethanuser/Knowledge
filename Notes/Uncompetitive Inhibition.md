@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-23
+---
 #Biochemistry 
 
 When inhibitors bind [[Allosteric Regulation|allosterically]] to the ES complex to form an ESI complex

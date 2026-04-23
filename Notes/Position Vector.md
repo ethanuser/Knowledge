@@ -1,6 +1,8 @@
 ---
 aliases:
   - Field Point
+created: 2023-10-29
+modified: 2026-04-15
 ---
 #Math
 ## $\displaystyle \vec{r}=e_{i}={\left\langle{x_{1},x_{2},\ldots,x_{N}}\right\rangle}$

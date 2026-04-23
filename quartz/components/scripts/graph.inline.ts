@@ -18,6 +18,7 @@ import { Text, Graphics, Application, Container, Circle } from "pixi.js"
 import { Group as TweenGroup, Tween as Tweened } from "@tweenjs/tween.js"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
+import { OBSIDIAN_PATH_COLORS, OBSIDIAN_TAG_COLORS, getObsidianTagColor } from "../../util/graphColors"
 import { D3Config } from "../Graph"
 
 type GraphicsInfo = {
@@ -75,23 +76,6 @@ type StoredNodePosition = {
   y: number
 }
 
-const OBSIDIAN_TAG_COLORS: Record<string, string> = {
-  math: "#7f1e17",
-  physics: "#bc975f",
-  chemistry: "#71afe1",
-  biology: "#306025",
-  biochemistry: "#874073",
-  computers: "#7b80d0",
-  engineering: "#d8f669",
-  economics: "#90bf57",
-  people: "#d989d9",
-  psychology: "#4f746f",
-}
-
-const OBSIDIAN_PATH_COLORS: { prefix: string; color: string }[] = [
-  { prefix: "personal/", color: "#f9e358" },
-]
-
 function getGroupColorForNode(d: NodeData): string | undefined {
   const nodeId = d.id.toLowerCase()
   if (nodeId.startsWith("tags/")) {
@@ -99,7 +83,7 @@ function getGroupColorForNode(d: NodeData): string | undefined {
   }
 
   for (const tag of d.tags) {
-    const color = OBSIDIAN_TAG_COLORS[tag.toLowerCase()]
+    const color = getObsidianTagColor(tag)
     if (color) return color
   }
 

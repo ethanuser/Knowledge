@@ -1,3 +1,7 @@
+---
+created: 2023-08-29
+modified: 2026-04-15
+---
 #Physics
 ## $\displaystyle \vec{F}_{\text{spring}}=-k\vec{x}$
 * $\displaystyle \vec{F}_{\text{spring}}$ is the elastic force provided by a spring or elastic component on the object the spring is attached to

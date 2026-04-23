@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Psychology 
 Theory of motivation where stimulus->(1st Response) nervous system arousal->(2nd Response) conscious emotion
 Proven false by spinal cord injury patients: they are unable to have a physiological response (e.g. sweaty palms) but still report having emotions

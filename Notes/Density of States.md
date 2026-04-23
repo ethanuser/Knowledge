@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle N=\int  \, \mathrm{d}N=\int \frac{\mathrm{d}N}{dx} \, \mathrm{d}x=\int D(x) \, \mathrm{d}x$
 * $\displaystyle D(x)$ is the density of states and can be in terms of energy, frequency, or wavenumber

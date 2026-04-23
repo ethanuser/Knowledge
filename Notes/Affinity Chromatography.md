@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Biochemistry 
 Specially made antibodies for the target protein are inserted in the column to grab them. They are then later eluted out
 ## Types

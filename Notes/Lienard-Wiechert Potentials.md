@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 The potentials for a point charge $\displaystyle q$ moving at velocity $\displaystyle \vec{v}$. All values like $\displaystyle \mathscr{r}$, $\displaystyle \vec{u}$, $\displaystyle v$, and $\displaystyle \vec{a}$ are evaluated at [[retarded time]]
 ## Topics

@@ -1,3 +1,7 @@
+---
+created: 2023-08-12
+modified: 2026-04-15
+---
 #Biochemistry
 ```smiles
 O=C([C@H](CC1=CNC=N1)N)O

@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Math 
 A function where any local minimum is guaranteed to be a global minimum
 ## $\displaystyle f(\lambda a+(1-\lambda)b)\leq \lambda f(a)+(1-\lambda)f(b),\lambda \in [0,1]\rightarrow f(x)$ is convex

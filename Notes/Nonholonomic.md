@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Physics 
 Describes constraints that can't be integrated to remove a degree of freedom from a system. Nonholonimc constraints are often written as inequalities rather than equalities
 ## Examples

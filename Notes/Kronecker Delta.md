@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics #Math
 [Universal Danker Video](https://www.youtube.com/watch?v=nUxaL444Uv0)
 [Universal Danker PDF](https://en.universaldenker.org/files/pdf_documents/2021-02/kronecker-delta.pdf)

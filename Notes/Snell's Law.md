@@ -1,6 +1,8 @@
 ---
 aliases:
   - Law of Refraction
+created: 2025-02-09
+modified: 2026-04-15
 ---
 #Physics 
 [Snell’s Law Simulation](https://www.desmos.com/calculator/om6hzshyda)

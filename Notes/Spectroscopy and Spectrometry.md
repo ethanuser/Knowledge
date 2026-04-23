@@ -1,3 +1,7 @@
+---
+created: 2023-08-29
+modified: 2026-04-15
+---
 #Chemistry
 [Spectroscopy and Spectrometry Difference](https://goldbook.iupac.org/terms/view/S05848): 
 * Spectroscopy is the theoretical study of compounds' absorption or emittance of light

@@ -1,3 +1,7 @@
+---
+created: 2025-07-22
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle \oint_{C}f(z)\,\mathrm{d}z=2\pi i\sum_{k = 1}^{n}\text{Res}_{z=z_{k}}f$
 * $\displaystyle C$ is a positively-oriented (counter-clockwise) simple closed contour

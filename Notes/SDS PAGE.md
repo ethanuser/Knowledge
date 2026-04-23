@@ -1,6 +1,8 @@
 ---
 aliases:
   - Sodium Dodecyl-Sulfate Polyacrylamide Gel Electrophoresis
+created: 2024-01-27
+modified: 2026-04-15
 ---
 #Biochemistry 
 SDS PAGE stands for sodium dodecyl-sulfate polyacrylamide gel electrophoresis

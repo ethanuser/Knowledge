@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 Potentials for moving charges or currents (information doesn't travel instantaneously, so we use [[retarded time]])
 ## Topics

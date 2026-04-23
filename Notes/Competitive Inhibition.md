@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-23
+---
 #Biochemistry 
 When competitive inhibitors compete with the substrate for a spot in the active site of the enzyme. Binds with enzyme to form EI complex
 ![[Assets/Images/Pasted image 20231101105240.png|300]]

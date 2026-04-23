@@ -1,3 +1,7 @@
+---
+created: 2025-07-22
+modified: 2026-04-15
+---
 #Personal 
 A heuristic/tool that states that an action that causes a good and bad effect is morally permissible if:
 1. The action is morally good or neutral independent of its consequences

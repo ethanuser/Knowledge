@@ -1,1 +1,5 @@
+---
+created: 2023-08-12
+modified: 2026-04-15
+---
 My second brain contains information personal to me (see [[Personal Information]]) and general knowledge that may be learned by others (see [[Knowledge]]). I'm using [[Obsidian]] to make this second brain. The goal is not to store everything in here, but rather to store links/cues to things worth knowing. So I may post links to good resources for learning something rather than copying that resource into this Obsidian unless I see that it is worth being able to quickly search that bit of information through Obsidian's global search.

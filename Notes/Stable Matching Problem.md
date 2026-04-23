@@ -1,6 +1,8 @@
 ---
 aliases:
   - Stable Marriage Problem
+created: 2025-02-09
+modified: 2026-04-15
 ---
 #Computers 
 There are $\displaystyle n$ men and $\displaystyle n$ women. Each person has a priority list of $\displaystyle n$ people they'd like to marry. Find a way to marry each man and woman together such that no two non-married man/woman pair prefer each other more than they prefer their current partners

@@ -1,3 +1,7 @@
+---
+created: 2023-08-20
+modified: 2026-04-15
+---
 #Biology
 Monocular cues allow us to [[Sight|see]] and interpret our environment without necessarily the use of both eyes
 ## Main Cues

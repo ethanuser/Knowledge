@@ -44,7 +44,14 @@ export const Assets: QuartzEmitterPlugin = () => {
         } else if (changeEvent.type === "delete") {
           const name = slugifyFilePath(changeEvent.path)
           const dest = joinSegments(ctx.argv.output, name) as FilePath
-          await fs.promises.unlink(dest)
+          try {
+            await fs.promises.unlink(dest)
+          } catch (err) {
+            // In watch mode we can receive duplicate/stale delete events; ignore missing files.
+            if ((err as NodeJS.ErrnoException).code !== "ENOENT") {
+              throw err
+            }
+          }
         }
       }
     },

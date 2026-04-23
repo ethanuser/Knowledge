@@ -1,3 +1,7 @@
+---
+created: 2025-07-22
+modified: 2026-04-23
+---
 #Math 
 ## Topics
 ![[Assets/Images/Screenshot 2025-06-05 at 1.33.08 PM.png|600]]

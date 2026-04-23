@@ -1,3 +1,7 @@
+---
+created: 2025-07-22
+modified: 2026-04-15
+---
 #Engineering 
 ## $\displaystyle h(t,\tau)=H(\delta(t-\tau))$
 * Impulse response

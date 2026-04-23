@@ -1,6 +1,8 @@
 ---
 aliases:
   - Boson
+created: 2023-10-29
+modified: 2026-04-15
 ---
 #Physics 
 Force mediators with integer spin, even under exchange/permutation, arbitrary number in given state

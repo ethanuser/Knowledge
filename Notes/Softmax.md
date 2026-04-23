@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Computers 
 ## $\displaystyle P(Y=i|X)= \frac{e^{\beta_{0,i}+\beta_{1,i}X}}{\sum_{j=1}^{K}e^{{\beta}_{0,j}+\beta_{1,j}X}}$
 *  Probability that our prediction $\displaystyle Y$ is of a class $\displaystyle i$ given some data $\displaystyle X$ when there are $\displaystyle K$ classes

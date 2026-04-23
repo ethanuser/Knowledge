@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 [Physics with Elliot Field Theory Fundamentals Video](https://www.youtube.com/watch?v=13hCkUiu_mI)
 [Physics with Elliot Particle Physics Video](https://www.youtube.com/watch?v=I4CjewbJgRQ&list=WL&index=16)

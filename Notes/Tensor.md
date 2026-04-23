@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Math 
 ## Number elements in tensor $\displaystyle =\mathrm{dimension^{rank}}$
 * E.g. the 3D stress tensor is a rank $2$ tensor and has $3^2$ components. Likewise, vectors in 3D are rank $1$ tensors and have $3^1$ components

@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \tilde{E}_{0_{R}}=\left( \frac{\alpha-\beta}{\alpha+\beta} \right)\tilde{E}_{0_{I}}$
 * Reflected wave amplitude for incident wave that hits the boundary at an angle $\displaystyle \theta_{I}$ (angle between the normal to the boundary and the incident wave propagation wave)

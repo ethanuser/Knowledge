@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle ~\forall~x:P(x)\equiv P(x_{1})\land P(x_{2})\land\ldots P(x_{n})\land\dots$
 * $\displaystyle P(x)$ is a [[predicate]]

@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Math 
 [Summary Video](https://www.youtube.com/watch?app=desktop&v=NKuLYRui-NU)
 ## Related

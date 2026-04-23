@@ -1,3 +1,7 @@
+---
+created: 2023-08-12
+modified: 2026-04-23
+---
 #Psychology 
 The most time-effective method to ensure proper childhood development is probably to set up a Google calendar and to go through the [CDC developmental checklist](https://www.cdc.gov/ncbddd/actearly/milestones/index.html)
 ## Topics

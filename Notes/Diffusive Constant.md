@@ -1,6 +1,8 @@
 ---
 aliases:
   - Thermal Diffusivity
+created: 2024-01-27
+modified: 2026-04-15
 ---
 #Physics 
 ## $\displaystyle D=\frac{\delta ^{2}}{2\tau}$

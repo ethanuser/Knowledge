@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle ~\exists~\mathcal{S}(V)\rightarrow ~\exists~!V:\Delta V=0$
 * Says that if $\displaystyle V$ is specified on a boundary $\displaystyle \mathcal{S}$ that surrounds a volume $\displaystyle \mathcal{V}$, then there exists exactly one solution to [[Laplace's equation]]

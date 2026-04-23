@@ -1,3 +1,7 @@
+---
+created: 2026-04-15
+modified: 2026-04-15
+---
 #Geography 
 Different ways of projecting a sphere onto a flat plane
 ## Types

@@ -1,2 +1,6 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Engineering 
 [Website Demo](https://ciechanow.ski/mechanical-watch/)

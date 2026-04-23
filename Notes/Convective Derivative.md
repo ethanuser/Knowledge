@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-23
+---
 #Physics 
 ## $\displaystyle \text{d}_{t}\vec{A}=\partial_{t}\vec{A}+(\vec{v}\cdot \nabla )\vec{A}$
 * $\displaystyle \vec{A}$ is the [[vector potential]]

@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Math 
 ## $X \sim \text{Poisson}(\lambda t)$
 * A Poisson variable represents the number of occurrences of an event in $t$ units of time that has an average occurrence of $\lambda$ occurrences per unit time

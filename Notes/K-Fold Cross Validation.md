@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Computers 
 A way to validate the effectiveness of a machine learning model
 ## $\displaystyle CV(\text{Model})=\frac{1}{K}\sum_{i = 1}^{K}L(\hat{f}_{C_{-i}}(C_{i}))$

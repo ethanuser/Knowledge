@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle S_{n}=a\sum_{i = 0}^{n-1}r^{i}=a+ar+ar^{2}+... +ar^{n-1}=\frac{a(1-r^{n})}{1-r}$
 * $\displaystyle S_{n}$ is the series sum

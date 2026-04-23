@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Computers 
 ## List
 1. [Vector Magic: Convert JPG, PNG images to SVG, EPS, AI vectors](https://vectormagic.com/)

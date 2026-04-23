@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Math 
 [https://en.wikipedia.org/wiki/Berkson%27s_paradox](Wikipedia)
 Essentially states that people tend to observe negative correlations in a subpopulation high in both characteristics between two possibly unrelated or even positively correlated variables

@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Computers 
 To show a problem is NP complete (not easy), you may show that a known NP complete problem reduces into the given problem
 ## $\displaystyle Y\leq _p X\land Y\text{ is NP complete}\rightarrow Y\text{ is NP complete}$

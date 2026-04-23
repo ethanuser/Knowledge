@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \mu_{r}=1+\chi_{b}=\frac{\mu}{{\mu}_{0}}$
 * $\displaystyle \chi_{b}$ is the [[magnetic susceptibility]]

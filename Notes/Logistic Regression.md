@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Computers 
 A model that predicts the probability of a data point belonging to a certain class. This probability may then be used to classify (e.g. $\displaystyle P(y=1|x)>0.5\rightarrow y=1$) if desired
 ## Topics

@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle \zeta(s)=\sum_{n = 1}^{\infty} \frac{1}{n^{s}}=\frac{1}{1^{s}}+\frac{1}{2^{s}}+\ldots$
 ## Common Values

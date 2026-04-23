@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 Atomic Polarizabilities $\displaystyle \left(\frac{\alpha}{4\pi {\varepsilon}_{0}}\right)$ in units of $\displaystyle 10^{-30}\mathrm{m^{3}}$
 

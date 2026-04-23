@@ -1,6 +1,8 @@
 ---
 aliases:
   - Heaviside Step Function
+created: 2025-07-22
+modified: 2026-04-23
 ---
 #Math #Engineering 
 A causal function that's also the integral of the [[Dirac Delta|delta function]]

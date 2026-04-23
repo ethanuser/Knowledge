@@ -1,6 +1,8 @@
 ---
 aliases:
   - Radial Equation
+created: 2024-01-27
+modified: 2026-04-15
 ---
 #Physics 
 ## $\displaystyle u(r)\equiv rR(r)\rightarrow -\frac{\hbar ^{2}}{2m}\frac{\mathrm{d}^2 u}{\mathrm{d} r^{2}}+V_{\text{effective}}u=Eu$

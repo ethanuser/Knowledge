@@ -1,3 +1,7 @@
+---
+created: 2023-08-12
+modified: 2026-04-15
+---
 #Physics #Chemistry 
 ## $(n,l,m_l,m_s)$
 * $n\in\mathbb{N}$ is the principle quantum number and it dictates the orbital size and energy level

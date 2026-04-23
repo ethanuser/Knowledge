@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \mathcal{L}=K-U$ 
 * $\displaystyle K$ is the kinetic energy of the system, often as a function of time

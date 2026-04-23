@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Math #Physics
 ## $\displaystyle a_{i}b_{i}=\sum_{i}a_{i}b_{i}$
 * Sums are assumed when indices are shared

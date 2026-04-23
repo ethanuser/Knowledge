@@ -1,6 +1,8 @@
 ---
 aliases:
   - Fermion
+created: 2023-10-29
+modified: 2026-04-15
 ---
 #Physics 
 Half integer spin, wave function odd under exchange/permutation, only 0 or 1 in a given state. Fermions follow [[Fermi-Dirac Distribution|Fermi-Dirac statistics]]

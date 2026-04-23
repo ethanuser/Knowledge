@@ -1,3 +1,7 @@
+---
+created: 2023-08-20
+modified: 2026-04-23
+---
 #Physics 
 ## Model
 ![[Assets/Images/51148317732_42c3d37d37_o.png|1000]]

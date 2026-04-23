@@ -1,3 +1,7 @@
+---
+created: 2023-08-29
+modified: 2026-04-15
+---
 #Chemistry 
 See [[spectroscopy and spectrometry]] for why it's called spectrometry and not spectroscopy
 ## Topics

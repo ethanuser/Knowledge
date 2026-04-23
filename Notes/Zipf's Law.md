@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 ## Topics
 * [[Rare Words]]
 ## $\displaystyle f\propto \frac{1}{R}$

@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics #Chemistry
 [Universal Danker Video](https://www.youtube.com/watch?v=WcNiA06WNvI)
 Non-relativistic and doesn't account for electron spin. The [[Dirac Equation]] accounts for these issues

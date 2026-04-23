@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-23
+---
 #Chemistry 
 Refers to the idea that protons attached to aromatic rings are more deshielded than expected. This occurs because $\displaystyle \vec{B}$ is induced in the same direction as the incident $\displaystyle \vec{B}_{0}$. The $\displaystyle \vec{B}$ occurs like below
 ![[Assets/Images/Pasted image 20241006233348.png|500]]

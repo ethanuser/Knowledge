@@ -1,6 +1,8 @@
 ---
 aliases:
   - Least Absolute Shrinkage and Selection Operator
+created: 2025-02-09
+modified: 2026-04-15
 ---
 #Math 
 [[Regularization]] method that tends to cause all but one parameter to be set to 0 during the process of loss minimization. Useful for reducing dimensionality of a model

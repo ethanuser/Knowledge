@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Math #Computers 
 A way of finding a [[MST]] by sorting all edges by their weights and adding them to our constructed MST as long as it doesn't form a cycle with previous edges
 ## Topics

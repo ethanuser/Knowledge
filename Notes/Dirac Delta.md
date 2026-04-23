@@ -4,6 +4,8 @@ aliases:
   - Dirac Delta Function
   - Impulse Function
 Attached Proton Test:
+created: 2023-10-06
+modified: 2026-04-23
 ---
 #Physics
 ## [Universal Danker Video](https://www.youtube.com/watch?v=Y8y965ZAmQE)

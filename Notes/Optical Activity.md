@@ -1,3 +1,7 @@
+---
+created: 2023-09-16
+modified: 2026-04-15
+---
 #Chemistry
 Chiral molecules can rotate plane-polarized light either clockwise or counterclockwise
 * [[Dextrorotatory]]

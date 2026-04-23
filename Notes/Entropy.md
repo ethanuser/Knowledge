@@ -1,3 +1,7 @@
+---
+created: 2023-09-16
+modified: 2026-04-15
+---
 #Physics 
 # [[Thermodynamics]]
 ## $\displaystyle \Delta S=\frac{Q_{\text{reversible}}}{T}$

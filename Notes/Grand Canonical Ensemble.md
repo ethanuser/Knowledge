@@ -1,6 +1,8 @@
 ---
 aliases:
   - Macrocanonical Ensemble
+created: 2023-08-12
+modified: 2026-04-15
 ---
 #Physics
 Both energy AND particles are exchanged

@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Sociology
 ## Stages
 * Stage 1 (High Stationary)

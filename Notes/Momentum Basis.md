@@ -1,6 +1,8 @@
 ---
 aliases:
   - Momentum Space
+created: 2023-10-29
+modified: 2026-04-15
 ---
 #Physics 
 Similar to the wave functions generated from the [[free particle]], except using $\displaystyle p$ instead of $\displaystyle k$

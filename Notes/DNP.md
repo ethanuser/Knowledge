@@ -1,6 +1,8 @@
 ---
 aliases:
   - 2,4-Dinitrophenol
+created: 2024-01-27
+modified: 2026-04-23
 ---
 #Biochemistry 
 ```smiles

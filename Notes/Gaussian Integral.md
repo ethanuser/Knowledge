@@ -1,3 +1,7 @@
+---
+created: 2023-08-12
+modified: 2026-04-15
+---
 #Math
 ## $\displaystyle \int_{-\infty}^{\infty} f_{X}(x) \, \mathrm{d}x=1,\,f_{X}(x)=\frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{1}{2}\left( \frac{x-\mu}{\sigma} \right)^{2}}$
 * $\displaystyle X$ is a random variable identically distributed to the [[Normal Distribution]]

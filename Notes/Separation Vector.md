@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-23
+---
 #Math #Physics 
 ## $\displaystyle \vec{\mathscr{r}}=\vec{r}-\vec{r}'$
 * $\displaystyle \vec{r}$ is the [[position vector]]

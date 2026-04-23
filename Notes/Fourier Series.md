@@ -1,6 +1,8 @@
 ---
 aliases:
   - Fourier's Trick
+created: 2023-08-12
+modified: 2026-04-15
 ---
 #Math
 The orthogonal basis set for [[cartesian coordinates]]

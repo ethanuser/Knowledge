@@ -1,6 +1,8 @@
 ---
 aliases:
   - Stress
+created: 2024-01-27
+modified: 2026-04-23
 ---
 #Physics 
 ## Topics

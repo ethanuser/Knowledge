@@ -1,6 +1,8 @@
 ---
 aliases:
   - Decision Trees
+created: 2025-02-09
+modified: 2026-04-23
 ---
 #Computers  
 [Animation Video](https://www.youtube.com/watch?v=ZVR2Way4nwQ)

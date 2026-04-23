@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 "Poy-zai"
 For laminar flow. Analogous to [[Ohm's Law]]

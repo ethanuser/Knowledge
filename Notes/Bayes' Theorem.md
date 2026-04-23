@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle P(B|A)=\frac{P(A|B)P(B)}{P(A)}=\frac{P(A\cap B)}{P(B)}$
 * $\displaystyle P(A)$ may be substituted using [[Law of Total Probability]]

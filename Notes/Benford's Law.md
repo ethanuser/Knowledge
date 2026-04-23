@@ -1,6 +1,8 @@
 ---
 aliases:
   - First Digit Law
+created: 2025-07-22
+modified: 2026-04-23
 ---
 #Math 
 Says in datasets where the data spans many orders of magnitudes, the distribution of leading digits follows a logarithm

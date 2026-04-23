@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle R=1-T$
 * Probability that a particle will transmit through a potential barrier

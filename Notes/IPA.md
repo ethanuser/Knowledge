@@ -1,6 +1,8 @@
 ---
 aliases:
   - International Phonetic Alphabet
+created: 2023-10-06
+modified: 2026-04-15
 ---
 [Interactive IPA Website](https://www.ipachart.com/?utm_source=chatgpt.com)
 [IPA Reader](http://ipa-reader.xyz/)

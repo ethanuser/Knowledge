@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-23
+---
 #Math 
 ## $\displaystyle V_{n\text{-ball boundary}}=C_{n}r^{n-1},\, C_{n}=n \frac{\pi^{n/2}}{\Gamma\left( \frac{n}{2}+1 \right)}$
 * [Desmos Graph](https://www.desmos.com/calculator/gmlxdbqs1n)

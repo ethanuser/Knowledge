@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \frac{N_{e}}{N}=\frac{2.612n_{Q}}{n}$
 ## $\displaystyle \tau_{E}=\frac{2\pi \hbar ^{2}}{m}\left( \frac{N}{2.612\mathrm{V}} \right)^{\frac{2}{3}}$

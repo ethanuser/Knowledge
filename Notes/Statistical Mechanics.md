@@ -1,6 +1,8 @@
 ---
 aliases:
   - Stat Mech
+created: 2023-10-06
+modified: 2026-04-15
 ---
 #Physics 
 Derives the macroscopic rules of [[thermodynamics]] based on a microscopic analysis. See [[Thermodynamics vs Statistical Mechanics]] for the difference between the two

@@ -3,6 +3,8 @@ aliases:
   - General Intelligence
   - General Intelligence Factor
   - Spearman's g
+created: 2025-02-09
+modified: 2026-04-15
 ---
 #Psychology 
 [Wikipedia article](https://en.wikipedia.org/wiki/G_factor_(psychometrics))

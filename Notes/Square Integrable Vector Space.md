@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Math 
 The [[Vector Spaces|vector space]] of functions that are [[Square Integrable]]
 ## Topics

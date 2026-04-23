@@ -1,6 +1,8 @@
 ---
 aliases:
   - Thermodynamic Beta
+created: 2023-10-29
+modified: 2026-04-15
 ---
 #Physics 
 ## $\displaystyle \beta=\frac{1}{\tau}=\frac{1}{k_{\text{B}}T}=\frac{ \partial \sigma }{ \partial E }$

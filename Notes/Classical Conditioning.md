@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Psychology 
 A common example is the conditioning by Pavlov of his dog to salivate at the ringing of a bell. Works primarily for subconscious processes rather than more complex ones. So one who may desire to enter a flow state for studying or in sports may try to associate a certain constant in their environment with the flow state. For instance, a student may chew a specific flavor of gum and sit in a certain chair to get into a "study" mode
 ## Stimuli and Responses

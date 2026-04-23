@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Physics 
 # [Open System](https://www.tec-science.com/thermodynamics/thermodynamic-processes-in-open-systems/first-law-of-thermodynamics-for-open-systems-derivation/)
 Thermodynamic postulation of [[Conservation of Energy]]

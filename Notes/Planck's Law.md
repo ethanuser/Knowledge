@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 # Classical
 ## $\displaystyle B(\nu)=\frac{2\pi}{c^{2}}k_{B}T \nu ^{2}$

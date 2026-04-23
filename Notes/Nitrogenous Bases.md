@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Biochemistry 
 ## Types
 * Purines (Pure -> Metals such as silver are pure and heavy -> AG)

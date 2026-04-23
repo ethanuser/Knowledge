@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle B_{z}=B_{0}\cos\left( \frac{m\pi x}{a} \right)\cos\left( \frac{n\pi y}{b} \right)$
 * $\displaystyle m,n \in \mathbb{N}+\left\{ 0 \right\}$

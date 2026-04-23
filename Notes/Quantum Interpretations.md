@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Physics
 ## Where is a quantum particle before it is measured?
 * Realist Position

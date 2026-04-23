@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Chemistry 
 ## $\displaystyle k=Ae^{-\frac{E_{a}}{RT}}$
 * $\displaystyle A$ is the frequency factor, or how often collisions happen

@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Math 
 Projection onto $\displaystyle xy$ plane is just [[polar coordinates]]
 ## $\displaystyle (x,y,z)=(r\cos \theta,r\sin \theta,z)$

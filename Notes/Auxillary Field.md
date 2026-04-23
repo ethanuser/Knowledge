@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 Magnetic field arising from free current alone. Analogous to [[electric displacement]] for [[magnetostatics]]
 ## $\displaystyle \vec{H}=\frac{1}{{\mu}_{0}}\vec{B}-\vec{M}=\frac{\vec{B}}{{\mu}_{0}(1+\chi_{b})}=\frac{\vec{B}}{\mu}$

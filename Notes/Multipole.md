@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-23
+---
 #Physics 
 Complex charge distributions can be approximated as a sum of different poles from far away enough
 ![[Assets/Images/Pasted image 20240220171556.png|700]]

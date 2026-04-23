@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \theta=\frac{\tau L}{GJ}$
 * $\displaystyle \theta$ is the angle of twist on one end of a uniaxial rod fixed at the other end

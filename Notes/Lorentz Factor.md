@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics
 ## $\gamma=\frac{1}{\sqrt{1-\frac{v^2}{c^2}}}$
 * Called the Lorentz’s factor

@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 For a particle that can either move left or right and makes $\displaystyle n$ steps each of size $\displaystyle \delta$
 ## Topics

@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Computers 
 A method of clustering data by minimizing $\displaystyle J$, or the [[distortion measure]]
 # Training

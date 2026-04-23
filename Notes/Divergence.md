@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle \nabla\cdot \vec{F}: \text{vector}\rightarrow \text{scalar}$
 ## $\displaystyle \nabla\cdot \vec{a}=\partial_{i}a_{i}$

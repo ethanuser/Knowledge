@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle C^{2}=A^{2}+B^{2}-2AB\cos \theta$
 * Can be derived by finding dot product of $\displaystyle \vec{c}=\vec{a}-\vec{b}$ with itself

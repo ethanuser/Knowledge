@@ -1,3 +1,7 @@
+---
+created: 2025-10-27
+modified: 2026-04-23
+---
 #Physics 
 [Intuitive Kerbel Space Program Explanation](https://www.youtube.com/watch?v=n5bKzBZ7XuM)
 * Also repeated in this [Vsauce video](https://www.youtube.com/watch?v=XHGKIzCcVa0&t=458s)

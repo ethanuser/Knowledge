@@ -1,6 +1,8 @@
 ---
 aliases:
   - Gauss's Theorem
+created: 2024-01-27
+modified: 2026-04-15
 ---
 #Math 
 ## $\displaystyle \iiint_\mathscr{W}\text{div}(\vec F)\space dV=\oint_S\vec F\cdot d\vec S$

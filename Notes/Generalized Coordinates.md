@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Physics 
 When dealing with Lagrangian/Hamiltonian mechanics, coordinates can have units of length, angles, energy, etc.
 ## Notation

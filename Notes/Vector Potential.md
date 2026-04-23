@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 Any field with 0 divergence can be written as a curl of another vector. $\displaystyle A$ is also not unique to form $\displaystyle \vec{B}$ since we could always add the gradient of some vector to it, as the curl of the gradient of a vector is 0, and curl is distributive
 ## $\displaystyle \nabla \times \vec{A}=\vec{B}$

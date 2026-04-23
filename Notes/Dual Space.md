@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle V^{*}=\left\{ L(V,\mathbb{F}) \right\}$
 * $\displaystyle V^{*}$ is the dual space of a vector space $\displaystyle V$ and is defined as the set of all linear transformations/functors of $\displaystyle V$ onto $\displaystyle \mathbb{F}$, a [[Fields|field]] or scalar

@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-23
+---
 #Math
 ## $\displaystyle L_{q}(x)\equiv \frac{e^{x}}{q!}\left( \frac{\mathrm{d} }{ \mathrm{d}x} \right)^{q}(e^{-x}x^{q})$
 * Used in [[associated Laguerre polynomial]]

@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Physics
 ## $$\begin{align}
 h&=6.626\cdot10^{-34}\mathrm{\,J\cdot s} \\

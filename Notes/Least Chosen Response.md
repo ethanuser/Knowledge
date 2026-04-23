@@ -1,3 +1,7 @@
+---
+created: 2023-08-20
+modified: 2026-04-15
+---
 #Math
 # Example 1
 If you were asked to choose a number from 1-100 that would be least chosen by other people, what would you choose?

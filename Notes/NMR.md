@@ -1,5 +1,7 @@
 ---
 alias: Nuclear Magnetic Resonance, Nuclear Magnetic Resonance Spectroscopy, NMR Spectroscopy
+created: 2023-08-29
+modified: 2026-04-15
 ---
 #Chemistry 
 # Physics Behind NMR

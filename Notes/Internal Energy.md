@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics 
 Often also noted as $\displaystyle E$. Is equal to $\displaystyle \varepsilon_{\text{env}}+\varepsilon_{s}$, where $\displaystyle \varepsilon_{\text{env}}$ is the energy of the environment and $\displaystyle \varepsilon_{s}$ is the energy of the system occupying a microstate $\displaystyle s$
 ## $\displaystyle U(\sigma,V,N)\Rightarrow\mathrm{d}U=\frac{ \partial U }{ \partial \sigma }\mathrm{d}\sigma+\frac{ \partial U }{ \partial V }\mathrm{d}V+\frac{\partial U }{\partial N}\mathrm{d}N=\tau \mathrm{d}\sigma-p\mathrm{d}V+\mu\mathrm{d}N$

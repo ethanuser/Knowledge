@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics
 Boundary conditions for light going through different media
 ## $\displaystyle {\varepsilon}_{1}E_{1}^{\perp}={\varepsilon}_{2}E_{2}^{\perp}$

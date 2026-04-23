@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Math 
 [[Regularization]] method that tends to shrink all coefficients to non-zero values
 ## Related

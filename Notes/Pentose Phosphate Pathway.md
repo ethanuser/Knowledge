@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-23
+---
 #Biochemistry 
 Converts glucose-6-phosphate into ribose-5-phosphate and [[NADPH]] used for [[Nucleosides|nucleoside]] synthesis
 ![[Assets/Images/Pasted image 20240902095129.png|500]]

@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-23
+---
 #Physics 
 ## $\displaystyle \frac{1}{a^{2}}+\frac{1}{b^{2}}=\frac{1}{h^{2}}$
 ![[Assets/Images/Pasted image 20231228181922.png|500]]

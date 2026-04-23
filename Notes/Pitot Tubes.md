@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-23
+---
 #Physics 
 ## $\displaystyle v=\sqrt{ \frac{2(P_{s}-P)}{\rho} }$ 
 * $\displaystyle v$ is the fluid velocity (on a plane, this would tell you how fast the plane is moving through the air)

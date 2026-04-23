@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Math 
 Gives the magnitude of a complex number in a $\displaystyle \mathbb{C}$ plane
 ## $\displaystyle \lvert z\rvert=z\bar{z}$

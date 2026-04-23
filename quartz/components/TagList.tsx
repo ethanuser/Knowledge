@@ -1,6 +1,7 @@
 import { FullSlug, resolveRelative } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
+import { getObsidianTagColor } from "../util/graphColors"
 
 const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const tags = fileData.frontmatter?.tags
@@ -9,9 +10,17 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
       <ul class={classNames(displayClass, "tags")}>
         {tags.map((tag) => {
           const linkDest = resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)
+          const tagColor = getObsidianTagColor(tag)
+          const tagStyle = tagColor
+            ? {
+                color: tagColor,
+                border: `1px solid ${tagColor}66`,
+                backgroundColor: `${tagColor}1f`,
+              }
+            : undefined
           return (
             <li>
-              <a href={linkDest} class="internal tag-link">
+              <a href={linkDest} class="internal tag-link" style={tagStyle}>
                 {tag}
               </a>
             </li>

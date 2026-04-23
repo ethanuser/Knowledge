@@ -1,3 +1,7 @@
+---
+created: 2023-08-12
+modified: 2026-04-15
+---
 #Computers
 A useful mathematics software that can do symbolic manipulation very well. Is a bit less intuitive than Desmos when it comes to plotting, but at least everything is integrated. Also has much less users than say Python (only about 14000 paid subscriptions vs. 8.2 million Python developers)
 ## How to Get for Free

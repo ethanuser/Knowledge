@@ -1,6 +1,8 @@
 ---
 aliases:
   - Godel's Incompleteness Theorem
+created: 2023-10-29
+modified: 2026-04-15
 ---
 #Math 
 [Veritasium Video](https://www.youtube.com/watch?v=HeQX2HjkcNo)

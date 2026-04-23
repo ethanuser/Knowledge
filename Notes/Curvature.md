@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Math 
 Gives how much a smooth curve ($\displaystyle \vec{r}'(t)\neq 0$ and is continuous$) bends
 ## $\displaystyle \kappa=\left\lVert \frac{\mathrm{d}\vec{T} }{ \mathrm{d}s}\right\rVert=\frac{\left\lVert \vec{T}'(t)\right\rVert}{\left\lVert \vec{r}'(t)\right\rVert}=\frac{\left\lVert \vec{r}'(t)\times \vec{r}''(t)\right\rVert}{\left\lVert \vec{r}'(t)\right\rVert^{3}}$

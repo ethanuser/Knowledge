@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle M(t)=P\left( 1+\frac{r}{n} \right)^{nt}$
 * $\displaystyle M(t)$ is money as a function of time

@@ -1,3 +1,7 @@
+---
+created: 2025-07-22
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle f(t)\text{ even} \leftrightarrow  F(j\omega)\text{ even}$
 ## $\displaystyle f(t)\text{ odd} \leftrightarrow  F(j\omega)\text{ odd}$

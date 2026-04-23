@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \rho\left( \frac{\partial \vec{v} }{\partial t}+(\vec{v}\cdot \nabla )\vec{v} \right)=-\nabla p+\eta \nabla ^{2}\vec{v}+\vec{f}_{\text{external}}$
 * $\displaystyle \rho$ is the mass density

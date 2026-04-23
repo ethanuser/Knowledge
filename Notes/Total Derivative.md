@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-23
+---
 #Math 
 [Video Link](https://www.youtube.com/watch?v=mICbKwwHziI)
 The derivative of a variable with respect to the change of all other variables. Only works if our function is reducible to just a function of the variable of interest

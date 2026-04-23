@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-23
+---
 #Math 
 ## $\mathbf{H}_{f}=\nabla _{x}^{2}f(x)\in \mathbb{R}^{n\times n}:(\nabla _{x}^{2}f(x))_{ij}=\partial_{x_{i},x_{j}}f(x)$
 

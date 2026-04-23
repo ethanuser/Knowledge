@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Math #Computers 
 By Novikoff 1962, Block 1962
 * For a dataset $\displaystyle \left\{ (x_{1},y_{1}),\ldots,(x_{N},y_{N})  \right\}$ with $\displaystyle R\geq \lVert x_{n}\rVert_{2}$ and labels $\displaystyle y_{n}\in \left\{ -1,1 \right\}$

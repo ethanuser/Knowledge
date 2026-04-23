@@ -2,6 +2,8 @@
 aliases:
   - 3D Delta Function
   - 3D Dirac Delta Function
+created: 2024-01-27
+modified: 2026-04-15
 ---
 #Math 
 ## $\displaystyle \delta ^{3}(\vec{r})=\delta(x)\delta (y)\delta(z)$

@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle S=-k_{B}\sum_{s}p_{s}\ln p_{s}\geq0$
 * Measures uncertainty of the system

@@ -1,3 +1,7 @@
+---
+created: 2025-07-22
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle F_{\text{through }A}=\int _{A}\sigma(x,y)  \, \mathrm{d}A\approx \sum_{i\in \text{edges that intersect }A}(\sigma_{i}a_{\text{voronoi }i})(\hat{d}_{i}\cdot \hat{n})$
 * This is the total axial force through a plane $\displaystyle A$ of a body defined by a mesh

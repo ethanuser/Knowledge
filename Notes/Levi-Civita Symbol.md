@@ -2,6 +2,8 @@
 aliases:
   - Permutation Symbol
   - Permutation Tensor
+created: 2023-10-29
+modified: 2026-04-15
 ---
 #Math #Physics 
 [Wolfram Article](https://mathworld.wolfram.com/PermutationSymbol.html)

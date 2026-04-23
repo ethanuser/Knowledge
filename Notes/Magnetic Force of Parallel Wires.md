@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle f=\frac{{\mu}_{0}}{2\pi} \frac{I_{1}I_{2}}{d}$
 * Magnitude of the force per unit length

@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 For [[fermions]] in a uniform magnetic field $\displaystyle \vec{B}=B_{0}\hat{k}$:
 ## $\displaystyle {\left\langle{S_{x}}\right\rangle}=-\frac{\hbar}{2}\sin \alpha \sin(\omega t)$

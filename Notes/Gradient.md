@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle \nabla f:\text{scalar}\rightarrow \text{vector}=\partial_{i}f_{i}e_{i}$
 * Can be thought of as the vector pointing to the direction which would lead to fastest ascent/increase of $\displaystyle f$

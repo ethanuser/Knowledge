@@ -2,6 +2,8 @@
 aliases:
   - Degree of Unsaturation
   - Hydrogen Deficiency Index
+created: 2023-08-29
+modified: 2026-04-15
 ---
 #Chemistry 
 ## $\displaystyle \text{DBE}=\frac{\sum (V-2)}{2}+1$

@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-23
+---
 #Math 
 [Wolfram Article](https://mathworld.wolfram.com/SphericalCoordinates.html)
 ![[Assets/Images/Pasted image 20231029181012.png|400]]

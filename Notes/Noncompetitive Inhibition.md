@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-23
+---
 #Biochemistry 
 [[Allosteric Regulation|Allosteric inhibitor]] binds equally to the enzyme and the ES complex
 ![[Assets/Images/Pasted image 20231101121531.png|400]]

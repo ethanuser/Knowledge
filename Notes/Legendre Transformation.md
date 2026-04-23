@@ -1,6 +1,8 @@
 ---
 aliases:
   - Legendre Transformations
+created: 2023-10-29
+modified: 2026-04-15
 ---
 #Physics 
 ## [Source](https://www.aapt.org/docdirectory/meetingpresentations/sm14/mungan-poster.pdf) 

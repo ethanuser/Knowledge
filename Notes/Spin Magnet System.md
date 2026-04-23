@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \Omega(N,s)=\frac{N!}{\left( \frac{1}{2}N+s \right)!\left( \frac{1}{2}N-s \right)!}=\frac{N!}{N_{\uparrow}!N_{\downarrow}!}$
 * $\displaystyle \Omega$ is the [[Multiplicity|multiplicity function]]

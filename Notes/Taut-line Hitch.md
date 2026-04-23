@@ -1,3 +1,7 @@
+---
+created: 2026-04-15
+modified: 2026-04-15
+---
 ![Tautline Hitch - How to tie a Tautline Hitch](https://www.netknots.com/download_file/533/0)
 ## Steps
 1. Loop string around stick

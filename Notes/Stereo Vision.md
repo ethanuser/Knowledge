@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-23
+---
 #Computers 
 A way to get 3D information from 2D images
 ![[Assets/Images/Pasted image 20240306103137.png|700]]

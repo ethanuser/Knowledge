@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Math 
 Gives the error in the model based on the parameters (weights) and some labeled input data
 ## Topics

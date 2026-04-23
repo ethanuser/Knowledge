@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Chemistry 
 ## $\displaystyle K=\frac{[A]_{\text{solvent 1}}}{[A]_{\text{solvent 2}}}$
 * $\displaystyle K$ is an equilibrium constant for a particular compound $\displaystyle A$ and solvents 1 and 2

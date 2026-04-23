@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-23
+---
 #Math 
 Used to calculate distance for categorial data, and it's the number of coordinates for each dimension that are different
 ![[Assets/Images/Pasted image 20240503120936.png|300]]

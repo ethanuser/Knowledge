@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \braket{ \psi|\hat{Q}' |  \psi}=\braket{ \psi' | \hat{Q}|\psi' }$
 * How a transformation is defined

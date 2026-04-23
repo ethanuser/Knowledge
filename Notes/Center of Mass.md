@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \vec{R}=\frac{1}{M}\sum_{\alpha}m_{\alpha}\vec{r}_{\alpha}$
 * $\displaystyle \vec{R}$ is the position of center of mass of the system

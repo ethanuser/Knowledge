@@ -2,6 +2,8 @@
 aliases:
   - Wave Functions
   - Quantum State
+created: 2023-10-29
+modified: 2026-04-15
 ---
 #Physics 
 Solves the [[Schrodinger equation]]

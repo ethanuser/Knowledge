@@ -1,6 +1,8 @@
 ---
 aliases:
   - Cluster Prototypes
+created: 2025-04-03
+modified: 2026-04-15
 ---
 #Computers #Math 
 ## $\displaystyle \mu_{k}= \frac{\sum_{n = 1}^{N} r_{nk} x_{n}}{\sum_{n = 1}^{N} r_{nk}}$

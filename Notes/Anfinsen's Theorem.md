@@ -1,2 +1,6 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Biochemistry 
 [[Proteins]] fold spontaneously, and their [[tertiary structure]] is determined by the primary sequence. He determined this by denaturing proteins and then allowing them to refold by themselves. However, chaperone proteins counteract the notion that proteins fold by themselves

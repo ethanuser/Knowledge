@@ -1,2 +1,6 @@
+---
+created: 2025-10-27
+modified: 2026-04-15
+---
 #Math 
 An assumption required for [[ANOVA]] that states variances of the differences between all possible pairs of within-subject conditions are equal. Can use [[Mauchly's Test of Sphericity]] to verify

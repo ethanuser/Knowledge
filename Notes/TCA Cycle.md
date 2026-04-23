@@ -3,6 +3,8 @@ aliases:
   - Kreb's Cycle
   - Citric Acid Cycle
   - Tricarboxylic Acid Cycle
+created: 2024-01-27
+modified: 2026-04-23
 ---
 t#Biochemistry
 Produces 3 [[NADH]] (additionally 1 for conversion of pyruvate to acetyl-CoA) and also 2 [[CO2]] per cycle

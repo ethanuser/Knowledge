@@ -1,6 +1,8 @@
 ---
 aliases:
   - Triple Vector Product
+created: 2024-01-27
+modified: 2026-04-15
 ---
 #Math 
 ## $\displaystyle \vec{a}\times(\vec{b}\times \vec{c})=\vec{b}(\vec{a}\cdot \vec{c})-\vec{c}(\vec{a}\cdot \vec{b})$

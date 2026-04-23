@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \sigma_{B}=\frac{\pi ^{2}k_{B}^{4}}{60\hbar ^{3}c^{2}}\approx 5.670374419\cdot10^{-8}\mathrm{\frac{W}{m^{2}K^{4}}}$
 * Used in [[Stefan-Boltzmann Law]]

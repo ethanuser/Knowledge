@@ -2,6 +2,8 @@
 aliases:
   - Range
   - Columnspace
+created: 2025-02-09
+modified: 2026-04-15
 ---
 #Math 
 ## $\text{im}(T)=\{T(\vec x):\vec x\in \mathbb{R}^m\}=\text{span}(\vec v_1,\ldots,\vec v_m)$

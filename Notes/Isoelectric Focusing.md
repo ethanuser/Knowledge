@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Biochemistry 
 Acidic gel at positive anode and basic gel at negative cathode. Amino acids separate based on pI with lower pI amino acids attracted to the anode and higher pI amino acids attracted to cathode
 ## Mnemonic

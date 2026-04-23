@@ -1,3 +1,7 @@
+---
+created: 2023-09-16
+modified: 2026-04-15
+---
 #Math 
 Let $\displaystyle p$ be a prime number
 Prove: $\displaystyle p^{1/n}\neq \frac{a}{b}~\forall~a\in \mathbb{Z},b\in \mathbb{Z}-\left\{ 0,1 \right\},n\in 2,3,4\ldots$

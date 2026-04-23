@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 Has no definite energy. Because $\displaystyle p=\hbar k$, you can replace the below equations of $\displaystyle k$ with $\displaystyle \frac{p}{\hbar}$
 ## Topics

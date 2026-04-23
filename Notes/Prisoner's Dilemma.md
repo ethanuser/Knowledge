@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Math 
 [Veritasium Video](https://www.youtube.com/watch?v=mScpHTIi-kM)
 [Machine Learning Strategies with Memory Greater Than 1 Previous Game](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5724862/)

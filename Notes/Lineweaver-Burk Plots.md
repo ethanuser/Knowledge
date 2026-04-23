@@ -1,6 +1,8 @@
 ---
 aliases:
   - Lineweaver-Burk Plot
+created: 2023-10-06
+modified: 2026-04-23
 ---
 #Biochemistry 
 ## $\displaystyle \frac{1}{v}\left( \frac{1}{s} \right)=\frac{K_{m}}{v_{\text{max}}}\left( \frac{1}{s} \right)+\frac{1}{v_{\text{max}}}$

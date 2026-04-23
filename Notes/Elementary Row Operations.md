@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Math 
 The following operations are the only ones allowed when solving systems by rref method
 1. Scale a row by a nonzero factor

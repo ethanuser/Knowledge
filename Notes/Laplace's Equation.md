@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Math 
 ## $\displaystyle \nabla ^{2} V=0$
 * The [[laplacian]] of a scalar potential

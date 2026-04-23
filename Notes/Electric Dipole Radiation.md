@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-23
+---
 #Physics 
 ## $\displaystyle V(r,\theta,t)=- \frac{p_{0}\omega}{4\pi {\varepsilon}_{0}c}\left( \frac{\cos \theta}{r} \right)\sin[\omega(t-r/ c)]$
 * Voltage due to a dipole along the $\displaystyle z$ axis a distance $\displaystyle r$ from the center of the dipole and angle $\displaystyle \theta$ that is between the plane intersecting the center of and perpendicular to the dipole at a time $\displaystyle t$

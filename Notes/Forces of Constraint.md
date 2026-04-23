@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle Q_{j}=\sum_{k}\lambda_{k}\frac{ \partial f_{k} }{ \partial q_{j} }$
 * $\displaystyle Q_{j}$ is the force of constraint for a given coordinate $\displaystyle q_{j}$

@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Physics 
 Another way to use an equation of [[holonomic]] constraint to reduce the degrees of freedom of a system rather than simply performing a substitution using the equation of constraint. Is used to find the [[forces of constraint]]
 ## Notes

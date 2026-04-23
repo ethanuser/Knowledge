@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle \mathscr{L}=\mathscr{K}-\mathscr{U}=-\frac{1}{2}\Box \phi$
 * $\displaystyle \mathscr{L}$ is the [[Lagrangian density]] for a spin 0 particle

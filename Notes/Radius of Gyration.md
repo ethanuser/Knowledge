@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle {\left\langle{R_{G}^{2}}\right\rangle}\equiv \frac{1}{N}\sum_{i = 1}^{N}{\left\langle{R_{i}-R_{\text{CM}}^{2}}\right\rangle}$
 * $\displaystyle R_{\text{CM}}^{2}$ is the position of the center of mass of the polymer

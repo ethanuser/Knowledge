@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Math 
 Takes small steps using first derivative information to arrive at root, or minima of a function. Similar to [[Newton's Method]] except it converges slower if using constant step sizes
 ## $\displaystyle \theta^{t+1} \leftarrow \theta^{t}-\eta \frac{\partial f }{\partial \theta}$

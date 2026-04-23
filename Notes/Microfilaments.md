@@ -1,6 +1,8 @@
 ---
 aliases:
   - Actin Filaments
+created: 2023-09-16
+modified: 2026-04-23
 ---
 #Biology 
 ~7 nm

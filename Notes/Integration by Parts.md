@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-23
+---
 #Math 
 Integration technique, undos chain rule
 ## $\displaystyle \int fg' \, \mathrm{d}x=fg-\int gf' \, \mathrm{d}x$

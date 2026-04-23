@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 ## $\Delta t=\gamma\Delta t_0$
 * This equation describes the time dilation of an event that is stationary in $S'$ as observed by someone in the reference frame $S$

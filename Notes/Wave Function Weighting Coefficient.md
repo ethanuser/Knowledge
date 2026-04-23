@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics 
 The coefficients multiplying eigenfunctions that add up to the wave function. May vary for continuous spectra
 # Energy

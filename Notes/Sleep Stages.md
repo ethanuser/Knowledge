@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Health 
 Typically goes 1-2-3-4-3-2-REM or 1-2-3-4-REM and repeats every 90 minutes with REM frequency increasing toward morning
 ## Stages

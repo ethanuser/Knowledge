@@ -1,6 +1,8 @@
 ---
 aliases:
   - Triple Scalar Product
+created: 2024-01-27
+modified: 2026-04-15
 ---
 #Math 
 ## $\displaystyle \vec{a}\cdot(\vec{b}\times \vec{c})=b\cdot(c\times \vec{a})=\vec{c}\cdot(\vec{a}\times \vec{b})$

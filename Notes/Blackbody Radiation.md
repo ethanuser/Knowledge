@@ -2,6 +2,8 @@
 aliases:
   - Blackbody
 alias: Incadescence
+created: 2023-10-29
+modified: 2026-04-15
 ---
 #Physics 
 When light is emitted from a hot body due to the thermal excitations wiggling charges in the object

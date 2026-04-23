@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Math 
 [3b1b Video](https://www.youtube.com/watch?v=IaSGqQa5O-M)
 ## $\displaystyle p_{X+Y}(s)=[p_{X}*p_{Y}](s)=[p_{Y}*p_{X}](s)$

@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Biochemistry 
 ## $\displaystyle \text{Catalytic Efficiency}=\frac{k_{\text{cat}}}{K_{m}}$
 * This is the rate that ES becomes EP regardless of the concentration of substrate

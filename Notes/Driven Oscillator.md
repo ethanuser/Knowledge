@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 ## $\ddot x + 2 \beta \dot x + \omega_0^2 x = \frac{F_0}{m}\cos \omega t$
 * Driven oscillation differential equation

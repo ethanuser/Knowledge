@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle J=\int_{0}^{r} \rho ^{2} \, \mathrm{d}A$
 * $\displaystyle r$ is the total radius of a rod under torsion

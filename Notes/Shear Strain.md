@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-23
+---
 #Physics 
 [Video tutorial](https://www.youtube.com/watch?v=1YTKedLQOa0)
 ## $\displaystyle \gamma$

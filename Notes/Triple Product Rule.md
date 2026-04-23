@@ -1,3 +1,7 @@
+---
+created: 2023-10-06
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle f(x,y,z)=0\rightarrow \frac{ \partial x }{ \partial y }\frac{ \partial y }{ \partial z }\frac{ \partial z }{ \partial x }=-1$ 
 * Mathematical version of triple product rule

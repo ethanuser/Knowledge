@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle B_{\text{wire}}=\frac{{\mu}_{0}I}{2\pi r}$
 * The magnitude of the magnetic field $\displaystyle B_{\text{wire}}$ of an infinitely long straight wire carrying current $\displaystyle I$ measured a distance $\displaystyle r$ from the wire

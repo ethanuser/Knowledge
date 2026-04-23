@@ -1,3 +1,7 @@
+---
+created: 2024-01-27
+modified: 2026-04-15
+---
 #Physics 
 Flow speeds faster than the critical speed of a fluid result in [[turbulent flow]]. Speeds slower produce [[laminar flow]]
 ## $\displaystyle v_{c}=\frac{N_{R}\eta}{\rho D}$

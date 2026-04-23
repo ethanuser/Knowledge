@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-23
+---
 #Computers 
 ## Misc
 * $\displaystyle \lVert \vec{x}\rVert_{p}=\left( \sum_{i}\lvert x_{i}\rvert^{p} \right)^{\frac{1}{p}}$

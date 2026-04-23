@@ -2,6 +2,8 @@
 aliases:
   - Kohlberg's Stages of Moral Development
   - Moral Development
+created: 2024-01-27
+modified: 2026-04-23
 ---
 #Psychology 
 ## Stages

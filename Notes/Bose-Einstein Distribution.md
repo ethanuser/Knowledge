@@ -1,6 +1,8 @@
 ---
 aliases:
   - Bose-Einstein Statistics
+created: 2024-01-27
+modified: 2026-04-15
 ---
 #Physics 
 ## $\displaystyle f(\varepsilon)=\frac{1}{e^{\beta \varepsilon}-1}$

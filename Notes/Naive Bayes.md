@@ -1,3 +1,7 @@
+---
+created: 2025-04-03
+modified: 2026-04-15
+---
 #Computers 
 Models the probability of observing data $\displaystyle x$ and that the class of our target is $\displaystyle c$. Generative model that aims to maximize the joint likelihood $\displaystyle \sum_{n}\log p(x_{n},y_{n})$.
 ## $\displaystyle P(X=x,Y=c)=\pi_{c}\prod_{k}\theta^{z_{k}}_{ck},X \in \mathbb{R}^{D},Y\in [C]$

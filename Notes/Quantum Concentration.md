@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics 
 ## $\displaystyle n_{Q}\equiv\left( \frac{M\tau}{2\pi \hbar ^{2}} \right)^{d/2}$
 * Gives the number of particles per unit volume when the inter particle distance equals the thermal de Broglie wavelength

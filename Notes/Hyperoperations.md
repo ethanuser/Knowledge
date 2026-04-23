@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Math 
 [Wikipedia](https://en.wikipedia.org/wiki/Hyperoperation)
 $$

@@ -1,3 +1,7 @@
+---
+created: 2023-10-29
+modified: 2026-04-15
+---
 #Physics 
 Heat is the spontaneous energy flow between two systems at different temperatures
 ## $\displaystyle \mathrm{d}\kern{-4.3pt}\bar{\small\phantom{q}}Q=\tau \mathrm{d}\sigma$

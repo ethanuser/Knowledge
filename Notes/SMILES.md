@@ -1,3 +1,7 @@
+---
+created: 2023-08-12
+modified: 2026-04-15
+---
 #Chemistry 
 # [SMILES Guide](https://archive.epa.gov/med/med_archive_03/web/html/smiles.html)
 # [Wikipedia on Simplified Molecular Input Line-Entry System](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system)

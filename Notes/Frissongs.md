@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Personal 
 * The Amazing Digital Circus Episode 2 [18:08](https://youtu.be/4ofJpOEXrZs?t=1088)-18:41 when Pomni and Gumingoo launch out of the test map
 * [Casiopea - Tears of the Star](https://www.youtube.com/watch?v=AT6YDPWaty4)

@@ -9,6 +9,8 @@ import { QuartzPluginData } from "../../plugins/vfile"
 import { ComponentChildren } from "preact"
 import { concatenateResources } from "../../util/resources"
 import { trieFromAllFiles } from "../../util/ctx"
+// @ts-ignore
+import folderSortScript from "../scripts/folderSort.inline"
 
 interface FolderContentOptions {
   /**
@@ -105,7 +107,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     return (
       <div class="popover-hint">
         <article class={classes}>{content}</article>
-        <div class="page-listing">
+        <div class="page-listing" data-folder-sortable="true">
           {options.showFolderCount && (
             <p>
               {i18n(cfg.locale).pages.folderContent.itemsUnderFolder({
@@ -113,6 +115,29 @@ export default ((opts?: Partial<FolderContentOptions>) => {
               })}
             </p>
           )}
+          <div class="folder-table-header" role="group" aria-label="Folder sort controls">
+            <button type="button" class="folder-sort-btn" data-sort-key="created">
+              Date Added
+              <span class="sort-icons" aria-hidden="true">
+                <span class="sort-up">▲</span>
+                <span class="sort-down">▼</span>
+              </span>
+            </button>
+            <button type="button" class="folder-sort-btn" data-sort-key="title">
+              Title
+              <span class="sort-icons" aria-hidden="true">
+                <span class="sort-up">▲</span>
+                <span class="sort-down">▼</span>
+              </span>
+            </button>
+            <button type="button" class="folder-sort-btn" data-sort-key="tag">
+              Tag
+              <span class="sort-icons" aria-hidden="true">
+                <span class="sort-up">▲</span>
+                <span class="sort-down">▼</span>
+              </span>
+            </button>
+          </div>
           <div>
             <PageList {...listProps} />
           </div>
@@ -122,5 +147,6 @@ export default ((opts?: Partial<FolderContentOptions>) => {
   }
 
   FolderContent.css = concatenateResources(style, PageList.css)
+  FolderContent.afterDOMLoaded = folderSortScript
   return FolderContent
 }) satisfies QuartzComponentConstructor

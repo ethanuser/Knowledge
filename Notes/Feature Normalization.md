@@ -1,3 +1,7 @@
+---
+created: 2025-02-09
+modified: 2026-04-15
+---
 #Computers 
 In some machine learning algorithms, failing to normalize features results in that feature being over or underrepresented
 ## $\displaystyle x_{\text{normalized}}= \frac{x-\bar{x}}{s_{d}}$
