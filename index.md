@@ -5,6 +5,7 @@ Welcome to my digital garden! This is where I share my thoughts and keep track o
 ## Latest Articles
 [My First Blog Post](Blog/First%20Blog%20Post.md)
 [[Are Stories Data or are Data Stories?]]
+[[Joke Repo]]
 
 ---
 ## Knowledge Wiki
