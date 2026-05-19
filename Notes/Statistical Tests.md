@@ -59,4 +59,4 @@ Assume variances between groups are equal
 ## Nonlinear Regression
 # Categorical Data
 # Survival Analysis
-# 
+* [[Log-Rank Test]]
